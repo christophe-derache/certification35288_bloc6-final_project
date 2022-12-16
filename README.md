@@ -2,8 +2,8 @@
 ## Predicting real estate prices for flats and houses in the city of Lyon (France).
 
 Team of the project :
-- Arnaud Dalais&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: arnaud.dalais@free.fr
-- Christophe Derache&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: christophe.derache@gmail.com
+- Arnaud Dalais&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: arnaud.dalais@free.fr
+- Christophe Derache&nbsp;&nbsp;&nbsp;: christophe.derache@gmail.com
 - Vincent Galli          : galli.vincent.ts6@live.fr
 - Lise Gnos              : lise.gnos@gmail.com
 
