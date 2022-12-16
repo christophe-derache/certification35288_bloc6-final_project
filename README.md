@@ -6,7 +6,7 @@
 
 > Video link : 👉  👈
 
-The project aims at predicting real estate prices for flats and houses in the city of Lyon (France).
+***The project aims at predicting real estate prices for flats and houses in the city of Lyon (France).***
 
 Team of the project :
 - Arnaud Dalais&emsp;&emsp;&emsp;: arnaud.dalais@free.fr
@@ -14,7 +14,7 @@ Team of the project :
 - Vincent Galli&emsp;&emsp;&emsp;&nbsp;&nbsp;: galli.vincent.ts6@live.fr
 - Lise Gnos&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;: lise.gnos@gmail.com
 
-The project contains 3 parts :
+**The project contains 3 parts :**
 - Data collection
 - Machine learning
 - App : deployment of 2 apps
@@ -25,7 +25,7 @@ The following file contains the slides we prepared for our Demoday that took pla
 Demoday replay on Youtube :
 > https://www.youtube.com/watch?v=Hbn9JkuRaWk (read from 39 minutes)
 
-## You can test yourself our application available **online**: 
+And if you want to test yourself our application, it's available **online**: 
 > https://app-streamlit-immo.herokuapp.com/
 
 # 1/ DATA COLLECTION
