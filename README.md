@@ -16,18 +16,18 @@ Team of the project :
 - You can test our application online : 
 >> https://app-streamlit-immo.herokuapp.com/
 
-## Descriptions about our code
+## Descriptions about the code
 
-The project contains 3 parts :
+The project has been built in 3 parts :
 - Data collection
 - Machine learning
 - App : deployment of 2 apps
 
-# DATA COLLECTION
+## DATA COLLECTION
 
 Our data come from several sources.
 
-## Source 1 : 'Demande de valeurs foncières'
+### Source 1 : 'Demande de valeurs foncières'
 
 Database from Etalab https://app.dvf.etalab.gouv.fr/
 Database from Insee https://www.insee.fr/fr/statistiques/6665809#tableau-ipla-g1-fr
@@ -47,7 +47,7 @@ In this notebook we take the csv file from Etalab for the city of Lyon. The file
 > Notebook : ‘data_collection/EDA_and_cleaning/etalab_EDA.ipynb’
 in this notebook we make different visualizations
 
-## Source 2 : Web scraping
+### Source 2 : Web scraping
 
 Sources of web-scraping: www.ferro-lyon.net / geodatamine.fr
 
@@ -57,7 +57,7 @@ metro / tram stations in Lyon
 > Output of these scripts : “save_output_scraping” folder 
 (these files have been moved into clean_and_concatenation folder)
 
-## Data cleaning
+### Data cleaning
 
 > folder : data_collection/clean_and_concatenation_metrotram_geodatamine/
 You will find into this folder 4 jupyter notebooks and all data sources.
@@ -66,7 +66,7 @@ You will find into this folder 4 jupyter notebooks and all data sources.
 		3- both previous cleaned data concatenation
 		4- final dataframe creation
 
-## Calculation of distances
+### Calculation of distances
 
 > Notebook : ‘data_collection/distance_computing/add_distances.ipynb’
 > Input of the notebook : 
@@ -75,7 +75,7 @@ You will find into this folder 4 jupyter notebooks and all data sources.
 			 
 > Output of the notebook :
 			save_output/20221129-114802-full.csv
-## Source 3
+### Source 3 - creating a geokey
 
 > Notebook : 'data_collection/code-etalab-geokey.ipynb'
 
@@ -85,7 +85,7 @@ For each row, we get a geokey (unique key for one address) by using the API : ht
 
 > Output of the notebook : 'src/df_etalab_geokey_221130.csv'
 
-## Source 2 : 'Diagnostics DPE'
+### Source 4 : 'Diagnostics DPE'
 
 Databases from ADEME agency (3 csv files) :
 - https://www.data.gouv.fr/fr/datasets/5ee2391763c79811ddfbc86a/
@@ -106,7 +106,7 @@ The concatenated dataset was also completed with the geokey.
 
 > Output of the notebook : 'src/df_dpe_geokey_221129.csv'
 
-## Joining the 2 sources
+### Joining the 2 sources
 
 > Inputs of the notebook :
 > - 'src/df_etalab_geokey_221130.csv'
@@ -122,31 +122,23 @@ We did a left join and also an inner join.
 > - 'src/df_model_inner_221201.csv'
 
 
+## MACHINE LEARNING
 
-
-
-
-# MACHINE LEARNING
-
-## Test several models and choose the best
+### Test several models and choose the best
 
 > Notebook : machine_learning/immoML_DBSCAN_XGBoost.ipynb
 input: nouveaux_datasets/df_model_inner_221201.csv
 output : machine_learning/dataframes of scores for each loop on several models
 
-## Train the best model on all datas and export the model + preprocessor
+### Train the best model on all datas and export the model + preprocessor
 
 > Notebook : machine_learning/train_and_save_best_ML_model.ipynb
 input: nouveaux_datasets/df_model_inner_221201.csv
 output: machine_learning/model_recorded/name_mode.joblib
 
+## APP
 
-
-
-
-# APP
-
-## Streamlit app
+### Streamlit app
 
 > Script : 'immo-lyon-app.py'
 
@@ -166,7 +158,7 @@ URL of the API :
 https://app-streamlit-immo.herokuapp.com/
 
 
-## FastAPI app
+### FastAPI app
 
 > Script : 'app.py'
 
