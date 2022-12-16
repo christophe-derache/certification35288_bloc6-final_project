@@ -5,20 +5,22 @@ Team of the project :
 - Arnaud Dalais&emsp;&emsp;&emsp;: arnaud.dalais@free.fr
 - Christophe Derache&nbsp;: christophe.derache@gmail.com
 - Vincent Galli&emsp;&emsp;&emsp;&nbsp;&nbsp;: galli.vincent.ts6@live.fr
-- Lise Gnos&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;: lise.gnos@gmail.com
+- Lise Gnos&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;: lise.gnos@gmail.com
+
+## PRESENTATION LINK (VIDEO) : *************************
+## PRESENTATION PPTX : Projet immobilier Lyon.pptx
+## DEMODAY REPLAY ON YOUTUBE : 
+https://www.youtube.com/watch?v=Hbn9JkuRaWk (read from 39 minutes)
+
+## YOU CAN TEST THE APPLICATION ONLINE : 
+ https://app-streamlit-immo.herokuapp.com/
+
+## Descriptions about our code
 
 The project contains 3 parts :
 - Data collection
 - Machine learning
 - App : deployment of 2 apps
-
-# PRESENTATION LINK (VIDEO) : *************************
-# PRESENTATION PPTX : Projet immobilier Lyon.pptx
-# DEMODAY REPLAY ON YOUTUBE : 
-https://www.youtube.com/watch?v=Hbn9JkuRaWk (read from 39 minutes)
-
-# YOU CAN TEST THE APPLICATION ONLINE : 
- https://app-streamlit-immo.herokuapp.com/
 
 # DATA COLLECTION
 
