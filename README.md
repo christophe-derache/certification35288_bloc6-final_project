@@ -5,7 +5,7 @@ Team of the project :
 - Arnaud Dalais&emsp;&emsp;&emsp;: arnaud.dalais@free.fr
 - Christophe Derache&nbsp;: christophe.derache@gmail.com
 - Vincent Galli&emsp;&emsp;&emsp;&nbsp;&nbsp;: galli.vincent.ts6@live.fr
-- Lise Gnos              : lise.gnos@gmail.com
+- Lise Gnos&emsp;&emsp;&nbsp;&nbsp;: lise.gnos@gmail.com
 
 The project contains 3 parts :
 - Data collection
