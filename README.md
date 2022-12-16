@@ -1,8 +1,8 @@
 # Bloc_6
-## **Final project for certification**
+## **Final project**
 
-#####Contact:Christophe DERACHE
-#####E-mail&nbsp;:christophe.derache@gmail.com
+##### Contact:Christophe DERACHE
+##### E-mail&nbsp;:christophe.derache@gmail.com
 
 > Video link : 👉  👈
 
