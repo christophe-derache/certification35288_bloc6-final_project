@@ -19,6 +19,8 @@ Team of the project :
 - Machine learning
 - App : deployment of 2 apps
 
+#
+
 >**Before diving into details, there's some few ressources you'd see :**
 >##### The following file contains the slides we prepared for our Demoday that took place in December 6th 2022 :
 >> Presentation pptx : Projet immobilier Lyon.pptx
@@ -28,6 +30,8 @@ Team of the project :
 >
 >##### And if you want to test yourself our application, it's available **online**: 
 >> https://app-streamlit-immo.herokuapp.com/
+
+#
 
 # 1/ DATA COLLECTION
 
