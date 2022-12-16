@@ -2,7 +2,7 @@
 ## **Final project**
 
 - **Contact**: *Christophe DERACHE*
-- **E-mail**&nbsp;&nbsp;&nbsp;: *christophe.derache@gmail.com*
+- **E-mail**&nbsp;&nbsp;: *christophe.derache@gmail.com*
 
 > Video link : 👉  👈
 
@@ -25,7 +25,7 @@ The following file contains the slides we prepared for our Demoday that took pla
 Demoday replay on Youtube :
 > https://www.youtube.com/watch?v=Hbn9JkuRaWk (read from 39 minutes)
 
-# YOU CAN TEST THE APPLICATION ONLINE : 
+## You can test yourself our application available **online**: 
 > https://app-streamlit-immo.herokuapp.com/
 
 # 1/ DATA COLLECTION
