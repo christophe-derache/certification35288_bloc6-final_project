@@ -1,18 +1,18 @@
 # Bloc_6
 **Final project for certification**
 
-Contact : Lise Gnos  
-email : lise.gnos@gmail.com
+Contact:Christophe DERACHE
+E-mail&nbsp;:christophe.derache@gmail.com
 
 > Video link : 👉  👈
 
 The project aims at predicting real estate prices for flats and houses in the city of Lyon (France).
 
 Team of the project :
-- Arnaud Dalais : arnaud.dalais@free.fr
-- Christophe Derache : christophe.derache@gmail.com
-- Vincent Galli : galli.vincent.ts6@live.fr
-- Lise Gnos : lise.gnos@gmail.com
+- Arnaud Dalais&emsp;&emsp;&emsp;: arnaud.dalais@free.fr
+- Christophe Derache&nbsp;: christophe.derache@gmail.com
+- Vincent Galli&emsp;&emsp;&emsp;&nbsp;&nbsp;: galli.vincent.ts6@live.fr
+- Lise Gnos&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;: lise.gnos@gmail.com
 
 The project contains 3 parts :
 - Data collection
