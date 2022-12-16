@@ -7,13 +7,14 @@ Team of the project :
 - Vincent Galli&emsp;&emsp;&emsp;&nbsp;&nbsp;: galli.vincent.ts6@live.fr
 - Lise Gnos&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;: lise.gnos@gmail.com
 
-## PRESENTATION LINK (VIDEO) : *************************
-## PRESENTATION PPTX : Projet immobilier Lyon.pptx
-## DEMODAY REPLAY ON YOUTUBE : 
-https://www.youtube.com/watch?v=Hbn9JkuRaWk (read from 39 minutes)
+## Video link to reach my personnal presentation about this project : *************************
 
-## YOU CAN TEST THE APPLICATION ONLINE : 
- https://app-streamlit-immo.herokuapp.com/
+## Other ressources:
+- Slides: Projet immobilier Lyon.pptx
+- Demoday replay on YOUTUBE : 
+>> https://www.youtube.com/watch?v=Hbn9JkuRaWk (read from 39 minutes)
+- You can test our application online : 
+>> https://app-streamlit-immo.herokuapp.com/
 
 ## Descriptions about our code
 
