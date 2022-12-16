@@ -1,0 +1,2 @@
+model,r2_score_train,r2_score_test,MAPE_train,MAPE_test,surface_max,surface_min,prix_min,prix_max,prix_m2_mini,prix_m2_max
+XGBRegressor,0.9108904785319455,0.8400838817683716,0.009286090958940845,0.012473011398865374,175.0,15.0,40000.0,1250000.0,1200.0,8000.0

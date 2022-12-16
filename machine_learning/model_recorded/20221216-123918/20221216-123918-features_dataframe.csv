@@ -1,0 +1,16 @@
+,feature_list,target_variable
+0,surface_reelle_bati,log_val_fon
+1,longitude,log_val_fon
+2,latitude,log_val_fon
+3,nombre_pieces_principales,log_val_fon
+4,type_local,log_val_fon
+5,year,log_val_fon
+6,index_prix,log_val_fon
+7,closest_school_(m),log_val_fon
+8,closest_bakery_(m),log_val_fon
+9,closest_supermarket_(m),log_val_fon
+10,closest_metro_(m),log_val_fon
+11,closest_tram_(m),log_val_fon
+12,annee_construction_dpe,log_val_fon
+13,arrdt_int,log_val_fon
+14,diag_dpe_int,log_val_fon

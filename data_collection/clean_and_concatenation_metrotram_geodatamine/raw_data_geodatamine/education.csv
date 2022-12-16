@@ -1,0 +1,543 @@
+X;Y;osm_id;name;type;type_fr;statut;ref_uai;wikidata;com_insee;com_nom
+4.8544188;45.7468695003799;node/10075846802;Crèche Blandan;kindergarten;;;;;"69123";Lyon
+4.8692917;45.7577470003784;node/10126380883;L'Arc en ciel;kindergarten;;association;;;"69123";Lyon
+4.8756458;45.7331359003818;node/10127767102;Crèche André Roux;kindergarten;;;;;"69123";Lyon
+4.8776588;45.7359741003815;node/10128104663;La Fourmi;school;;;;;"69123";Lyon
+4.8657296;45.7564448003786;node/10159313320;CREAD École d'Architecture Intérieure;college;;private;;;"69123";Lyon
+4.8539854;45.7333968003818;node/10169961609;Crèche les copains d'abord;kindergarten;;;;;"69123";Lyon
+4.8712035;45.7399135003809;node/10171906417;centre de formation;school;;;;;"69123";Lyon
+4.8509323;45.7579329003784;node/1035630764;Crèche Boileau;kindergarten;;;;;"69123";Lyon
+4.8217642;45.7524104003792;node/1275874296;Les P'Tits Malins;kindergarten;;;;;"69123";Lyon
+4.8678952;45.7476542003798;node/1346757506;Groupe ACPPA - Les cristallines;kindergarten;;;;;"69123";Lyon
+4.8687482;45.7505852003794;node/1346757517;Crèche Collective Montbrillant;kindergarten;;;;;"69123";Lyon
+4.8714225;45.7542783003789;node/1346757518;Crèche Pain d'Épices;kindergarten;;;;;"69123";Lyon
+4.8507446;45.7575365003784;node/1384687173;École maternelle Étienne Dolet;school;maternelle;public;0691058A;;"69123";Lyon
+4.8262171;45.760772500378;node/1425774740;Collège privé Aux Lazaristes;school;collège;private;0692920Z;;"69123";Lyon
+4.8296495;45.7781768003755;node/1488252419;Halte Garderie des Canuts;kindergarten;;;;;"69123";Lyon
+4.8813207;45.7514807003793;node/1493628672;Les Montchatons Acacias;kindergarten;;;;;"69123";Lyon
+4.8866952;45.7349297003816;node/1545763048;École maternelle Jean Mermoz A;school;maternelle;public;0691162N;;"69123";Lyon
+4.8862875;45.7349409003816;node/1545763508;Crèche municipale Ranvier;kindergarten;;;;;"69123";Lyon
+4.8622826;45.7474229003798;node/1614261813;Les studios Lumières;university;;;;;"69123";Lyon
+4.8233863;45.7781126003755;node/1798091739;Crèche Popy;kindergarten;;;;;"69123";Lyon
+4.8358256;45.7302579003823;node/1836397828;École de reconversion professionnelle Georges Guynemer;college;;public;0693500E;;"69123";Lyon
+4.8369052;45.7363670003814;node/1839782820;École professionnelle privée Ifosupd;school;lycée;private;0693368L;;"69123";Lyon
+4.8275489;45.732377000382;node/1839783232;École maternelle;school;maternelle;public;0691177E;;"69123";Lyon
+4.8325029;45.7645721003774;node/1872877280;École privée mixte Saint-Nizier-Tour-Pitrat;school;primaire;private;0691984G;;"69123";Lyon
+4.8552157;45.7645912003774;node/1954994807;Crêche Masséna;kindergarten;;;;;"69123";Lyon
+4.8250231;45.7354687003815;node/1966350185;École maternelle Marcel Pagnol;school;maternelle;public;0692387V;;"69123";Lyon
+4.8547305;45.7347397003816;node/1973468458;École maternelle Philibert Delorme;school;maternelle;public;0691172Z;;"69123";Lyon
+4.8537957;45.7346644003816;node/1973468459;École élémentaire Philibert Delorme;school;élémentaire;public;0693838X;;"69123";Lyon
+4.8692948;45.7416161003807;node/2003488747;École primaire publique Simone Signoret;school;primaire;public;0693955Z;;"69123";Lyon
+4.8705227;45.7447199003802;node/2003488757;École maternelle Lumière;school;maternelle;;0693635B;;"69123";Lyon
+4.8737468;45.739170400381;node/2003488760;École maternelle Maryse Bastié;school;maternelle;public;0692600B;;"69123";Lyon
+4.8698826;45.7448485003802;node/2003488776;École primaire Lumière;school;primaire;public;0693636C;;"69123";Lyon
+4.8769782;45.7343613003817;node/2003488786;École primaire privée Junior School International;school;collège;private;0693360C;;"69123";Lyon
+4.832794;45.7374966003812;node/2016891614;École privée Notre-Dame des Anges;school;élémentaire;private;0691900R;;"69123";Lyon
+4.8250951;45.7355673003815;node/2016892690;École élémentaire Marcel Pagnol;school;élémentaire;public;0692384S;;"69123";Lyon
+4.8576783;45.74606450038;node/2029198508;Section d'enseignement professionnel du Lycée polyvalent Hector Guimard;school;lycée;public;0693487R;;"69123";Lyon
+4.8448961;45.7573794003784;node/2029198510;École élémentaire Paul Painlevé;school;élémentaire;public;0692858G;;"69123";Lyon
+4.8324795;45.760234800378;node/2031083538;Groupe scolaire Lamartine;school;primaire;public;0692893V;;"69123";Lyon
+4.8635975;45.7664605003772;node/2031083542;École maternelle Antoine Remond;school;maternelle;public;0691183L;;"69123";Lyon
+4.8647657;45.7585177003783;node/2031083547;École maternelle Antoine Charial;school;maternelle;public;0691060C;;"69123";Lyon
+4.8650692;45.7584968003783;node/2031083548;École élémentaire Antoine Charial;school;élémentaire;public;0691453E;;"69123";Lyon
+4.865635;45.7660292003772;node/2031083554;École primaire privée Notre-Dame de Bellecombe;school;primaire;private;0692003C;;"69123";Lyon
+4.8656296;45.7579037003784;node/2031083555;École Nouvelle de La Rize;school;primaire;private;0691956B;;"69123";Lyon
+4.8531562;45.7661863003772;node/2031083556;École primaire privée Saint-Nom de Jésus;school;primaire;private;0692009J;;"69123";Lyon
+4.7840938;45.7567064003785;node/2076063807;École de cirque de Lyon;school;;;;;"69123";Lyon
+4.8230425;45.7438050003804;node/2185115903;École élémentaire Alix;school;élémentaire;public;0693152B;;"69123";Lyon
+4.8281389;45.7687043003768;node/2319124860;École primaire Robert Doisneau;school;primaire;public;0691299M;;"69123";Lyon
+4.8362621;45.7280057003826;node/2392516856;Institut supérieur d'agriculture et d'agroalimentaire Rhône-Alpes;university;;private;;;"69123";Lyon
+4.8059515;45.7667888003771;node/2436998887;Relais d'assitantes maternelles Baby-Loup;kindergarten;;;;;"69123";Lyon
+4.8284172;45.7649286003774;node/2477249077;École maternelle Jean Gerson;school;maternelle;public;0691038D;;"69123";Lyon
+4.8281098;45.7651360003773;node/2477249078;École primaire Jean Gerson;school;primaire;public;0691314D;;"69123";Lyon
+4.8500823;45.7611641003779;node/2483668743;École maternelle André Philip;school;maternelle;public;0693162M;;"69123";Lyon
+4.8502434;45.7611758003779;node/2483668745;École élémentaire publique André Philip;school;primaire;public;0693148X;;"69123";Lyon
+4.828733;45.7687015003768;node/254350034;École maternelle Robert Doisneau;school;maternelle;public;0691072R;;"69123";Lyon
+4.8205882;45.7615841003779;node/2567659705;Séminaire interdiocésain Saint-Irénée;school;;;;;"69123";Lyon
+4.8474382;45.7453277003802;node/2606763455;École de Condé;college;;private;0693451B;;"69123";Lyon
+4.8837744;45.7278137003826;node/2625598241;École maternelle Olympe de Gouges;school;maternelle;public;0691782M;;"69123";Lyon
+4.8246025;45.7519424003792;node/2635312712;École de Condé;college;;private;;;"69123";Lyon
+4.8284174;45.7550640003788;node/2635312736;Lycée professionnel privé Saint-Marc;school;lycée;private;0690641X;;"69123";Lyon
+4.8305174;45.7511825003793;node/2635312768;École primaire privée Chevreul Sainte-Croix;school;primaire;private;0691989M;;"69123";Lyon
+4.8244065;45.7518498003792;node/2635312775;École technologique privée de Condé;school;lycée;private;0693451B;;"69123";Lyon
+4.8314459;45.7587948003782;node/2635330060;Arts appliqués Bellecour;college;;private;;;"69123";Lyon
+4.8313597;45.7588111003782;node/2635330061;ESIA 3D Bellecour;college;;private;;;"69123";Lyon
+4.8312753;45.7588385003782;node/2635330079;École technologique privée Arts Appliqués Bellecour;school;lycée;private;0693401X;;"69123";Lyon
+4.8288314;45.7541027003789;node/2635384792;École primaire publique Lucie Aubrac;school;primaire;public;0693952W;;"69123";Lyon
+4.8345027;45.7567478003785;node/2635384795;École technologique privée Supdemod;school;lycée;private;0690693D;;"69123";Lyon
+4.8542693;45.7653549003773;node/2635474199;École privée Silvya Terrade - International Silvya Terrade;school;lycée;private;0690696G;;"69123";Lyon
+4.8375461;45.768002900377;node/2637267768;Lycée professionnel privé Japy;school;lycée;private;0690660T;;"69123";Lyon
+4.8366397;45.7720076003764;node/2637361450;École maternelle Michel Servet;school;maternelle;;0691073S;;"69123";Lyon
+4.8231477;45.7725761003763;node/2687576177;Lycée professionnel privé Jamet Buffereau;school;lycée;private;0690712Z;;"69123";Lyon
+4.8234743;45.7723070003763;node/2687576416;École primaire Saint-Louis - Saint-Bruno;school;primaire;private;0693358A;;"69123";Lyon
+4.822789;45.7714107003765;node/2688261674;Lycée général et technologique privé Institution des Chartreux;school;lycée;private;0690564N;;"69123";Lyon
+4.8227152;45.7705084003766;node/2688261798;École primaire privée Institution des Chartreux;school;primaire;private;0693607W;;"69123";Lyon
+4.8670693;45.7259978003829;node/2722945485;Crèche Viviani;kindergarten;;;;;"69123";Lyon
+4.8518692;45.7839630003747;node/2774622151;Crèche de la cité;kindergarten;;;;;"69123";Lyon
+4.8441598;45.7259960003828;node/2830801686;ARIES École supérieure d'infographie;college;;private;;;"69123";Lyon
+4.7906978;45.7505996003794;node/2836494018;École maternelle Les Gémeaux;school;maternelle;public;0690217L;;"69123";Lyon
+4.7901023;45.7509215003794;node/2836494019;École élémentaire Les Gémeaux;school;élémentaire;public;0693420T;;"69123";Lyon
+4.8498508;45.7661251003772;node/2844384198;Carrel école de travail social;college;;private;0690723L;;"69123";Lyon
+4.855402;45.7665989003771;node/2844384199;Collège privé Deborde;school;collège;private;0692938U;;"69123";Lyon
+4.823222;45.7323606003819;node/2844384200;ESSCA - École Supérieure des Sciences Commerciales d'Angers;college;;private;;Q3578499;"69123";Lyon
+4.8522825;45.7688036003768;node/2844384501;Esmod International;college;;private;;;"69123";Lyon
+4.8554359;45.7666483003771;node/2844384502;Lycée général privé Deborde;school;lycée;private;0690529A;;"69123";Lyon
+4.851326;45.7687175003768;node/2844384503;Maestris;college;;private;;;"69123";Lyon
+4.8531383;45.767737600377;node/2844384560;École maternelle J. Couty;school;maternelle;public;0693294F;;"69123";Lyon
+4.8516064;45.7668947003771;node/2844384564;École primaire privée Montessori de Lyon;school;primaire;private;0693085D;;"69123";Lyon
+4.8040105;45.7701063003766;node/2848695720;École Presqu'île;college;;private;;;"69123";Lyon
+4.803721;45.7700667003767;node/2848695721;Institut de formation de la profession de l'assurance - CNAM;college;;private;;;"69123";Lyon
+4.8038616;45.7700899003766;node/2848695722;Institut supérieur commercial d'assurances;college;;private;;;"69123";Lyon
+4.8272717;45.7764395003758;node/2848695725;Lycée professionnel privé de Coiffure de Lyon;school;lycée;private;0691723Y;;"69123";Lyon
+4.8033918;45.7692448003768;node/2848695726;Section d'enseignement professionnel du Lycée polyvalent privé Jehanne de France;school;SECTION D ENSEIGNEMENT PROFESSIONNEL;private;0691475D;;"69123";Lyon
+4.8393746;45.7806866003751;node/2848695730;École maternelle Georges Lapierre;school;maternelle;public;0691046M;;"69123";Lyon
+4.8031091;45.7672461003771;node/2848695731;École maternelle Jean Zay;school;maternelle;public;0691145V;;"69123";Lyon
+4.7948048;45.7724061003763;node/2848695732;École maternelle Maurice Carême;school;maternelle;public;0691146W;;"69123";Lyon
+4.8348844;45.7792754003754;node/2848695733;École maternelle Commandant Arnaud;school;maternelle;public;0691050S;;"69123";Lyon
+4.8395933;45.7798861003753;node/2848695735;École élémentaire Georges Lapierre;school;élémentaire;public;0691028T;;"69123";Lyon
+4.8012472;45.7671511003771;node/2848695736;École élémentaire Jean Zay;school;élémentaire;public;0693418R;;"69123";Lyon
+4.8352638;45.7793004003753;node/2848695740;École élémentaire Commandant Arnaud;school;élémentaire;public;0693016D;;"69123";Lyon
+4.797971;45.7670826003771;node/2848695742;École professionnelle privée Atelier d'Apprentissage de Gorge de Loup;school;lycée;private;0693134G;;"69123";Lyon
+4.7974231;45.7690903003768;node/2848695743;École secondaire privée Bienheureux François de Fatima;school;collège;private;0693995T;;"69123";Lyon
+4.7895956;45.7592440003782;node/2848699147;Collège privé Notre-Dame des Minimes;school;collège;private;0692936S;;"69123";Lyon
+4.7891703;45.7589268003782;node/2848699148;Lycée général et technologique privé Notre-Dame des Minimes;school;lycée;private;0690519P;;"69123";Lyon
+4.7930963;45.7647890003774;node/2848699149;École maternelle Hector Berlioz;school;maternelle;public;0691147X;;"69123";Lyon
+4.7931252;45.7642692003775;node/2848699150;École élémentaire Hector Berlioz;school;élémentaire;public;0690405R;;"69123";Lyon
+4.7900215;45.7577400003784;node/2848699151;École primaire privée Notre-Dame des Minimes;school;primaire;private;0691963J;;"69123";Lyon
+4.7810866;45.7524611003791;node/2848721339;École maternelle Les Battières;school;maternelle;public;0692806A;;"69123";Lyon
+4.7854431;45.7564910003786;node/2848721342;École élémentaire Diderot;school;primaire;public;0693708F;;"69123";Lyon
+4.8037168;45.7785592003754;node/2848721347;École primaire privée Saint-Charles de Serin;school;primaire;private;0691997W;;"69123";Lyon
+4.863578;45.7665795003771;node/2849169564;École primaire Antoine Remond;school;primaire;public;0693126Y;;"69123";Lyon
+4.8763611;45.7328677003819;node/2849182789;CFAI de l'AFPM;college;;private;;;"69123";Lyon
+4.8778038;45.7333306003818;node/2849182795;Institut des techniques d'ingénieur de l'industrie de Lyon;college;;private;;;"69123";Lyon
+4.8769643;45.7345464003817;node/2849212411;École maternelle privée bilingue Junior School;school;maternelle;private;0693606V;;"69123";Lyon
+4.8523291;45.7544215003789;node/2849212422;École primaire privée Arménienne Markarian Papazian;school;primaire;private;0693434H;Q61014287;"69123";Lyon
+4.8467101;45.760877400378;node/2849212423;École primaire privée Immaculée-Conception;school;primaire;private;0691953Y;;"69123";Lyon
+4.8519697;45.7580064003784;node/2849212424;École primaire privée Saint-Sacrement;school;primaire;private;0691955A;;"69123";Lyon
+4.8821305;45.7360878003814;node/2849212425;École primaire spéciale Édouard Herriot;school;élémentaire;public;0692743G;Q60720753;"69123";Lyon
+4.8883687;45.7527898003791;node/2865851197;École maternelle Anatole France;school;maternelle;public;0691056Y;;"69123";Lyon
+4.8883894;45.753214500379;node/2865851199;École primaire Anatole France;school;primaire;public;0692263K;;"69123";Lyon
+4.8834077;45.7309348003822;node/2932305367;École élémentaire publique Louis Pasteur;school;primaire;public;0693907X;;"69123";Lyon
+4.8838554;45.7307205003822;node/2932305552;École maternelle Louis Pasteur;school;maternelle;public;0691164R;;"69123";Lyon
+4.7856092;45.7566190003785;node/2937036256;École maternelle Diderot;school;maternelle;public;0691041G;;"69123";Lyon
+4.833114;45.74634040038;node/3005601080;Institut Supérieur d'Optique;college;;private;0693699W;;"69123";Lyon
+4.8274861;45.7236410003832;node/3036642078;Groupe IGS;college;;;;;"69123";Lyon
+4.844753;45.7577725003784;node/320913891;École maternelle Paul Painlevé;school;maternelle;public;0691051T;;"69123";Lyon
+4.883955;45.7283704003825;node/3436565325;ébulliScience;school;;;;;"69123";Lyon
+4.8043258;45.7524686003791;node/34404255;École maternelle Jean Charcot;school;maternelle;;;;"69123";Lyon
+4.8357776;45.7314445003821;node/3502992550;Les Bébés Bilingues;kindergarten;;;;;"69123";Lyon
+4.8058954;45.7683251003769;node/3588518600;Université Professionnelle Internationale de Lyon;university;;;;;"69123";Lyon
+4.8059142;45.7683831003769;node/3588531207;IDRAC - École de Commerce et de Management;university;;;;;"69123";Lyon
+4.8059142;45.7684598003769;node/3588534986;CEFAM;university;;;;;"69123";Lyon
+4.8422297;45.7468755003799;node/3594412095;Cours Diderot Lyon;college;;private;0694118B;;"69123";Lyon
+4.8366513;45.7487404003797;node/3703348131;IUT Jean Moulin Lyon 3;university;IUT;;;;"69123";Lyon
+4.8497483;45.7661945003772;node/3766154118;Lycée professionnel privé Carrel;school;lycée;private;0693373S;;"69123";Lyon
+4.8497378;45.7662619003772;node/3766154119;Lycée Technologique privé Carrel;school;lycée;private;0690646C;;"69123";Lyon
+4.8190037;45.7519102003792;node/3766154122;Lycée technologique privé Don Bosco;school;lycée;private;0691659D;;"69123";Lyon
+4.8135459;45.7497734003795;node/3766154123;Lycée technologique privé ICOF;school;lycée;private;0690631L;;"69123";Lyon
+4.8246922;45.7521190003792;node/3766154145;École 2d Degré Professionnelle Privée Elea Presqu'Île;school;lycée;private;0694184Y;;"69123";Lyon
+4.8189786;45.7736417003761;node/3766154146;École primaire privée Providence des Trinitaires;school;primaire;private;0691998X;;"69123";Lyon
+4.8378751;45.7458510003801;node/3766154148;École des Enfants Intellectuels Précoces de Lyon;school;collège;private;0694188C;;"69123";Lyon
+4.7940383;45.7560656003786;node/3766154155;École maternelle Irène Joliot-Curie;school;maternelle;;0691044K;;"69123";Lyon
+4.8251616;45.7571958003785;node/3766159460;École maternelle Fulchiron;school;maternelle;public;0691043J;;"69123";Lyon
+4.7969729;45.7555884003787;node/3766159467;École primaire privée Notre-Dame du Point du Jour;school;primaire;private;0691967N;;"69123";Lyon
+4.826085;45.760801500378;node/3766159468;École primaire privée Saint-Jean;school;primaire;private;0692330H;;"69123";Lyon
+4.8124408;45.7526045003791;node/3766159471;École primaire privée Sainte-Ursule;school;primaire;private;0691994T;;"69123";Lyon
+4.8273463;45.7783791003755;node/3766159473;École primaire privée;school;primaire;private;0692180V;;"69123";Lyon
+4.7942072;45.7558278003787;node/3766159474;École élémentaire Joliot Curie;school;élémentaire;public;0693385E;;"69123";Lyon
+4.8252798;45.7573412003784;node/3766159475;École élémentaire Fulchiron;school;élémentaire;public;0691311A;;"69123";Lyon
+4.8126354;45.767875400377;node/3766159476;École Chevalier Bayard;school;primaire;public;0690412Y;;"69123";Lyon
+4.8297343;45.731878200382;node/3860447095;Institut de gestion comptable et informatique du transport;college;;private;;;"69123";Lyon
+4.8211312;45.7662357003772;node/4207940144;Institut Marc Perrot;college;;;;;"69123";Lyon
+4.8417762;45.7522682003792;node/4207940145;La Maison des Tout-Petits;kindergarten;;;;;"69123";Lyon
+4.8358399;45.7327827003819;node/4734479407;Micro-crèche Les Petits Top;kindergarten;;;;;"69123";Lyon
+4.8060006;45.7684241003769;node/4742210023;ISCPA Lyon - Institut Supérieur des Médias;school;;;;;"69123";Lyon
+4.8718428;45.7545655003788;node/4929732285;Micro-Crèche Les Cailloux;kindergarten;;;;;"69123";Lyon
+4.8580925;45.7685827003769;node/5088140653;SHG Lyon;college;;;;;"69123";Lyon
+4.8271142;45.74628850038;node/5112441301;Wild Code School;college;;;;;"69123";Lyon
+4.8224;45.7696738003767;node/5146860779;Lycée professionnel Diderot;school;lycée professionnel;public;0690048C;;"69123";Lyon
+4.8220703;45.7802276003752;node/5147549396;Collège Antoine de Saint-Exupéry;school;collège;public;0692694D;;"69123";Lyon
+4.8074052;45.7707441003766;node/5212288869;École de la Deuxième Chance Rhône Lyon Métropole - Lyon;college;;;;;"69123";Lyon
+4.8361052;45.74664800038;node/5269941637;Institut d'Urbanisme de Lyon;university;;;;;"69123";Lyon
+4.7942743;45.7873937003742;node/5293868907;CIO - Lyon Ouest;school;cio;public;;;"69123";Lyon
+4.8278497;45.7546888003788;node/5347100878;Collège Jean Monnet - Annexe;school;collège;public;0692334M;;"69123";Lyon
+4.8389281;45.7540340003789;node/5350959824;Centre Laennec;college;;;;;"69123";Lyon
+4.8507589;45.7500541003795;node/5469824893;Crèche Grain d’Orge;kindergarten;;;;;"69123";Lyon
+4.8495432;45.7504345003794;node/5469824894;Liveli crèches Lyon Guillotière;kindergarten;;private;;;"69123";Lyon
+4.8400156;45.7507049003794;node/5680379386;INSEEC;college;;private;0694282E;;"69123";Lyon
+4.8758008;45.7443529003803;node/5713179428;Crèche Inter-entreprises Les Lumignons;kindergarten;;;;;"69123";Lyon
+4.8052807;45.7718201003764;node/5715866304;Babilou;kindergarten;;;;;"69123";Lyon
+4.8180403;45.7430610003805;node/5726913477;"Institut des sciences sociales, économiques et politiques";university;;;;Q53951715;"69123";Lyon
+4.8091156;45.7832870003748;node/5752391358;Les Petits Chaperons rouges Lyon Vaise;kindergarten;;;;;"69123";Lyon
+4.8360219;45.8037531003718;node/582425485;École maternelle Alphonse Daudet;school;maternelle;;0692286K;;"69123";Lyon
+4.8507257;45.7487894003797;node/5859237137;Mini’Moov;kindergarten;;;;;"69123";Lyon
+4.8153606;45.7702030003766;node/5866223515;École nationale des Finances Publiques;college;;;;;"69123";Lyon
+4.8764288;45.7521976003792;node/6054986388;École Charles de Foucauld;school;primaire;private;0693261V;;"69123";Lyon
+4.8240285;45.795606700373;node/6295087314;École primaire La Sauvagère;school;primaire;public;0693980B;;"69123";Lyon
+4.8224291;45.7945680003732;node/6302786849;multi-accueil la Sauvagère;kindergarten;;;;;"69123";Lyon
+4.8165943;45.781435200375;node/6322684831;Le Jardin des Gônes;kindergarten;;;;;"69123";Lyon
+4.8373501;45.7711687003765;node/6358368886;École Lyonnaise des Plantes Médicinales;school;;;;;"69123";Lyon
+4.8703952;45.7579030003784;node/6363530956;Collège Lacassagne;school;collège;public;0692695E;;"69123";Lyon
+4.8704728;45.7581336003784;node/6363530957;Lycée général et technologique Lacassagne;school;lycée;public;0690029G;;"69123";Lyon
+4.8545758;45.753383200379;node/6398141058;Froggy Art;school;;;;;"69123";Lyon
+4.8425711;45.7652016003773;node/6405944281;Euridis Business School Lyon;college;;private;0694349C;;"69123";Lyon
+4.8706242;45.7496240003795;node/6489908585;ipso Campus;college;;;;;"69123";Lyon
+4.8477429;45.7659383003772;node/6528228321;EFAP Lyon;college;;;;;"69123";Lyon
+4.806452;45.7701657003766;node/6589341355;IPI Lyon;college;;;;;"69123";Lyon
+4.8728914;45.7451758003802;node/6635135834;Césame;college;;private;0693695S;;"69123";Lyon
+4.8741051;45.7437651003804;node/6635135835;Multi-accueil Crèche Les Coccinelles;kindergarten;;;;;"69123";Lyon
+4.8769893;45.7457404003801;node/6654894332;Institut privé des métiers - SEPR;college;;private;0694246R;;"69123";Lyon
+4.8465428;45.7570100003785;node/6683542614;Halppy Kids;kindergarten;;;;;"69123";Lyon
+4.8370065;45.7365713003814;node/6784579405;ESTIAM;college;;;;;"69123";Lyon
+4.8380991;45.7281216003826;node/6877797356;BRASSART Lyon;college;;;;;"69123";Lyon
+4.8265532;45.7278944003826;node/6898766400;Babilou Vercors - Crèche Les Gones de Gerland;kindergarten;;;;;"69123";Lyon
+4.8894387;45.7397244003809;node/6903457912;Babycina;kindergarten;;;;;"69123";Lyon
+4.8395798;45.7513044003793;node/6991095303;Gaming Campus;college;;;;;"69123";Lyon
+4.8301239;45.7510782003793;node/6997112958;Éveil mâtins;kindergarten;;;;;"69123";Lyon
+4.8276964;45.7524524003792;node/7004222840;École primaire privée La Chrysalide;school;primaire;private;0694243M;;"69123";Lyon
+4.8248459;45.7518678003792;node/7070226756;Petit Couffin;kindergarten;;;;;"69123";Lyon
+4.8648157;45.7545515003788;node/7090354086;Une Souris Verte;kindergarten;;;;;"69123";Lyon
+4.8258525;45.7523814003791;node/7115083060;People & Baby;kindergarten;;;;;"69123";Lyon
+4.8260412;45.7517892003792;node/7115086391;Bulle d'Éveil;kindergarten;;;;;"69123";Lyon
+4.8374795;45.7493752003796;node/7230742338;Institut international pour la Francophonie;university;;public;;Q50231792;"69123";Lyon
+4.8270381;45.7559087003786;node/7367699821;Les Écoles Peyrefitte;college;;;;;"69123";Lyon
+4.8378091;45.7492687003796;node/7379273259;"École notariale, UMR 5600";university;;;;;"69123";Lyon
+4.8322696;45.7553422003787;node/7538342444;Bellecour École;college;;;;;"69123";Lyon
+4.8152486;45.7403105003809;node/7551258973;Supdemod;college;;private;0690693D;;"69123";Lyon
+4.833203;45.7654013003773;node/7551778041;École maternelle Claude Levi-Strauss;school;maternelle;public;0691302R;;"69123";Lyon
+4.8375408;45.760489200378;node/7578454907;Crèche Collective Municipale Grolée;kindergarten;;public;;;"69123";Lyon
+4.8350064;45.7642177003775;node/7610226663;Babilou L'Envol;kindergarten;;;;;"69123";Lyon
+4.8419892;45.7583846003783;node/7667627532;Crèche people & Baby;kindergarten;;;;;"69123";Lyon
+4.7972918;45.7848086003745;node/7836478587;;school;;;;;"69123";Lyon
+4.8432268;45.7631192003777;node/7935661543;École de Psychologues praticiens;university;;private;0693691M;;"69123";Lyon
+4.8227513;45.74610580038;node/8117554129;Crèche Mes Anges;kindergarten;;;;;"69123";Lyon
+4.8405061;45.7552890003787;node/8120903923;Les Crèches de Margot;kindergarten;;;;;"69123";Lyon
+4.8674493;45.7569169003785;node/8157229800;La Crèche Enchantée;kindergarten;;;;;"69123";Lyon
+4.8216774;45.7806136003751;node/8174200763;Cité scolaire Antoine de Saint-Exupéry;school;lycée;public;"0690031J;0692694D";Q44184457;"69123";Lyon
+4.861347;45.753185100379;node/8220492610;Crêche de Lyon Sky 56;kindergarten;;;;;"69123";Lyon
+4.846093;45.74604070038;node/8261726824;Crèche Collective Municipale Chevreul;kindergarten;;;;;"69123";Lyon
+4.8471877;45.7579777003784;node/8267578619;La Maison des Petits Loups;kindergarten;;;;;"69123";Lyon
+4.8605689;45.7486905003797;node/8420495166;iaelyon School of Management;university;;public;;;"69123";Lyon
+4.8174154;45.7452502003802;node/8589756173;École supérieure des métiers artisitiques;college;;private;0694337P;;"69123";Lyon
+4.817249;45.7453181003801;node/8589756174;"CinéCréatis, École de Cinéma de Lyon";college;;private;0694338R;;"69123";Lyon
+4.8205603;45.7449527003802;node/8589989963;École Montessori de Lyon Confluence;school;primaire;private;0694245P;;"69123";Lyon
+4.823442;45.7703379003766;node/8596356906;Collège privé Institution des Chartreux;school;collège;private;0692928H;;"69123";Lyon
+4.8495543;45.7648673003774;node/8617913117;Microbulle;kindergarten;;;;;"69123";Lyon
+4.8298246;45.7778842003756;node/8648707349;École Atys;school;;;;;"69123";Lyon
+4.8467763;45.760429000378;node/8831923526;EDARA - Ecole des Avocats;college;;;;;"69123";Lyon
+4.8112183;45.7863554003743;node/9193750220;La maison bleue;kindergarten;;;;;"69123";Lyon
+4.877535;45.7548724003788;node/9214995321;Grandir et Rire;school;maternelle;;;;"69123";Lyon
+4.873008;45.7554205003787;node/9214995322;Les Clochettes d'Espérance;school;;;;;"69123";Lyon
+4.8657819;45.7545877003788;node/9220602042;Les Marsupiaux;kindergarten;;;;;"69123";Lyon
+4.8369271;45.7364322003814;node/9306471820;Digital College Lyon;college;;;;;"69123";Lyon
+4.8368196;45.7362410003814;node/9306473231;ECEMA Lyon;college;;;;;"69123";Lyon
+4.8387992;45.7376021003812;node/931804414;Crèche Gribouille;kindergarten;;;;;"69123";Lyon
+4.8374861;45.7384558003811;node/931908512;Assomption Bellevue - Pôle Enseignement Supérieur;college;;;;;"69123";Lyon
+4.8231537;45.7281147003826;node/9386319476;Isitech;college;;private;0694215G;;"69123";Lyon
+4.8375034;45.7658474003772;node/9547825465;Lycée Ampère-Bourse;school;lycée;public;0690023A;;"69123";Lyon
+4.8369429;45.7364407003814;node/9549196617;;college;;;;;"69123";Lyon
+4.8368678;45.7362932003814;node/9549305417;La Tannerie;college;;;;;"69123";Lyon
+4.8583876;45.7508490003794;node/9630908467;Monchat Bada;kindergarten;;;;;"69123";Lyon
+4.8588481;45.7526164003791;node/9630908475;Babilou Lyon Magnin;kindergarten;;;;;"69123";Lyon
+4.8599765;45.7518524003792;node/9630908476;Les Jeunes Pousses;kindergarten;;;;;"69123";Lyon
+4.8327181;45.7645793003774;node/9695015966;Epitech Digital;college;;private;;;"69123";Lyon
+4.8767914;45.7520429003792;node/9776097813;École Charles de Foucauld;school;primaire;private;0693261V;;"69123";Lyon
+4.8779588;45.7522416003792;node/9776097814;Collège Charles de Foucauld;school;collège;private;0692933N;;"69123";Lyon
+4.8315396;45.7287526003824;node/9830788284;Ecole Nazareth;school;;;;;"69123";Lyon
+4.8462095;45.767533300377;node/9850466717;Keyce Santé Lyon;college;;;;;"69123";Lyon
+4.836787;45.7363430003814;node/9850505217;Open IT Lyon;college;;;;;"69123";Lyon
+4.80195931680778;45.77282571581;relation/10031442;École primaire provisoire Joannès Masset;school;primaire;;0694298X;;"69123";Lyon
+4.86745588896569;45.7506839500737;relation/10957871;Groupe Scolaire Gabriel Nové-Josserand;school;primaire;;;;"69123";Lyon
+4.83644685592725;45.767023968382;relation/1256300;École professionnelle privée Athéna;school;lycée;private;0693444U;;"69123";Lyon
+4.83389259243907;45.7658354342305;relation/1256606;École élémentaire Meissonier;school;élémentaire;public;0691302R;;"69123";Lyon
+4.88127290991221;45.7413512743378;relation/6504838;Faculté de Médecine Lyon Est - Domaine Rockefeller;university;;;;;"69123";Lyon
+4.87459861266352;45.7273896570028;relation/6653445;École maternelle Jean Giono;school;maternelle;;0693747Y;;"69123";Lyon
+4.8370290185288;45.750208530068;relation/7168880;Université Lumière - Lyon 2 - Campus Berges du Rhône;university;;;;;"69123";Lyon
+4.88115911834747;45.7413592614348;relation/971595;Faculté de médecine Rockefeller;university;;;;;"69123";Lyon
+4.87866565430617;45.7422551432194;relation/971599;École Rockefeller;college;;;0694117A;;"69123";Lyon
+4.83525728546257;45.7464675104079;relation/9730207;Institut d'Études Politiques de Lyon;university;;;;Q2253344;"69123";Lyon
+4.86570325941188;45.7306682762898;way/1002166173;Crèche Graines de Malice;kindergarten;;;;;"69123";Lyon
+4.79702143372177;45.7600208386685;way/1029355518;Crèche Babilou;kindergarten;;;;;"69123";Lyon
+4.82474263694184;45.7732453302407;way/106452828;Collège La Tourette;school;collège;public;0694191F;;"69123";Lyon
+4.8059480655406;45.7531387577179;way/113121054;Collège Jean Charcot;school;collège;public;"0691670R;0691731G";;"69123";Lyon
+4.88368658198075;45.7259089148829;way/114507825;Collège Victor Grignard;school;collège;public;0691669P;Q64520285;"69123";Lyon
+4.88361906925628;45.7307543729609;way/118794545;;school;;;;;"69123";Lyon
+4.87375913746266;45.727118377891;way/118794570;Collège Henri Longchambon;school;collège;public;"0692340U;0692341V";;"69123";Lyon
+4.81905006382217;45.7520984798306;way/120398552;Lycée professionnel privé Don Bosco;school;lycée;private;0693371P;;"69123";Lyon
+4.81132405086205;45.7533024919202;way/123171543;École nationale supérieure des arts et techniques du théâtre;college;;;;Q3578242;"69123";Lyon
+4.79581860902239;45.764484844894;way/125084742;Crèche Champvert;kindergarten;;;;;"69123";Lyon
+4.80508563025465;45.7704266295103;way/125098435;EKLYA School of Business;college;;;;;"69123";Lyon
+4.8033973244331;45.7692209645412;way/125098497;Lycée professionnel Jehanne de France;school;lycée;private;0693786R;;"69123";Lyon
+4.78874021687143;45.7635628960521;way/125550906;École élémentaire Champvert Ouest;school;élémentaire;public;0690171L;;"69123";Lyon
+4.78744756798407;45.7639393576198;way/125552078;École maternelle Champvert Ouest A;school;maternelle;public;0690149M;;"69123";Lyon
+4.78821333925033;45.763898021712;way/125552200;Groupe scolaire Champvert Ouest;school;;;;;"69123";Lyon
+4.85253954217222;45.7475013428777;way/133325487;Lycée professionnel privé Saint-Joseph;school;lycée;private;0690651H;;"69123";Lyon
+4.87083260250033;45.7464701512168;way/138567206;Collège Professeur Marcel Dargent;school;collège;public;"0692864N;0690053H";;"69123";Lyon
+4.79310722207582;45.7646240477165;way/144107572;Groupe scolaire Hector Berlioz;school;;;;;"69123";Lyon
+4.88243026296467;45.7407338029456;way/159288153;;university;;;;;"69123";Lyon
+4.82172452759037;45.7271574878993;way/163553404;Cité Scolaire Internationale de Lyon;school;"collège;primaire;lycée";public;"0693446W;0693318G;0693479G";Q10138;"69123";Lyon
+4.82900694008444;45.7569082883835;way/164823681;Université Catholique de Lyon;university;;;;;"69123";Lyon
+4.83266801685596;45.7741266476607;way/170040294;École primaire d'application Aveyron;school;primaire;public;0693632Y;;"69123";Lyon
+4.8685219536092;45.7303993044192;way/172784129;École primaire Louis Pergaud;school;primaire;public;0692828Z;;"69123";Lyon
+4.87002957153761;45.7330329890251;way/173150970;École primaire John Kennedy;school;primaire;public;0693796B;;"69123";Lyon
+4.78949898760791;45.7485867607331;way/174594203;École primaire Les Gémeaux;school;élémentaire;;;;"69123";Lyon
+4.79043206405882;45.7508023678893;way/174688000;Groupe scolaire des Gémeaux;school;;;;;"69123";Lyon
+4.79120902909151;45.7520653145415;way/176912045;Lycée Edouard Branly;school;lycée;public;"0690128P;0693909Z";;"69123";Lyon
+4.87151693629292;45.7508347123683;way/178065658;Lycée général et technologique privé Charles de Foucauld;school;lycée;private;0690514J;;"69123";Lyon
+4.83302297574623;45.7289594392469;way/184150629;École élémentaire Aristide Briand;school;élémentaire;public;0693469W;;"69123";Lyon
+4.85621888728523;45.7656019482787;way/184967563;École primaire publique Montaigne;school;primaire;public;0693839Y;;"69123";Lyon
+4.84883724455331;45.7484395946117;way/188156833;Collège privé Saint-Louis de la Guillotière;school;collège;private;0693137K;;"69123";Lyon
+4.85742989515382;45.7515400090988;way/188157428;École maternelle et primaire publique Aimé Césaire;school;primaire;public;0694113W;;"69123";Lyon
+4.87620852318746;45.7461760033047;way/189667561;Lycée professionnel privé Société enseignement professionnel du Rhône;school;lycée;private;0690698J;;"69123";Lyon
+4.87653069635924;45.744931532947;way/189753599;;kindergarten;;;;;"69123";Lyon
+4.87816193891534;45.7498024633119;way/202918628;École élémentaire Jules Verne;school;élémentaire;public;0693151A;;"69123";Lyon
+4.85529689803562;45.7472960359828;way/203933786;École primaire Julie-Victoire Daubié;school;primaire;public;0694189D;;"69123";Lyon
+4.78923332573473;45.7584194634207;way/205002973;Institution Salésienne Notre-Dame des Minimes;school;;;;Q3152835;"69123";Lyon
+4.78542464301129;45.7561162120245;way/205944771;Groupe scolaire Diderot;school;;;;;"69123";Lyon
+4.8576700383223;45.7654150680681;way/209333542;École Ferry Montaigne;school;élémentaire;;;;"69123";Lyon
+4.88835810527281;45.7489163498363;way/210099366;Collège Pierre Termier;school;collège;private;0690597Z;;"69123";Lyon
+4.89234131540287;45.7484870817598;way/210099368;École maternelle Condorcet;school;maternelle;public;0691055X;;"69123";Lyon
+4.89149385848763;45.7483646569718;way/210099369;École primaire Condorcet;school;primaire;public;0691463R;;"69123";Lyon
+4.88942425370212;45.7447421224031;way/210102926;Institut de Formation des Cadres de Santé;university;;;;;"69123";Lyon
+4.88613668452608;45.7420238044429;way/210102927;Institut de formation aux carrières de santé des HCL - site Esquirol;college;;;0692988Y;;"69123";Lyon
+4.82597323636073;45.7706469286838;way/217204047;École maternelle d'application Victor Hugo;school;maternelle;public;0691070N;;"69123";Lyon
+4.82513521259007;45.770687612189;way/217204048;École élémentaire d'application Victor Hugo;school;élémentaire;public;0691300N;;"69123";Lyon
+4.82723660288868;45.7711909280258;way/217367658;Lycée professionnel Jacques de Flesselles;school;lycée professionnel;public;0690043X;;"69123";Lyon
+4.82685591328961;45.7726453006294;way/218175213;Crèche Le rêve en couleurs;kindergarten;;;;;"69123";Lyon
+4.82838520293066;45.7687515312969;way/222969117;Groupe scolaire Robert Doisneau;school;;;;;"69123";Lyon
+4.82590882542679;45.7756823462807;way/22565353;Groupe scolaire Joseph Cornier;school;"maternelle;élémentaire";public;"0690834G;0691048P";;"69123";Lyon
+4.82042783434703;45.7743146490463;way/23728251;École Supérieure du Professorat et de l’Éducation;university;ESPE;;;;"69123";Lyon
+4.83773464687779;45.7520898849978;way/23782203;Université Jean Moulin - Lyon 3 - Site des quais;university;;;;;"69123";Lyon
+4.87649148585613;45.7496919002194;way/242687030;Institut Régional de Formation Sanitaire et Sociale Rhône-Alpes;college;;private;0692525V;;"69123";Lyon
+4.81141769736607;45.7689357056479;way/242892181;Conservatoire national supérieur musique et danse de Lyon;college;;;0693133F;;"69123";Lyon
+4.86636338305401;45.7656024197006;way/248800395;Groupe scolaire Notre-Dame de Bellecombe;school;"collège;maternelle";private;0690604G;;"69123";Lyon
+4.83047316886555;45.7495494098996;way/258128918;Lycée Juliette Récamier;school;lycée;public;0690032K;Q3268776;"69123";Lyon
+4.82884443275843;45.754624467576;way/258128919;Lycée général privé Saint-Marc;school;lycée;private;0690571W;;"69123";Lyon
+4.83131766687469;45.7510699176577;way/258128933;École maternelle Condé;school;maternelle;public;0691066J;;"69123";Lyon
+4.83117809056965;45.7506446697804;way/258128936;École élémentaire Condé;school;primaire;public;0690349E;;"69123";Lyon
+4.8297867774757;45.7564447951368;way/258128938;École primaire privée Sacré-Coeur Centre Saint-Marc;school;primaire;private;0692409U;;"69123";Lyon
+4.82925392253631;45.7500785415299;way/258134441;Institut Vatel;college;;private;0693222C;;"69123";Lyon
+4.82203187492473;45.7456007688251;way/258195179;Collège Jean Monnet;school;collège;public;0692334M;;"69123";Lyon
+4.82236429804175;45.7437663379873;way/258195191;École maternelle Alix;school;maternelle;public;0691067K;;"69123";Lyon
+4.8239747645863;45.7477206002807;way/258195729;École maternelle Gilibert;school;maternelle;public;0691065H;;"69123";Lyon
+4.81745161707259;45.7682493172356;way/263205564;École Nationale Supérieure des Beaux-Arts de Lyon;college;;;0690185B;Q3578245;"69123";Lyon
+4.85107374608254;45.7725819653605;way/280263076;Ensemble scolaire privé Fénelon - La Trinité;school;collège;private;0690534F;;"69123";Lyon
+4.84605193920138;45.7738179703301;way/280263089;École primaire privée Externat de La Rédemption;school;primaire;private;0692007G;;"69123";Lyon
+4.84407030366937;45.7721211567456;way/280263092;École primaire privée École Bilingue La Nursery;school;primaire;private;0692380M;;"69123";Lyon
+4.84627872442477;45.7701628418874;way/280291842;Groupe scolaire Jean Racine B;school;maternelle;public;0691033Y;;"69123";Lyon
+4.84545739980662;45.7700645926586;way/280291846;École élémentaire A Jean Racine;school;primaire;public;0690890T;;"69123";Lyon
+4.85544727736167;45.7665911147554;way/280298739;Groupe scolaire Deborde;school;;private;;;"69123";Lyon
+4.85293774906958;45.7701245479611;way/280298740;École élémentaire d'application Jean Rostand;school;élémentaire;public;0693031V;;"69123";Lyon
+4.84665122716267;45.7683448467656;way/280298741;Lycée général privé Externat de La Trinité;school;lycée;private;0690533E;;"69123";Lyon
+4.846900077979;45.7665729589201;way/280298747;École primaire publique Créqui;school;primaire;public;0693892F;;"69123";Lyon
+4.84318499792888;45.7683438859577;way/280298748;École primaire privée Cours Diot;school;primaire;private;0692010K;;"69123";Lyon
+4.85441622342421;45.7708704519115;way/280298749;École primaire privée Saint-Joseph des Brotteaux;school;primaire;private;0693641H;;"69123";Lyon
+4.84706158686707;45.7664062046499;way/280298750;École primaire privée Saint-Pothin;school;primaire;private;0692002B;;"69123";Lyon
+4.8126607356524;45.751825440347;way/283335945;Collège Saint-Marc;school;collège;private;0692931L;;"69123";Lyon
+4.85027122422383;45.7494703595749;way/294821019;École primaire Jean-Pierre Veyet;school;primaire;public;0693954Y;Q62212594;"69123";Lyon
+4.84788691911517;45.7525488318521;way/295014618;École primaire Chavant-Félix Faure;school;primaire;public;0690440D;;"69123";Lyon
+4.84705617831369;45.7502700019012;way/295017051;École maternelle privée Notre-Dame;school;élémentaire;private;0692019V;;"69123";Lyon
+4.84814456648812;45.7517694686681;way/295017052;École primaire privée Notre-Dame Saint-Joseph;school;primaire;private;0692019V;;"69123";Lyon
+4.84661397685804;45.7461930126781;way/295233225;École maternelle Jean Macé;school;maternelle;public;0691179G;;"69123";Lyon
+4.84579247956758;45.7465907541857;way/295233226;École primaire Jean Macé;school;primaire;public;0693825H;;"69123";Lyon
+4.8409690405918;45.7507428347125;way/295655498;Collège Georges Clemenceau;school;collège;public;"0692412X;0692339T";;"69123";Lyon
+4.85805870371868;45.7462054719456;way/295998979;Lycée Polyvalent Hector Guimard;school;lycée;public;0690040U;;"69123";Lyon
+4.83661750572408;45.7474569498526;way/296404216;École primaire Berthelot;school;primaire;public;0693983E;;"69123";Lyon
+4.8386999499312;45.7517958883866;way/297097958;École primaire privée Saint-André;school;primaire;private;0692014P;;"69123";Lyon
+4.84002911682077;45.7525958835012;way/297099915;Lycée Belmont-Capdepon;school;lycée;private;0690536H;;"69123";Lyon
+4.83926888677457;45.7465752878983;way/297101081;École primaire privée Saint-Michel;school;primaire;private;0692016S;;"69123";Lyon
+4.85840005931283;45.7491687422695;way/297494297;Lycée général privé Chevreul;school;lycée;private;0690574Z;;"69123";Lyon
+4.84328171267312;45.7532227231768;way/301666707;École maternelle Gilbert Dru;school;maternelle;public;0691174B;;"69123";Lyon
+4.84354586315935;45.7534040736999;way/301666708;École primaire Gilbert Dru;school;primaire;public;0690435Y;;"69123";Lyon
+4.83963274080895;45.7529214650057;way/301668124;École maternelle Pasteur;school;maternelle;public;0692499S;;"69123";Lyon
+4.83927269482616;45.7529530803816;way/301668125;École primaire Cavenne;school;primaire;public;0690431U;;"69123";Lyon
+4.8589211636006;45.7491990972325;way/301675033;Collège Chevreul-Lestonnac;school;collège;private;0692922B;;"69123";Lyon
+4.85887120041332;45.7486671012018;way/301675034;Lycée professionnel Chevreul-Lestonnac;school;lycée;private;0693372R;;"69123";Lyon
+4.85890507566861;45.7489076913134;way/301675035;Lycée technologique Chevreul-Lestonnac;school;lycée;private;0690535G;;"69123";Lyon
+4.85918488672882;45.7492085320263;way/301675036;École primaire privée Chevreul - Lestonnac;school;primaire;private;0692011L;;"69123";Lyon
+4.81443356072397;45.7902949779062;way/310260408;École primaire Antonin Laborde;school;primaire;public;0693957B;;"69123";Lyon
+4.80201073363286;45.7767513800511;way/310285319;École maternelle Audrey Hepburn;school;maternelle;public;0691158J;;"69123";Lyon
+4.80260459067957;45.7770787520021;way/310285321;École élémentaire Audrey Hepburn;school;élémentaire;public;0690409V;;"69123";Lyon
+4.82625278899973;45.777276078657;way/314155209;Collège Jean-Baptiste de la Salle;school;collège;private;0692505Y;;"69123";Lyon
+4.82446805509733;45.7808896935656;way/314172864;Collège Clément Marot;school;collège;public;0691662G;;"69123";Lyon
+4.86745588896569;45.7506839500737;way/320427571;École Élémentaire Gabriel Nové-Josserand;school;;public;0690922C;;"69123";Lyon
+4.82532320188511;45.7966316535971;way/352892622;La CinéFabrique;college;lycée;private;0694239H;Q55596371;"69123";Lyon
+4.87609229802386;45.7488254204482;way/360522749;École Émile Cohl;college;;;;;"69123";Lyon
+4.8366885490413;45.7723537669921;way/366705782;École primaire Michel Servet;school;primaire;public;0693219Z;;"69123";Lyon
+4.82111217829167;45.7552158989108;way/40294920;Classes préparatoires à CPE Lyon;college;;;;;"69123";Lyon
+4.82024699220944;45.755489992007;way/40551162;École maternelle Mathilde Siraud;school;maternelle;public;0691045L;;"69123";Lyon
+4.82168363779064;45.7806133889108;way/414827603;Cité scolaire Antoine de Saint-Exupéry;school;lycée;public;0690031J;;"69123";Lyon
+4.85761073027014;45.7717949075563;way/431078217;Lycée du Parc;school;lycée;public;0690026D;Q8484;"69123";Lyon
+4.88747313592683;45.7388803904312;way/437948348;Faculté de médecine Laennec - Domaine de la Buire;university;;;;;"69123";Lyon
+4.87141478522104;45.7368133797379;way/437948351;École La Mache;school;lycée;private;"0693374T;0690634P";Q28494382;"69123";Lyon
+4.87862179421654;45.742176277806;way/437948352;Ecole paramédicale Rockefeller;college;;;0692187C;;"69123";Lyon
+4.86825799619481;45.7381393396777;way/438075187;ORT Lyon;school;secondaire;private;"0694087T;0690642Y;0693406C";;"69123";Lyon
+4.8405034474163;45.7292365465347;way/439396104;Collège Gabriel Rosset;school;collège;public;0692578C;;"69123";Lyon
+4.83378844738896;45.7291889748032;way/439396105;École maternelle Aristide Briand;school;maternelle;public;0691180H;;"69123";Lyon
+4.83427974856737;45.7351383294027;way/439396106;École primaire privée Internationale Le Petit Monde;school;primaire;private;0693638E;;"69123";Lyon
+4.87018951214199;45.7447359438642;way/439401299;Groupe scolaire Lumière;school;;;;;"69123";Lyon
+4.85985255700488;45.74501374703;way/439401318;Lycée général et technologique Colbert;school;lycée;public;0690042W;;"69123";Lyon
+4.87296695960363;45.7477430588023;way/439401332;École maternelle Harmonie;school;maternelle;public;0691057Z;;"69123";Lyon
+4.86700758584435;45.7437577267074;way/439401348;École maternelle Paul-Emile Victor;school;maternelle;public;0691161M;;"69123";Lyon
+4.87266454816444;45.7471278102316;way/439401360;École primaire Rebatel-Harmonie;school;primaire;public;0693761N;;"69123";Lyon
+4.8061092496194;45.7570816182579;way/439433774;Lycée et Collège La Favorite;school;secondaire;private;"0690520R;0692937T";;"69123";Lyon
+4.80506319099599;45.7556200779828;way/439433778;École privée La Favorite;school;primaire;private;0691964K;;"69123";Lyon
+4.800730549231;45.7608337169035;way/439433779;École maternelle François Truffaut;school;maternelle;public;0692824V;;"69123";Lyon
+4.78060195066604;45.7516045522653;way/439437330;Collège Les Battières;school;collège;public;0691798E;;"69123";Lyon
+4.78001740539248;45.7496176954866;way/439437331;École primaire privée bilingue West Point;school;primaire;private;0693608X;;"69123";Lyon
+4.82403413186136;45.7641838426208;way/439626399;École Catholique d'Arts et Métiers de Lyon;university;;private;0690194L;Q3577727;"69123";Lyon
+4.8259003264804;45.7654949474643;way/439626400;Lycée Sainte-Marie;school;lycée;private;0690521S;Q3464368;"69123";Lyon
+4.81866059017355;45.764223110219;way/439626401;Sainte-Marie - La Solitude;school;primaire;private;"0692921A;0691965L";;"69123";Lyon
+4.82569623691668;45.764500606578;way/439626404;Lycée général et technologique privé Aux Lazaristes;school;lycée;private;0690522T;;"69123";Lyon
+4.82825519790358;45.7650268344714;way/439820821;Groupe scolaire Jean Gerson;school;;;;;"69123";Lyon
+4.81541725537021;45.7613682783167;way/439820824;École maternelle La Sarra;school;maternelle;public;0691042H;;"69123";Lyon
+4.86456264355245;45.7532697931371;way/439958160;Collège Gilbert Dru;school;collège;public;0694007F;Q109120604;"69123";Lyon
+4.87029465500946;45.7512327553281;way/439958162;École primaire publique Montbrillant;school;primaire;public;0693993R;;"69123";Lyon
+4.81949669615643;45.7781371106138;way/440034913;École maternelle Jean de la Fontaine;school;maternelle;public;0693990M;;"69123";Lyon
+4.82009209389993;45.7783361327251;way/440034914;École maternelle Jean de la Fontaine;school;maternelle;public;0693990M;;"69123";Lyon
+4.81802169327883;45.7800261659419;way/440034915;École primaire privée Charles Demia;school;primaire;private;0691995U;;"69123";Lyon
+4.81996144860294;45.778824790419;way/440034916;École élémentaire d'application La Fontaine;school;primaire;public;0693836V;;"69123";Lyon
+4.83123510588706;45.7792033191993;way/440037120;Collège privé Saint-Denis;school;collège;private;0690601D;;"69123";Lyon
+4.83535744849288;45.7792616698173;way/440037121;Groupe scolaire Commandant Arnaud;school;;;;;"69123";Lyon
+4.82956920628262;45.7770391235998;way/440037122;Lycée professionnel Camille Claudel;school;lycée professionnel;public;0690125L;;"69123";Lyon
+4.83124185380452;45.7797874863928;way/440037123;École maternelle Les Petits Canuts;school;maternelle;public;0693037B;;"69123";Lyon
+4.83141389782517;45.7802659789733;way/440037124;École primaire privée Saint-Denis;school;primaire;private;0691999Y;;"69123";Lyon
+4.86264417943999;45.7668082672276;way/440129324;Collège Bellecombe;school;collège;public;0691663H;;"69123";Lyon
+4.87328879536816;45.7605968368265;way/440129327;Collège Louis Jouvet;school;collège;public;"0693128A;0691675W";;"69123";Lyon
+4.84455140674452;45.7576341584713;way/440129335;Groupe scolaire Paul Painlevé;school;;;;;"69123";Lyon
+4.86498278436678;45.7587416405438;way/440129345;École Charial;school;;;;;"69123";Lyon
+4.86755409407804;45.7601613787161;way/440129347;École maternelle Laurent Mourguet;school;maternelle;public;0693297J;Q61277672;"69123";Lyon
+4.8674258462566;45.7596398647877;way/440129348;École élémentaire Pompidou;school;élémentaire;public;0693474B;;"69123";Lyon
+4.82014991786088;45.7576871601633;way/441089042;Collège Jean Moulin;school;collège;public;0692696F;;"69123";Lyon
+4.82183364148319;45.7562770486087;way/441089044;Lycée de Saint-Just;school;lycée;public;0690028F;;"69123";Lyon
+4.81114224334058;45.7572171460152;way/441089048;École maternelle Ferdinand Buisson;school;maternelle;public;0691037C;;"69123";Lyon
+4.8117727198822;45.7570895820597;way/441089049;École élémentaire Ferdinand Buisson;school;élémentaire;public;0693116M;;"69123";Lyon
+4.81391926576481;45.7571476526883;way/441089050;École primaire privée Saint-Just Saint-Irénée;school;primaire;private;0691959E;;"69123";Lyon
+4.81659029902495;45.7578825058802;way/441089051;École primaire publique Albert Camus;school;primaire;public;0693908Y;;"69123";Lyon
+4.82303712041682;45.7698114509402;way/445243556;Lycée La Martinière Diderot - Site Diderot;school;lycée;public;0690037R;;"69123";Lyon
+4.85145275344955;45.7276391185493;way/448241852;Lycée général privé La Xavière;school;lycée;private;0693587Z;;"69123";Lyon
+4.87491208702142;45.7274786763412;way/448241879;École primaire Jean Giono;school;primaire;public;0693511S;;"69123";Lyon
+4.80807402648377;45.7795721158098;way/448895133;École maternelle de La Gare d'Eau;school;maternelle;public;0691155F;;"69123";Lyon
+4.80762734381208;45.7794920938655;way/448895134;École élémentaire de La Gare d'Eau;school;élémentaire;public;0690406S;;"69123";Lyon
+4.83211904353441;45.7549137067992;way/448895271;École primaire publique Michelet;school;primaire;public;0693953X;;"69123";Lyon
+4.85074772017526;45.7309222889102;way/457558368;École primaire Marie Bordas;school;primaire;public;0693377W;;"69123";Lyon
+4.86559366246745;45.7384899941543;way/457558436;École élémentaire Combe Blanche;school;élémentaire;public;0692744H;;"69123";Lyon
+4.86594621254108;45.739016757351;way/457558447;École maternelle Combe Blanche;school;élémentaire;;;;"69123";Lyon
+4.86507192093065;45.733912243428;way/457558450;École maternelle Charles Péguy;school;maternelle;public;0691165S;;"69123";Lyon
+4.86444022437079;45.7345275600071;way/457558454;École élémentaire Charles Péguy;school;élémentaire;public;0693237U;;"69123";Lyon
+4.86184271445002;45.7355173035472;way/457558460;Lycée Auguste et Louis Lumière;school;lycée;public;0690035N;;"69123";Lyon
+4.86238837090012;45.7323157159878;way/457558465;Lycée professionnel Jean Lurçat;school;lycée;public;0690045Z;;"69123";Lyon
+4.87745480985763;45.7500472328906;way/458935509;École maternelle Jules Verne;school;maternelle;public;0691052U;;"69123";Lyon
+4.79416253653339;45.7788112183116;way/46883620;Groupe scolaire Les Fougères;school;élémentaire;public;0690391A;;"69123";Lyon
+4.83849740501833;45.7384904014682;way/47074228;Conservatoire National des Arts et Métiers - Campus Lyon Métropole;college;;;;;"69123";Lyon
+4.81598459573096;45.7931334379855;way/472042244;Lycée Jean Perrin;school;lycée;public;0690082P;Q3268749;"69123";Lyon
+4.81711744729335;45.7941810113719;way/472042245;Collège Jean Perrin;school;collège;public;0692698H;;"69123";Lyon
+4.80419372969254;45.7737969882936;way/472169797;Collège Jean de Verrazane;school;collège;public;0692703N;Q61594321;"69123";Lyon
+4.85244750611304;45.7700419300848;way/472459810;École maternelle Jean Rostand;school;maternelle;public;0691182K;;"69123";Lyon
+4.8464389033682;45.7597406470095;way/472459811;École maternelle Antoine de Saint-Exupéry;school;maternelle;public;0691053V;;"69123";Lyon
+4.84727436239351;45.7585725630165;way/472459812;École élémentaire Mazenod;school;primaire;public;0692827Y;;"69123";Lyon
+4.84770133782542;45.7586039588568;way/472459813;Collège Raoul Dufy;school;collège;public;0690131T;;"69123";Lyon
+4.85044402372126;45.7640929590812;way/472459814;École élémentaire Jean Jaurès;school;élémentaire;public;0692574Y;;"69123";Lyon
+4.85034176786028;45.7638264640114;way/472459815;École maternelle Jean Jaurès;school;maternelle;public;0691036B;;"69123";Lyon
+4.84358551360691;45.7664367259226;way/472459818;École maternelle publique Pierre Corneille;school;maternelle;;0691031W;;"69123";Lyon
+4.84363143459648;45.7663046786797;way/472459819;École élémentaire publique Pierre Corneille;school;primaire;public;0693030U;;"69123";Lyon
+4.83775181939042;45.7457237692667;way/47246830;YNOV Lyon;college;;private;;;"69123";Lyon
+4.87022995005157;45.7553728475327;way/477125366;École élémentaire Meynis;school;primaire;public;0693107C;;"69123";Lyon
+4.87041106053184;45.7557736728148;way/477125367;École maternelle Meynis;school;maternelle;public;0691054W;;"69123";Lyon
+4.83937784348336;45.748027454319;way/48277951;École élémentaire privée enfants précoces;school;primaire;private;0694161Y;;"69123";Lyon
+4.8709095524547;45.7398887203111;way/50000135;Lycée général et technologique La Martinière Monplaisir;school;lycée;public;0692866R;Q3268789;"69123";Lyon
+4.83325278288035;45.733323189514;way/5212492;École Normale Supérieure de Lyon - Site René Descartes;university;;;0694123G;Q273605;"69123";Lyon
+4.8258182898021;45.7259861074063;way/5235854;Institut de Science Financière et d'Assurances;university;;public;;;"69123";Lyon
+4.83026840292077;45.7349609609211;way/5235960;Groupe scolaire Claudius Berthelier;school;élémentaire;;;;"69123";Lyon
+4.83009417137382;45.7677750863425;way/525908232;Lycée La Martinière Diderot - Site Terreaux - Les Augustins;school;lycée;public;0690037R;;"69123";Lyon
+4.8271842160871;45.7253905213129;way/527494526;Tony Parker Adéquat Academy;university;;;;;"69123";Lyon
+4.86555074959523;45.7362323162437;way/530024418;Collège Alice Guy;school;collège;public;0694295U;;"69123";Lyon
+4.87580441935341;45.7474972190065;way/545809102;Centre de formation Fédération Compagnonnique;college;;;;;"69123";Lyon
+4.88708906719622;45.7332213996911;way/565588524;École primaire Jean Mermoz;school;primaire;public;0691272H;;"69123";Lyon
+4.88790252273496;45.732997506427;way/565588525;École maternelle Jean Mermoz B;school;maternelle;public;0691163P;;"69123";Lyon
+4.88825875488022;45.7335553623829;way/565588528;Collège Jean Mermoz;school;collège;public;0690060R;;"69123";Lyon
+4.8375167949069;45.7652058788412;way/565588544;Collège Ampère;school;collège;public;0692693C;;"69123";Lyon
+4.88539928639297;45.7493579689348;way/565588545;Collège Molière;school;collège;public;0692411W;;"69123";Lyon
+4.81741593542118;45.7711688655222;way/565588553;Collège privé Saint-Louis - Saint-Bruno;school;collège;private;0692929J;;"69123";Lyon
+4.87287187054461;45.7407669991529;way/565588564;École primaire privée Pierre Termier;school;primaire;private;0691970S;;"69123";Lyon
+4.87322569307852;45.7420373666123;way/565588565;Collège et Lycée privé Pierre Termier;school;"collège;lycée";private;"0690538K;0692940W";;"69123";Lyon
+4.83443878286605;45.7750066489372;way/603772716;École maternelle du Gros Caillou;school;maternelle;public;0691049R;;"69123";Lyon
+4.8451691397907;45.7653912933182;way/60809451;Lycée général et technologique Édouard Herriot;school;lycée;public;0690027E;;"69123";Lyon
+4.8588251556601;45.7547877898995;way/62274964;Epita;college;engineer;private;0694310K;;"69123";Lyon
+4.84704415839402;45.7718644429262;way/62287784;Collège Vendôme (annexe);school;collège;;;;"69123";Lyon
+4.845619423935;45.7721917208513;way/62288293;Lycée du Parc (Internat-Annexe);school;lycée;public;;;"69123";Lyon
+4.8452110138187;45.7705589108269;way/62290486;Collège Vendôme;school;collège;public;0692338S;Q110664222;"69123";Lyon
+4.84291896860553;45.7677090562442;way/62294012;École maternelle privée Cours Diot;school;maternelle;private;0692010K;;"69123";Lyon
+4.85288908129226;45.7677604233677;way/62301286;Crêche Cuvier;kindergarten;;;;;"69123";Lyon
+4.88603262059093;45.7480170221428;way/62335368;École maternelle Viala;school;maternelle;public;0691059B;;"69123";Lyon
+4.88976705844203;45.7510798334813;way/62336517;Crèche Municipale;kindergarten;;;;;"69123";Lyon
+4.88603827394253;45.7491093467613;way/62337323;École primaire Louise;school;primaire;public;0692262J;;"69123";Lyon
+4.875897127831;45.7523168553975;way/62340095;Annexe école primaire privée Charles de Foucauld;school;primaire;private;0693261V;;"69123";Lyon
+4.88512715980705;45.748447303932;way/62342541;Montchatons;kindergarten;;;;;"69123";Lyon
+4.86692528358158;45.750556790033;way/62342617;Crèche Nové Josserand;kindergarten;;;;;"69123";Lyon
+4.86442806802367;45.7472264663328;way/62345578;École primaire Paul-Emile Victor;school;primaire;public;0693625R;;"69123";Lyon
+4.87709808797324;45.7271577045432;way/62346399;École primaire Jean Macé;school;primaire;public;0693473A;;"69123";Lyon
+4.86871204768571;45.7437634128444;way/62346804;École primaire privée Saint-Maurice;school;primaire;private;0693829M;;"69123";Lyon
+4.87746818148755;45.7269663307901;way/62346832;École maternelle Jean Macé;school;maternelle;public;0691173A;;"69123";Lyon
+4.87939636338994;45.7417196688794;way/62348580;ISPB Faculté de Pharmacie Botanique;university;;;;;"69123";Lyon
+4.87693100697844;45.7330744446228;way/62350235;Centre Inter-Régional de Formation Alternée en Plasturgie;college;;private;;;"69123";Lyon
+4.88228403473942;45.7361866431386;way/62350249;École maternelle Édouard Herriot;school;maternelle;public;0691171Y;;"69123";Lyon
+4.88218163170666;45.7406240313238;way/62350742;Amphithéatre Jean-François Cier;university;;;;;"69123";Lyon
+4.8879132497182;45.7384728506978;way/62351501;Université Claude Bernard - Lyon 1 - Faculté d'odontologie;college;;;;;"69123";Lyon
+4.86571639498908;45.7477594863865;way/625375280;Campus Sciences-U Lyon;college;;;;;"69123";Lyon
+4.83187993898701;45.7394482367952;way/625637111;Lycée professionnel Louise Labé;school;lycée professionnel;public;0690046A;;"69123";Lyon
+4.84711577704069;45.7554703123938;way/625649705;Lycée Ampère-Saxe;school;lycée;public;0690023A;;"69123";Lyon
+4.79742867336623;45.7849352900502;way/64467173;Lycée La Martinière Duchère;school;lycée;public;0690038S;Q18380072;"69123";Lyon
+4.85221966244445;45.746697592234;way/64930516;Université de Lyon (PRES);university;;;;Q10176;"69123";Lyon
+4.85868836277444;45.7476456714603;way/64931368;Institut supérieur de communication et de publicité;college;;private;0694315R;;"69123";Lyon
+4.85368560668479;45.7683736011754;way/655318457;École primaire Louis Pradel;school;primaire;public;0693600N;;"69123";Lyon
+4.82109149435121;45.7389575823698;way/656695312;Confluence Institute for Innovation and Creative Strategies in Architecture;university;;;;;"69123";Lyon
+4.8537788475716;45.7556757941366;way/668388121;École primaire Léon Jouhaux;school;primaire;public;0692740D;;"69123";Lyon
+4.81725839944911;45.7809685761671;way/675133978;Internat Adolphe Favre;school;;;;;"69123";Lyon
+4.82326953781835;45.770733424345;way/675854442;Institution des Chartreux;school;;private;;Q769526;"69123";Lyon
+4.79395761220468;45.7817886760687;way/68800751;École primaire Les Anémones;school;primaire;public;0692977L;;"69123";Lyon
+4.7946916994277;45.7878938254715;way/68896681;École primaire Les Bleuets;school;primaire;public;0693455F;;"69123";Lyon
+4.7955894524349;45.7891497516167;way/69072742;Collège Victor Schoelcher;school;collège;public;"0690036P;0691672T";;"69123";Lyon
+4.83641558882004;45.7503993947241;way/691377254;Bélénos;university;;;;;"69123";Lyon
+4.85299213842071;45.7464384023088;way/691949704;Etablissement scolaire provisoire;school;;;;;"69123";Lyon
+4.8605694859407;45.7479993211657;way/694531440;Université Lyon 3 - Campus Manufacture des Tabacs;university;;;;;"69123";Lyon
+4.83557600436338;45.7465419029627;way/700244365;Centre Berthelot;university;;;;Q2944799;"69123";Lyon
+4.83357663119815;45.7416335176773;way/708509590;École des Girondins;school;primaire;public;;;"69123";Lyon
+4.82279546246827;45.763306705172;way/708581651;École Catholique des Arts et Métiers;college;;;;;"69123";Lyon
+4.81763164954667;45.7395595389124;way/733250780;;college;;;;;"69123";Lyon
+4.8233905329544;45.7663540512203;way/734010156;MADE iN Sainte-Marie Lyon;college;;;;;"69123";Lyon
+4.83891126033237;45.7389840808393;way/79816068;École primaire François Auguste Ravier;school;primaire;public;0691175C;;"69123";Lyon
+4.87039875997992;45.7568843876438;way/803180995;École primaire Paul Bert;school;primaire;public;0693707E;;"69123";Lyon
+4.82171780777721;45.7475137372522;way/82189711;Institut d'étiopathie de Lyon;college;;private;;;"69123";Lyon
+4.82659851591699;45.7515598812879;way/82252569;Université Catholique de Lyon;university;;;;;"69123";Lyon
+4.82658455845575;45.7558604588235;way/82255320;Lycée professionnel privé Institut Technique des Carrières Carole;school;lycée;private;0691875N;;"69123";Lyon
+4.82914477545998;45.7562571306657;way/82255489;Collège privé Chevreul;school;collège;private;0692932M;;"69123";Lyon
+4.83501673117372;45.7626337699592;way/82399859;Centre de formation des enseignants de la musique;college;;;0693860W;;"69123";Lyon
+4.83371292252651;45.7654990924134;way/83999195;École générale privée Cours Pascal;school;lycée;private;0690557F;;"69123";Lyon
+4.83257729341139;45.7674802733547;way/84629600;Lycée professionnel privé de Coiffure;school;lycée;private;0691724Z;;"69123";Lyon
+4.82873830128418;45.7680815907476;way/84629768;Horizon Santé;college;;private;;;"69123";Lyon
+4.83150700503571;45.7683611201466;way/84646629;Lycée La Martinière Diderot - Site Terreaux - La Centrale;school;lycée;public;0690037R;;"69123";Lyon
+4.80055203754854;45.7863476428797;way/850858605;Groupe scolaire Les Dalhias;school;;;;;"69123";Lyon
+4.81952795782085;45.7438247010508;way/850927755;Groupe scolaire Germaine Tillion;school;primaire;public;0694169G;;"69123";Lyon
+4.8310871262139;45.7706258803401;way/852053604;École primaire des Tables Claudiennes;school;primaire;public;0693827K;;"69123";Lyon
+4.83317155373395;45.7728966656624;way/87140865;École maternelle Raoul Dufy;school;maternelle;public;0693202F;;"69123";Lyon
+4.82436018640279;45.8007320665426;way/881740162;École maternelle publique Frédéric Mistral;school;maternelle;public;0693097S;;"69123";Lyon
+4.82373161005933;45.8013161296337;way/881740163;École élémentaire Frédéric Mistral;school;élémentaire;public;0690414A;;"69123";Lyon
+4.82699529263754;45.8004010393973;way/882092728;École primaire d'application Les Grillons;school;primaire;public;0690413Z;;"69123";Lyon
+4.85673613554861;45.747290564995;way/892089107;École maternelle publique Crestin;school;maternelle;public;0694238G;;"69123";Lyon
+4.83357654680832;45.7416330679984;way/900878508;Groupe scolaire Françoise Héritier;school;;public;;;"69123";Lyon
+4.81256836807354;45.7762794648271;way/90303861;Collège privé les Chartreux - Saint-Charles;school;collège;private;0692934P;;"69123";Lyon
+4.8114648693639;45.775622997794;way/90304028;École primaire publique des Entrepôts;school;primaire;public;0693759L;;"69123";Lyon
+4.86211831115745;45.7401995329901;way/907303561;École maternelle publique Simone Veil;school;maternelle;;;;"69123";Lyon
+4.8021662541793;45.7699147353269;way/914436748;École primaire Joannes Masset;school;primaire;public;0694298X;;"69123";Lyon
+4.80827264465963;45.7711033480054;way/914454397;École élémentaire du Chapeau Rouge;school;primaire;public;0690410W;;"69123";Lyon
+4.8083807425231;45.771591986586;way/914454403;École maternelle Chapeau Rouge;school;maternelle;public;0691157H;;"69123";Lyon
+4.86432046563977;45.7271540103645;way/915912845;École primaire Alain Fournier;school;primaire;public;"0693557S;0694213E";;"69123";Lyon
+4.82866382457706;45.7717867154676;way/926303377;Lycée privé Jean-Baptiste de La Salle;school;lycée;private;0690671E;;"69123";Lyon
+4.82365273501608;45.7715142125817;way/926319504;Lycée général et technologique privé Saint-Bruno-Saint-Louis;school;lycée;private;0690563M;;"69123";Lyon
+4.86867305377034;45.745087011133;way/941967044;Lycée professionnel du Premier Film;school;lycée professionnel;public;0690092A;;"69123";Lyon
+4.8267401487536;45.7298822469055;way/95144113;École Normale Supérieure de Lyon - Site Jacques Monod;university;;;;;"69123";Lyon
+4.82242125854053;45.7324511320033;way/952963041;Lycée Docteur Charles Mérieux;school;lycée;public;0694405n;;"69123";Lyon
+4.83534286474749;45.7415190848734;way/978430557;Collège Gisèle Halimi;school;collège;public;0694453R;;"69123";Lyon
+4.85782409952964;45.7312591561716;way/989041867;groupe scolaire Anne Sylvestre;school;;public;;;"69123";Lyon
+4.82640635973063;45.7466040105912;way/99685363;Université Catholique de Lyon - Campus Saint-Paul;university;;;;Q8618;"69123";Lyon

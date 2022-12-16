@@ -1,0 +1,299 @@
+,longitude,latitude,name,category
+0,4.8228613,45.7410037003808,Espace Santé Confluence,doctors
+1,4.8736576,45.7554965003787,,dentist
+2,4.8761663,45.7567563003785,Cabinet d'infirmier des Maisons Neuves,clinic
+3,4.8760065,45.7332707003818,Physio Mermoz,doctors
+4,4.8740606,45.7328700003819,Centre Médico-Psychologique Maryse Bastié,doctors
+5,4.8743369,45.7329328003819,Renaud Zimmermann,doctors
+6,4.8736516,45.7332857003818,Pascal Bouteldja,doctors
+7,4.8838359,45.7327287003819,Laurent Chapuis,doctors
+8,4.8528767,45.7367903003813,,pharmacy
+9,4.8532122,45.7345038003817,Laboratoire Protheses Dentaires V.Ceccarelli,dentist
+10,4.8527435,45.7371049003813,Cabinet infirmier G.Dubois/M.Radovic,clinic
+11,4.8538358,45.7341922003817,Cabinet Infirmier,clinic
+12,4.8073502,45.7785464003754,Pharmacie de la gare d'eau,pharmacy
+13,4.8435577,45.7477004003798,Pharmacie Jean Macé,pharmacy
+14,4.8080562,45.7858503003744,Pharmacie du 9e,pharmacy
+15,4.8448324,45.7505966003794,Pharmacie Saint-Louis,pharmacy
+16,4.791798,45.7657986003772,Pharmacie des Deux Amants,pharmacy
+17,4.827309,45.7794528003753,Pharmacie des Canuts,pharmacy
+18,4.7964549,45.7566175003786,Pharmacie du Point du Jour,pharmacy
+19,4.8298511,45.7982183003726,Pharmacie de l'Île Barbe,pharmacy
+20,4.8509651,45.7569609003785,Cabinet Infirmier Lyonnais,doctors
+21,4.8541071,45.7488652003796,Clinique dentaire et d'orthodontie mutualiste,hospital
+22,4.8349223,45.7777429003756,Pharmacie de la Place Bertone,pharmacy
+23,4.858889,45.753720100379,Pharmacie de LYON,pharmacy
+24,4.8293313,45.753514300379,Pharmacie Khalatbari,pharmacy
+25,4.8294666,45.774876600376,Pharmacie du Marché,pharmacy
+26,4.8321327,45.7753724003759,Pharmacie Lafayette de la Place,pharmacy
+27,4.8315339,45.774734700376,Pharmacie de la croix rousse,pharmacy
+28,4.8329484,45.7644460003775,Boticinal Grande Pharmacie de Lyon Saint-Nizier,pharmacy
+29,4.8300126,45.7689154003768,Pharmacie Cueilleron,pharmacy
+30,4.8282739,45.7662567003772,Grande Pharmacie Saint-Paul,pharmacy
+31,4.8281538,45.7683178003769,Pharmacie Saint-Vincent,pharmacy
+32,4.7922134,45.7588492003782,Pharmacie des Aqueducs,pharmacy
+33,4.8332116,45.7768234003757,Pharmacie du Mail,pharmacy
+34,4.832197,45.7761364003758,Pharmacie des Lions,pharmacy
+35,4.8426935,45.7559100003787,Pharmacie Jeantet,pharmacy
+36,4.8424818,45.7552449003788,Pharmacie de la Guillotière,pharmacy
+37,4.8266996,45.7741738003761,Pharmacie Moreau,pharmacy
+38,4.8328938,45.774734100376,Pharmacie Du Gros Caillou,pharmacy
+39,4.8419751,45.7544751003789,Comité Départemental d'Hygiène Sociale,clinic
+40,4.8427077,45.7586846003783,Marie Merle psychologue clinicienne,doctors
+41,4.8442872,45.7506842003794,,doctors
+42,4.8263701,45.7594761003782,Pharmacie du Vieux-Lyon,pharmacy
+43,4.7855842,45.7570427003785,Pharmacie de Ménival,pharmacy
+44,4.8481729,45.753353400379,Dentego,dentist
+45,4.8359766,45.7573210003784,Pharmacie Bel,pharmacy
+46,4.8670688,45.7449990003802,Pharmacie des Frères Lumière,pharmacy
+47,4.8693738,45.7442047003803,Grande Pharmacie de Monplaisir,pharmacy
+48,4.8727629,45.7437059003804,Pharmacie de l'Institut,pharmacy
+49,4.8693568,45.7366867003813,Pharmacie Marsot et Sigaud,pharmacy
+50,4.8307224,45.7557398003787,Pharmacie Victor Hugo,pharmacy
+51,4.8359074,45.7600922003781,Pharmacie Hôtel Dieu,pharmacy
+52,4.8410187,45.7579310003784,Pharmacie du Village,pharmacy
+53,4.8456856,45.7520208003792,Pharmacie de l'Aigle,pharmacy
+54,4.8036375,45.7792124003754,Pharmacie de la Place de Paris,pharmacy
+55,4.8286534,45.7520219003792,Pharmacie Jean-Pierre Foraz,pharmacy
+56,4.8293928,45.7514186003793,Pharmacie Perrache Carnot,pharmacy
+57,4.8574817,45.7698191003767,Hello Pharmacie des Brotteaux,pharmacy
+58,4.8505178,45.7692398003768,Pharmacie Vitton,pharmacy
+59,4.8549932,45.7698188003767,Pharmacie du 6ème,pharmacy
+60,4.8622369,45.7410289003808,Pharmacie du 8ème,pharmacy
+61,4.8852755,45.7304486003822,Pharmacie Jean Mermoz,pharmacy
+62,4.8566375,45.7668935003771,Pharmacie des Brotteaux,pharmacy
+63,4.8547282,45.7689701003768,Pharmacie de Sèze,pharmacy
+64,4.8338623,45.7634214003776,Pharmacie Lafayette Florit,pharmacy
+65,4.8332721,45.7595650003782,Pharmacie des Archers,pharmacy
+66,4.8340461,45.7589560003782,Pharmacie Reboul,pharmacy
+67,4.8279687,45.7565078003786,Pharmacie de la Passerelle,pharmacy
+68,4.8069249,45.774644900376,Pharmacie Normale de Vaise,pharmacy
+69,4.8561538,45.7705190003766,Centre médico-dentaire,dentist
+70,4.8784117,45.7548607003788,Dr Couty,doctors
+71,4.8648775,45.7499414003795,Pharmacie du Dauphin,pharmacy
+72,4.8551626,45.7482158003797,Pharmacie Lestaevel,pharmacy
+73,4.8480727,45.7486748003797,Pharmacie de la Madeleine,pharmacy
+74,4.8810771,45.7482050003797,Pharmacie Ternamian,pharmacy
+75,4.8844527,45.7496105003795,Pharmacie du Cours,pharmacy
+76,4.839555,45.7485819003797,Pharmacie Nesme,pharmacy
+77,4.7980599,45.7565422003786,Grande Pharmacie de l'Ouest Lyonnais,pharmacy
+78,4.8649046,45.732375400382,Pharmacie Couderc,pharmacy
+79,4.8641695,45.7333242003818,Pharmacie des États-Unis,pharmacy
+80,4.852954,45.7292776003824,Pharmacie du Moulin à Vent,pharmacy
+81,4.8663509,45.7287055003825,Pharmacie du Marché des États-Unis,pharmacy
+82,4.8302729,45.7530100003791,Chatelon,pharmacy
+83,4.8567316,45.7621602003778,Grande Pharmacie de la Part Dieu,pharmacy
+84,4.8026706,45.7681823003769,Pharmacie Gorge de Loup,pharmacy
+85,4.8305554,45.7665948003771,Pharmacie de la Tour,pharmacy
+86,4.832882,45.767739600377,Pharmacie des Terreaux,pharmacy
+87,4.8327864,45.7555176003787,Pharmacie de la Grande poste,pharmacy
+88,4.8297116,45.7523478003792,Pharmacie Limonne,pharmacy
+89,4.8279346,45.7526749003791,Pharmacie Franklin,pharmacy
+90,4.8332351,45.7621000003778,Pharmacie du Centre,pharmacy
+91,4.8521908,45.7693375003767,Grande Pharmacie du Parc,pharmacy
+92,4.8611086,45.7704451003766,Pharmacie Anton & Willem,pharmacy
+93,4.8362055,45.7669467003771,Pharmacie de l'Opéra,pharmacy
+94,4.8331261,45.7713466003765,Pharmacie de la Colline,pharmacy
+95,4.8455461,45.7637316003776,Pharmacie Dahan,pharmacy
+96,4.842785,45.7637075003775,Pharmacie du Rhône,pharmacy
+97,4.8264711,45.7490568003796,Grande Pharmacie de Perrache,pharmacy
+98,4.8717841,45.7456159003801,Pharmacie Grange-Blanche,pharmacy
+99,4.8134784,45.7580587003783,Pharmacie de Trion,pharmacy
+100,4.8455753,45.7690710003768,Pharmacie Le Niger Duittoz,pharmacy
+101,4.8475423,45.7688882003768,Pharmacie Leclerc Le Goffic,pharmacy
+102,4.8535238,45.7299258003823,La Pharmacie d'Anne Salort,pharmacy
+103,4.8004772,45.788920700374,Pharmacie Balmont,pharmacy
+104,4.8242731,45.74637150038,Pharmacie Charlemagne,pharmacy
+105,4.8470799,45.7727034003763,Pharmacie Duquesne,pharmacy
+106,4.8051857,45.7756982003758,Pharmacie Kauffmann Perrin,pharmacy
+107,4.8321253,45.7777504003756,Pharmacie Keller,pharmacy
+108,4.8283709,45.7643102003775,Pharmacie du Change,pharmacy
+109,4.820748,45.7785889003754,Pharmacie Moncozet Clément,pharmacy
+110,4.8220975,45.7445045003803,Pharmacie Sainte-Blandine,pharmacy
+111,4.8528777,45.7369654003813,Pharmacie Triolaire,pharmacy
+112,4.8322228,45.7796009003753,Pharmacie de l'Ambre,pharmacy
+113,4.8326014,45.781578400375,Pharmacie de l'Ambre,pharmacy
+114,4.850055,45.7667210003771,Pharmacie de l'Europe,pharmacy
+115,4.8348286,45.7762420003758,Pharmacie de la Soie,pharmacy
+116,4.868066,45.7638428003775,Pharmacie des Charmettes,pharmacy
+117,4.8213454,45.7727790003763,Pharmacie du Clos Jouve,pharmacy
+118,4.8471116,45.7705936003766,Pharmacie Duguesclin,pharmacy
+119,4.8770793,45.7406668003808,Institut d'hématologie et d'oncologie pédiatrique,hospital
+120,4.8541363,45.7507382003794,SOS Médecins,doctors
+121,4.8891352,45.74633670038,Résidence Constant,nursing_home
+122,4.8058216,45.767423300377,Pharmacie du Cap de Vaise,pharmacy
+123,4.8083639,45.7734910003762,Pharmacie Saint-Pierre-de-Vaise,pharmacy
+124,4.8017095,45.7756828003758,Pharmacie Marietton,pharmacy
+125,4.8532944,45.7527103003791,Docteur Asaad Samer,doctors
+126,4.8686586,45.7531561003791,Pharmacie Lacassagne,pharmacy
+127,4.8676658,45.7547848003788,Pharmacie de l'Isle,pharmacy
+128,4.876031,45.7555791003787,Pharmacie des Maisons Neuves,pharmacy
+129,4.8653981,45.7568007003785,Pharmacie Sainte-Anne,pharmacy
+130,4.8676324,45.7592043003782,Pharmacie Lacroix,pharmacy
+131,4.8526822,45.7637649003776,Pharmacie Tête d'Or,pharmacy
+132,4.8490476,45.7632420003776,Pharmacie des Halles,pharmacy
+133,4.8566797,45.7569526003785,Pharmacie de la Rize,pharmacy
+134,4.8492656,45.7569645003785,Pharmacie Voltaire,pharmacy
+135,4.8472268,45.7563946003786,Pharmacie Vendôme,pharmacy
+136,4.8460388,45.7561011003786,Pharmacie Tarak,pharmacy
+137,4.846151,45.7568822003785,Grande Pharmacie de Saxe,pharmacy
+138,4.8453274,45.760769200378,Pharmacie de la Préfecture,pharmacy
+139,4.8468798,45.7596325003781,Pharmacie Place Guichard,pharmacy
+140,4.8497706,45.7610540003779,Pharmacie Masselot,pharmacy
+141,4.8878475,45.7504917003794,Pharmacie des Charmilles,pharmacy
+142,4.8912556,45.753227000379,Pharmacie de la Place Ronde,pharmacy
+143,4.8897505,45.753572500379,Grande Pharmacie de Montchat,pharmacy
+144,4.8177809,45.7437677003804,Pharmacie Lyon Confluence,pharmacy
+145,4.8532244,45.7325399003819,Dr Eliane Duperray,doctors
+146,4.8446429,45.7548549003788,Pharmacie des Facultés,pharmacy
+147,4.8504911,45.7528463003791,Pharmacie Aristide Briand,pharmacy
+148,4.8532676,45.7528077003791,Pharmacie Felix Faure,pharmacy
+149,4.8642919,45.7636148003776,Pharmacie Lafayette,pharmacy
+150,4.8782713,45.7272027003827,Grande pharmacie de la Plaine,pharmacy
+151,4.8764372,45.7294201003824,Pharmacie Paul Santy,pharmacy
+152,4.8834392,45.7359421003815,Pharmacie Ambroise Paré,pharmacy
+153,4.8328957,45.7660157003772,Pharmacie du Serpent,pharmacy
+154,4.8637601,45.7457350003801,Thierry Bouchard,dentist
+155,4.8593924,45.7403198003809,Pharmacie Hacker,pharmacy
+156,4.862227,45.7375981003812,Pharmacie du Peintre Villon,pharmacy
+157,4.8784405,45.7384319003811,Pharmacie Dumas-Tachet,pharmacy
+158,4.8766463,45.7426374003805,Denis Gaisnon,doctors
+159,4.7944913,45.7729748003762,Anne-sophie Dachy - Ostéopathe Lyon 9,doctors
+160,4.8753539,45.7495935003795,Centre médical et dentaire MGEN,hospital
+161,4.8266079,45.7348932003816,Pharmacie du 7ème,pharmacy
+162,4.8287133,45.7306851003822,Pharmacie des Pavillons,pharmacy
+163,4.8293716,45.7359289003815,Pharmacie Bouvier,pharmacy
+164,4.848357,45.7487500003797,Docteur Julie Plot,doctors
+165,4.7926307,45.7632115003776,Maison médicale de garde Buyer,doctors
+166,4.8493102,45.7693390003768,Pharmacie Kléber,pharmacy
+167,4.8440326,45.7670577003771,Grande Pharmacie Lyon Saxe,pharmacy
+168,4.8847583,45.7410805003807,Pharmacie Labbe-Dutilleul,pharmacy
+169,4.8710782,45.7303124003822,Pharmacie Pérard,pharmacy
+170,4.8356863,45.7343606003817,Pharmacie Bonglet-Djian,pharmacy
+171,4.832955,45.7298151003823,Pharmacie Centrale de Gerland,pharmacy
+172,4.8257525,45.8005686003723,Pharmacie de Saint-Rambert,pharmacy
+173,4.8485748,45.7690125003768,Centre d'Exploration de la Rétine Kleber,clinic
+174,4.8065427,45.7769278003757,Radiologie Lyon 9,doctors
+175,4.8084621,45.7831439003748,Cabinet dentaire Rhin & Danube,dentist
+176,4.8342613,45.7397209003809,EPHAD Les Girondines,nursing_home
+177,4.8274615,45.7342088003817,,doctors
+178,4.8294904,45.7345969003817,Cabinet Infirmier Rodolphe Calvet,doctors
+179,4.8432829,45.7705395003766,Pharmacie Foch,pharmacy
+180,4.8450166,45.7751711003759,Phamacie de la Roseraie,pharmacy
+181,4.8288649,45.7312792003821,Cabinet Paramédical,clinic
+182,4.8658504,45.7591120003782,La Villette d'Or,nursing_home
+183,4.8494562,45.7729703003762,Centre médical Parot,doctors
+184,4.8520196,45.7508803003794,Ehpad Gambetta,nursing_home
+185,4.8265501,45.7348096003816,Cabinet médical Yves Farge,doctors
+186,4.8442841,45.7739973003761,Docteur Carol Gilibert,doctors
+187,4.846946,45.7738740003761,Docteur Franck Godesky,doctors
+188,4.8443982,45.7736973003761,Docteur Claire Amoros Bessede,doctors
+189,4.7898434,45.7890752003739,Pharmacie de la Sauvegarde,pharmacy
+190,4.8334072,45.7370202003813,Pharmacie des Girondins Lyon,pharmacy
+191,4.8715494,45.7457110003801,Sautier,doctors
+192,4.878049,45.7490247003796,Deleage-Upi,doctors
+193,4.8456719,45.7617881003778,Penet,doctors
+194,4.8534502,45.7309205003822,Pierre Billon,doctors
+195,4.8893624,45.739433700381,Centre Medicina,hospital
+196,4.8458137,45.7695136003767,Imagerie Médicale Créqui,clinic
+197,4.8817178,45.7326625003819,Pharmacie de la Licorne,pharmacy
+198,4.8465402,45.7587076003783,Chirurgie dentaire,dentist
+199,4.8337161,45.7629622003777,Cabinet d'orthodontie Chantal Malins,dentist
+200,4.8670821,45.7547077003788,Hueber Thierry,dentist
+201,4.8748915,45.7431028003805,Docali,dentist
+202,4.8320599,45.7594130003782,,doctors
+203,4.8178366,45.7794374003753,La Colline de la Soie,nursing_home
+204,4.830008,45.7730154003762,EHPAD Saint-François d'Assise,nursing_home
+205,4.8220739,45.7754052003759,Orpea - Résidence Croix-Rousse,nursing_home
+206,4.8451222,45.7696784003767,Centre Ophtalmologique Vendôme,doctors
+207,4.8761726,45.7338135003818,Hôpital de jour Adultes Quadrille,clinic
+208,4.815335,45.7907844003737,Pharmacie des Docks,pharmacy
+209,4.7953647,45.7866104003743,Grande pharmacie du Plateau,pharmacy
+210,4.8328224,45.7584906003783,Dr Ajzenberg,doctors
+211,4.8227961,45.7840482003747,Ehpad Marius Bertrand,nursing_home
+212,4.8639376,45.7458846003801,Pascal Eymeric,dentist
+213,4.8528129,45.7353340003816,Pharmacie Lyon Grand Trou,pharmacy
+214,4.8262068,45.7719681003764,Pharmacie Moulines,pharmacy
+215,4.8305957,45.7587868003783,Pharmacie Bellecour,pharmacy
+216,4.8725969,45.7331700003819,Ehpad La Vérandine,nursing_home
+217,4.875882,45.7287327003825,Ehpad Madeleine Caillé,nursing_home
+218,4.8808282,45.7304912003822,Ehpad La Rotonde,nursing_home
+219,4.8749487,45.7372318003813,Résidence Saint-Éxupéry,nursing_home
+220,4.8653319,45.7358863003815,La Saison Dorée,nursing_home
+221,4.8505564,45.7433469003804,Les terrasses de Blandan,nursing_home
+222,4.8437232,45.7668240003771,Ehpad Le 6ème,nursing_home
+223,4.8493674,45.7613586003779,Ehpad Bellecombe,nursing_home
+224,4.8649587,45.760447200378,Ma Maison Vilette,nursing_home
+225,4.862737,45.7626249003777,Ehpad Ma Demeure,nursing_home
+226,4.8486534,45.7728507003763,Ehpad Duquesne,nursing_home
+227,4.7943346,45.7718238003764,Résidence Margaux,nursing_home
+228,4.8083271,45.7571632003785,Ehpad La Favorite,nursing_home
+229,4.8215711,45.7619516003778,Ehpad Thérèse Couderc,nursing_home
+230,4.8306948,45.7722853003763,Bon Secours,nursing_home
+231,4.8027285,45.7690087003768,Ehpad Sergent Berthet,nursing_home
+232,4.8108133,45.7837469003747,Ehpad Le Rivage,nursing_home
+233,4.8114816,45.7913934003736,Ehpad Sainte-Anne,nursing_home
+234,4.7880319,45.7502189003795,Ehpad Pierre Garaud,nursing_home
+235,4.8362261,45.760584800378,Dentego,dentist
+236,4.8414955,45.7600651003781,Wilson Medical,clinic
+237,4.8486831,45.753173200379,Pharmacie de l'Abondance,pharmacy
+238,4.8359614,45.7695884003767,Pharmacie Croix-Paquet,pharmacy
+239,4.8249234,45.8012442003722,,doctors
+240,4.8248987,45.7471115003799,Grande Pharmacie des Voutes,pharmacy
+241,4.8775747,45.7426994003805,Pharmacie de la Sirène,pharmacy
+242,4.8239871,45.774654500376,Cabinet d'osthéopathie des Canuts,doctors
+243,4.8705617,45.7344093003817,Centre Orthopédique Santy,doctors
+244,4.8412994,45.7497428003795,Pharmacie du Prado,pharmacy
+245,4.8853859,45.7496999003795,,dentist
+246,4.8441105,45.7634928003776,Cabinet Dentaire Lafayette Préfecture,dentist
+247,4.8863101,45.7539490003789,Docteur Lisa Blic,dentist
+248,4.8164049,45.7599824003781,Dr Nadège Thieulent,doctors
+249,4.8826089,45.7418771003806,ORTHO CENTER,doctors
+250,4.8081135,45.7859901003744,Pôle médical vaise,doctors
+251,4.8523167,45.7637505003775,place dentaire,dentist
+252,4.8533207,45.7513353003793,Pharmacie Gambetta,pharmacy
+253,4.8380569,45.7370282003813,Pharmacie Bange,pharmacy
+254,4.8566955,45.7637702003775,Pharmacie Mathey-François,pharmacy
+255,4.8344394,45.732375000382,Charlotte Astier,doctors
+256,4.834449,45.732383700382,Pascale Leydier,doctors
+257,4.8507511,45.7426880003805,Pharmacie du progrès,pharmacy
+258,4.8376472,45.74672150038,Pharmacie du Midi,pharmacy
+259,4.8346466,45.7473802003799,Pharmacie de l'Université,pharmacy
+260,4.8371171,45.7468885003799,Pharmacie Berthelot,pharmacy
+261,4.7823266,45.7541139003789,Pharmacie des Battières,pharmacy
+262,4.8356229,45.7635534003776,Grande Pharmacie Lyonnaise,pharmacy
+263,4.8434971,45.74620920038,Cardiologue,doctors
+264,4.8499091,45.7470750003799,,doctors
+265,4.83589803578038,45.7496430367725,Centre hospitalier Saint-Joseph Saint-Luc,hospital
+266,4.87764097327059,45.7410779453958,Centre de lutte contre le cancer Léon Bérard,hospital
+267,4.79751229046367,45.7600640886204,Maison Médicale des Massue,clinic
+268,4.87590894738769,45.7357839017979,Hôpital privé Jean Mermoz,hospital
+269,4.8136116521161,45.7531260905868,Ehpad Les Amandines,nursing_home
+270,4.79660329240036,45.7503643869996,Ehpad Saint-Camille,nursing_home
+271,4.7978470119237,45.7550073440463,Ehpad Tiers Temps,nursing_home
+272,4.83549828870085,45.8017785844891,Les Balcons de l'Île Barbe,nursing_home
+273,4.79774024308463,45.762689363963,Pharmacie de Champvert,pharmacy
+274,4.83081778339825,45.7817400340297,Hôpital de la Croix-Rousse,hospital
+275,4.78804822973651,45.7491280852209,Hôpital gériatrique Pierre Garaud,hospital
+276,4.88262186987398,45.7437454852589,Hôpital Édouard Herriot,hospital
+277,4.89088796044785,45.7409538526642,Hôpital d'instruction des armées Desgenettes,hospital
+278,4.78659800120795,45.7881326223485,Clinique de la Sauvegarde,hospital
+279,4.79709392096812,45.7610496348213,Centre médico-chirurgical de réadaptation des Massues,hospital
+280,4.85155648615131,45.722703514437,Hôpital Psychiatrique Saint-Jean-de-Dieu,hospital
+281,4.82741371834473,45.7699470912617,Clinique Saint-Charles,hospital
+282,4.86961773723688,45.7380991638977,Clinique Saint-Jean,hospital
+283,4.80444027837309,45.7589577395917,Clinique Lyon Champvert,hospital
+284,4.80221686586632,45.752568115497,Clinique Villa des Roses,hospital
+285,4.81833952018771,45.7623313749177,Hôpital gériatrique de Fourvière,hospital
+286,4.83935557685596,45.7382296298358,Ehpad Gerland,nursing_home
+287,4.87167501532375,45.756842878366,Clinique Émilie de Vialar,hospital
+288,4.79984200319787,45.7596231256561,La Roseraie,nursing_home
+289,4.83876701338016,45.7508299987003,Service de Consultations et de Traitements Dentaires,clinic
+290,4.8556875247773,45.7708243653884,Résidence Tête d'Or,nursing_home
+291,4.84540863049988,45.7595580430261,Clinique Part-Dieu,clinic
+292,4.87118143993164,45.7362541131407,Croix-Rouge française,hospital
+293,4.87945295838342,45.7270216661351,Résidence Monplaisir la Plaine,nursing_home
+294,4.87800371851345,45.7413239776942,Centre Léon Bérard,hospital
+295,4.87475096075324,45.7359567760135,Clinique Iris,hospital
+296,4.81789397274495,45.7825743739622,Le Clos d'Ypres,nursing_home
+297,4.85929206516469,45.7716493062302,Clinique du Parc,hospital

@@ -1,0 +1,758 @@
+X;Y;osm_id;type;name;ref_mhs;religion;religion_denomination;inscription;build_date;description;wikipedia;civilization;heritage;com_insee;com_nom
+4.8089982;45.7655920003773;node/10013352246;fort;Fort de Loyasse;;;;;;;;;;"69123";Lyon
+4.8280111;45.7511560003793;node/10049372459;memorial;Stèle Verdun;;;;Cette borne identique à celles qui jalonnent la voie sacrée commemore le sacrifice et l'héroîsme de tous les combatants de la bataille de Verdun;;Stèle à la mémoire des Enfants d'Izieu : https://www.lyon.fr/node/262039;;;;"69123";Lyon
+4.8238059;45.7552081003788;node/10116896406;memorial;René-Maria Burlet;;;;"1907 René-Maria Burlet 1994 Artiste peintre Fresquiste Maitre verrier Exerça ici son art de 1933 à 1989 fonda et anima l'Académie ""Minotaure"" Le poids du monde repose sur les sensibles";;;;;;"69123";Lyon
+4.824793;45.7574032003784;node/10117242543;memorial;Victoria Nicollet;;;;Dans cette maison a vécu Victoria Nicollet morte en déportation à Ravensbrück en 1945 victime du facisme Passant souviens-toi;;;;;;"69123";Lyon
+4.8272102;45.7597263003781;node/10118330270;name;;;;;Rue St Romain;;;;;;"69123";Lyon
+4.8272183;45.7597107003781;node/10118330274;name;;;;;Rue des Prêtres;;;;;;"69123";Lyon
+4.8246226;45.7563820003786;node/10121661043;memorial;Gabriel Chevallier;;;;"Ici est né Gabriel Chevallier 1895-1969 Écrivain auteur du roman ""Clochemerle""";;;;;;"69123";Lyon
+4.8232983;45.7512852003793;node/10122742652;memorial;Kitchener-Marchand;;;;... Le 11 novembre 1955 le nom de Marchand a été ajouté à celui de Kitchener en reconnaissance aux 2 grands soldats qui lors de leur rencontre à FACHODA en septembre 1898 ont su ... épargner la guerre à nos 2 peuples ... É.Herriot R.Parr Consul Britanique;;;;;;"69123";Lyon
+4.823315;45.7513035003793;node/10122742653;memorial;Pont;;;;... Pont Kitchener-Marchand (1947-1949) ...;;;;;;"69123";Lyon
+4.8324094;45.7811814003751;node/10124207044;memorial;15 juin 1944;;;;;;;;;;"69123";Lyon
+4.8343761;45.7808898003751;node/10125505160;memorial;Claude Linossier;;;;;;;;;;"69123";Lyon
+4.8343295;45.7794278003753;node/10125508318;memorial;Louis Seurre;;;;;;;;;;"69123";Lyon
+4.862744;45.7571954003785;node/10126380876;memorial;;;;;A la mémoire de Maurice Flandin. Héros de la résistance. Assassiné par la milice le 20-2-1944;;;;;;"69123";Lyon
+4.8234477;45.7538958003789;node/10127183822;memorial;Patrick Fillon;;;;À la mémoire du lieutenant de Police Patrick Fillon tué en service le 19 février 1997;;;;;;"69123";Lyon
+4.8355639;45.7735395003762;node/1013348945;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8123095;45.7751653003759;node/10170229082;memorial;Chapelle Sainte Monique;;;;;;;;;;"69123";Lyon
+4.833129;45.7771430003757;node/1201407649;wayside_shrine;;;christian;catholic;;;Vierge à l'enfant;;;;"69123";Lyon
+4.8358887;45.7767726003757;node/1277530392;wayside_shrine;;;christian;;;;Saint-Joseph;;;;"69123";Lyon
+4.826922;45.7588290003782;node/1367545590;wayside_shrine;;;christian;;;;vierge à l'enfant;;;;"69123";Lyon
+4.825475;45.7593830003782;node/1367546014;wayside_shrine;;;christian;;;;vierge;;;;"69123";Lyon
+4.825404;45.7593990003782;node/1367546025;wayside_shrine;;;christian;;;;Saint-Pierre;;;;"69123";Lyon
+4.825622;45.7597210003781;node/1367546333;wayside_shrine;;;christian;;;;Saint-Pierre;;;;"69123";Lyon
+4.830385;45.7691356003768;node/1368894258;memorial;Au Sergent Blandan;;;;;;;;;;"69123";Lyon
+4.827633;45.7625810003777;node/1396215860;wayside_shrine;;;christian;;;;vierge;;;;"69123";Lyon
+4.827987;45.7633830003776;node/1396217017;wayside_shrine;;;christian;;;;vierge à l'enfant;;;;"69123";Lyon
+4.828228;45.7638590003775;node/1396217663;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.827713;45.7639690003775;node/1396217869;wayside_shrine;;;christian;;;;vierge (décapitée);;;;"69123";Lyon
+4.827417;45.7646280003774;node/1396218505;wayside_shrine;;;christian;;;;vierge;;;;"69123";Lyon
+4.827962;45.7650530003774;node/1396218849;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.828635;45.7661460003772;node/1396220787;wayside_shrine;;;christian;;;;Saint-Paul;;;;"69123";Lyon
+4.8269018;45.7639857003775;node/1425522909;fountain;;;;;;;;;;;"69123";Lyon
+4.8265444;45.7610157003779;node/1425746363;fountain;Fontaine Saint-Jean de Lyon;;;;;;;;;;"69123";Lyon
+4.8328904;45.753491400379;node/1425748457;memorial;;;;;;;;;;;"69123";Lyon
+4.8335038;45.753279400379;node/1425748465;fountain;;;;;;;;;;;"69123";Lyon
+4.8288284;45.753145800379;node/1425776018;memorial;Statue de Monsieur Ampère;;;;;"1888";;fr:Monument à Ampère;;;"69123";Lyon
+4.8481355;45.7598158003781;node/1502685008;fountain;Le Buisson Ardent;;;;;;;fr:Le Buisson ardent (Böhmer);;;"69123";Lyon
+4.8085823;45.7727806003763;node/1557130252;memorial;;;;;;;;;;;"69123";Lyon
+4.8629107;45.753315100379;node/1603514307;fountain;;;;;;;;;;;"69123";Lyon
+4.8628463;45.753309500379;node/1603514352;fountain;;;;;;;;;;;"69123";Lyon
+4.8628838;45.753277600379;node/1603514356;fountain;;;;;;;;;;;"69123";Lyon
+4.8628436;45.753416100379;node/1603514396;fountain;;;;;;;;;;;"69123";Lyon
+4.8628409;45.753371200379;node/1603514424;fountain;;;;;;;;;;;"69123";Lyon
+4.8628812;45.753400200379;node/1603514425;fountain;;;;;;;;;;;"69123";Lyon
+4.8628932;45.753354400379;node/1603514426;fountain;;;;;;;;;;;"69123";Lyon
+4.8628503;45.753341300379;node/1603514433;fountain;;;;;;;;;;;"69123";Lyon
+4.8549053;45.7812290003751;node/1688832982;memorial;Claude-Marius Vaïsse;;;;SENATEUR VAÏSSE Jean-Claude / Préfet du Rhône du 25 mars 1853 au 29 août 1864 / Créateur du parc de la Tête d'Or;;Statue-buste du Senateur Jean-Claude Marius Magdeleine Vaïsse;;;;"69123";Lyon
+4.8098194;45.7711254003765;node/1766609036;castle;Fort de Vaise;;;;;;;;;;"69123";Lyon
+4.8267962;45.7630989003776;node/1782972487;place_of_worship;Paroisse orthodoxe française;;christian;orthodox;;;;;;;"69123";Lyon
+4.8341236;45.7648593003774;node/1789274219;fountain;;;;;;;;;;;"69123";Lyon
+4.8288458;45.753153300379;node/1790660170;fountain;Fontaine de la Place Ampère;;;;;;;;;;"69123";Lyon
+4.832126;45.774878500376;node/1880418734;memorial;Statue de Joseph Marie Jacquard;;;;;;;;;;"69123";Lyon
+4.8329176;45.7753938003759;node/1880845005;city_gate;Porte Neuve;;;;;;;;;;"69123";Lyon
+4.826909;45.7656091003773;node/1971338600;yes;;PA00117872;;;;;;;;"3";"69123";Lyon
+4.8696796;45.7453487003801;node/2003488735;yes;Hangar du Premier-Film;PA00118154;;;;;;fr:Hangar du Premier-Film;;"2";"69123";Lyon
+4.7973011;45.7560907003786;node/2014228832;fountain;;;;;;;;;;;"69123";Lyon
+4.8617537;45.7504007003794;node/2039127648;memorial;Mémorial National de la Prison de Montluc;;;;;;;fr:Prison Montluc;;;"69123";Lyon
+4.8519121;45.7243381003831;node/2062833928;fountain;;;;;;;;;;;"69123";Lyon
+4.8519587;45.7806710003752;node/21609292;memorial;Monument aux morts de l'île du Souvenir;PA00117982;;;;;;fr:Monument aux morts de l'île du Souvenir;;"3";"69123";Lyon
+4.8777013;45.7426499003805;node/2193037905;memorial;Monument à la gloire du service de santé militaire;;;;À LA GLOIRE DU SERVICE DE SANTÉ;"1938";;fr:Monument à la gloire du service de santé militaire de Grange Blanche;;;"69123";Lyon
+4.8580762;45.767795400377;node/2284148697;memorial;Julien Barbero;;;;"A JULIEN BARBERO
+OFFICIER DE LA LEGION D'HONNEUR
+DEPUTE DU RHONE
+CONSEILLER GENERAL
+ADJOINT AU MAIRE
+1870-1936";1938-07-24;;;;;"69123";Lyon
+4.8284204;45.7742614003761;node/2311828056;memorial;À Henri Gorjus;;;;;;;;;;"69123";Lyon
+4.8321925;45.7578371003784;node/236376643;memorial;Statue équestre de Louis XIV;;;;;"1825";;fr:Statue équestre de Louis XIV (Lyon);;;"69123";Lyon
+4.8072178;45.7711211003765;node/2426730224;memorial;Rhodiaceta;;;;;;;;;;"69123";Lyon
+4.8277735;45.7298038003823;node/2432977426;fountain;;;;;;;;;;;"69123";Lyon
+4.8246138;45.7736215003762;node/2443656856;gate;Portail du Château de la Tourette;PA00117787;;;;C16;;fr:Château de la Tourette;;"2";"69123";Lyon
+4.8213138;45.7667625003771;node/2466195348;memorial;L'Homme de la Roche;;;;;1849-09-16;;;;;"69123";Lyon
+4.8296069;45.7680760003769;node/2470725729;memorial;Monument aux Grands Hommes de la Martinière;;;;Claude Martin fondateur de La Martinière...;1911-12-10;;;;;"69123";Lyon
+4.82992;45.7574366003784;node/2476288480;memorial;Le Petit Prince et Saint-Exupery;;;;;"2000";;;;;"69123";Lyon
+4.8254447;45.7575147003784;node/2476993970;fountain;;;;;;;;;;;"69123";Lyon
+4.8255685;45.7578216003784;node/2476993985;fountain;;;;;;;;;;;"69123";Lyon
+4.8267828;45.7587781003783;node/2477064628;memorial;Monseigneur Lavarenne;;;;;;;;;;"69123";Lyon
+4.8526686;45.7610645003779;node/2483668690;memorial;Charles de Gaulle;;;;;;;;;;"69123";Lyon
+4.8522946;45.7613205003779;node/2483668728;fountain;;;;;;;;;;;"69123";Lyon
+4.8055691;45.7669524003771;node/2507941351;memorial;Au Personnel de la Société Rhodiaceta Victime de la Guerre 1939-1945;;;;;;;;;;"69123";Lyon
+4.8480354;45.7596923003781;node/2630265230;memorial;Martin Luther King;;;;;;;;;;"69123";Lyon
+4.8371588;45.7698210003767;node/2637284760;building;;PA00118121;;;;;;;;"3";"69123";Lyon
+4.8292496;45.7707891003765;node/270483133;memorial;"A la coopération, commerce véridique 1835";;;;A LA COOPERATION / EN 1835 MICHEL DERRION / ET JOSEPH REYNIER / FONDERENT LE / LE COMMERCE VéRIDIQUE / ET SOCIéTAIRE / ET OUVRIRENT LE / PREMIER MAGASIN / COOPERATIF DE VENTE / MONTéE DE LA GRANDE- / -COTE A LYON;;colonne surmontée d'une vasque avec en médaillon les 2 visages en profil gauche et leurs noms DERRION et REYNIER;;;;"69123";Lyon
+4.8303812;45.7702328003766;node/270483139;memorial;"""A Burdeau""";;;;;;;;;;"69123";Lyon
+4.8332712;45.7582517003783;node/273211850;memorial;Veilleur de pierre;;;;;"1948";;fr:Veilleur de pierre;;;"69123";Lyon
+4.8211677;45.7580577003784;node/2749210878;wayside_cross;;;christian;catholic;;;;;;;"69123";Lyon
+4.8368264;45.7457388003801;node/2771810550;memorial;;;;;;;;;;;"69123";Lyon
+4.8052919;45.7729110003762;node/2789756653;memorial;Souvenir Unité Paix;;;;;;;;;;"69123";Lyon
+4.8274088;45.7615719003779;node/2812916904;building;;PA00117898;;;;;;;;"3";"69123";Lyon
+4.8277673;45.7642698003775;node/2812916905;building;;PA00117906;;;;;;;;"3";"69123";Lyon
+4.8485244;45.7601956003781;node/2845450101;memorial;Adjudant Stéphane Abbes;;;;A la mémoire de l'adjudant Stéphane Abbes du Corps départemental des sapeurs-pompiers du Rhône centre d’intervention Lyon-Corneille. Mort en service commandé le 28 février 2008 lors de l’explosion de gaz 117 cours Lafayette à Lyon;2016-02-28;;;;;"69123";Lyon
+4.812979;45.7549519003788;node/3061245793;place_of_worship;Regina Martyrum;;christian;catholic;;;;;;;"69123";Lyon
+4.8359417;45.7638386003775;node/3128834826;memorial;;;;;;;;;;;"69123";Lyon
+4.8359739;45.7638364003775;node/3128834827;memorial;;;;;"Ici, le 24 juin 1894, François Marie Sadi Carnot, président de la République Française, fut poignardé mortellement par l'anarchiste Caserio";;;fr:Sadi Carnot (homme politique)#Assassinat;;;"69123";Lyon
+4.8571489;45.7671702003771;node/3139885740;memorial;Mémorial Général Brosset;;;;;;;;;;"69123";Lyon
+4.856947;45.7385146003811;node/3209370959;memorial;Monument aux Morts de la guerre franco-allemande de 1870;;;;;;;;;;"69123";Lyon
+4.8544199;45.7377145003812;node/3444438634;fountain;;;;;;;;;;;"69123";Lyon
+4.8000012;45.7894281003739;node/3450121250;memorial;Monument aux morts d'Oran;;;;En souvenir de leur terre natale la ville de Lyon à ses enfants d'Afrique du Nord qu'elle a accueillis;"1968";;fr:Monument aux morts d'Oran;;;"69123";Lyon
+4.8324493;45.7569015003785;node/3467672858;fountain;;;;;;;;;;;"69123";Lyon
+4.832266;45.7569443003785;node/3467672872;fountain;;;;;;;;;;;"69123";Lyon
+4.8320877;45.7569859003785;node/3467672886;fountain;;;;;;;;;;;"69123";Lyon
+4.8314082;45.7571420003785;node/3467695036;fountain;;;;;;;;;;;"69123";Lyon
+4.8312249;45.7571848003785;node/3467695067;fountain;;;;;;;;;;;"69123";Lyon
+4.8310466;45.7572264003785;node/3467695096;fountain;;;;;;;;;;;"69123";Lyon
+4.8278009;45.7508358003794;node/3467753329;fountain;;;;;;;;;;;"69123";Lyon
+4.8875882;45.7491028003796;node/3522345515;memorial;;;;;;;;;;;"69123";Lyon
+4.8207851;45.7794172003753;node/3530008034;wayside_cross;;;christian;catholic;;;;;;;"69123";Lyon
+4.8381992;45.7752231003759;node/3631426838;fountain;Lavoir Montée Bonafous;;;;;;;;;;"69123";Lyon
+4.858108;45.7691079003768;node/3679255822;memorial;Louis Braille;;;;;"2010";Plaque en hommage à Louis Braille;;;;"69123";Lyon
+4.8128407;45.7617764003778;node/3926995113;memorial;Édouard Herriot;;;;;1958-11-2;;fr:Édouard Herriot;;;"69123";Lyon
+4.8412007;45.7493357003796;node/4011617922;wayside_cross;;;christian;catholic;;"1821";;;;;"69123";Lyon
+4.8015504;45.7794911003753;node/4261137979;memorial;Lieu du Dernier Discours de Jean Jaurès;;;;Ici le 25-07-1914 Jean Jaures fondateur du journal L'Humanité prononça son dernier discours pour la paix.;1991-03-06;;;;;"69123";Lyon
+4.8337487;45.7997760003724;node/4308368148;memorial;;;;;;;;;;;"69123";Lyon
+4.8358461;45.8009095003723;node/4308368193;wayside_cross;;;christian;catholic;;;;;;;"69123";Lyon
+4.8689407;45.7366932003814;node/4376679494;fountain;;;;;;;;;;;"69123";Lyon
+4.8213874;45.7583251003783;node/4386255460;fountain;;;;;;;;;;;"69123";Lyon
+4.8655175;45.7574278003784;node/4471398441;monument;Buste d'Étienne Richerand;;;;;;;;;;"69123";Lyon
+4.8009839;45.7735459003762;node/4577206012;memorial;Pierre Montel;;;;1896-1967. Grand officier de la légion d'honneur. Croix de guerre 1914-1918 1939-1945. Médaille des évadés. Secrétaire d'état à l'air. Député du Rhône. Premier adjoint au maire de Lyon;;;;;;"69123";Lyon
+4.8302862;45.7694279003767;node/4691936721;fountain;;;;;;"1823";;;;;"69123";Lyon
+4.8304569;45.7694273003767;node/4691936722;fountain;;;;;;"1823";;;;;"69123";Lyon
+4.8272594;45.7615067003779;node/4757432193;building;Hôtel d'Estaing;PA00117817;;;;C16;;fr:Maison du Chamarier;;"2";"69123";Lyon
+4.8296546;45.7570845003785;node/4757659161;building;;PA00117850;;;;;;;;"3";"69123";Lyon
+4.8288075;45.7642628003775;node/4757856351;building;;PA00117923;;;;;;;;"3";"69123";Lyon
+4.8276153;45.7614194003779;node/4757856352;building;;PA00117915;;;;;;;;"3";"69123";Lyon
+4.8277471;45.7640129003775;node/4757856353;building;;PA00117905;;;;;;;;"3";"69123";Lyon
+4.8277726;45.7641027003775;node/4757856354;building;;PA00117908;;;;;;;;"3";"69123";Lyon
+4.8310769;45.7808678003751;node/4796892866;memorial;A Clément Livet;;;;;;;;;;"69123";Lyon
+4.8541559;45.7843920003746;node/4840113093;memorial;Freight Train;;;;"Une oeuvre d'expiation pour l'injustice et la souffrance que nous avons vécues au cours de ce siècle, exprimant résistance, guérison et espoir pour le futur.";"2016";Wagon faisant hommage à des migrants mexicains découverts en 1987 dans un wagon abandonné en plein désert;;;;"69123";Lyon
+4.8258017;45.7585681003783;node/4911377991;place_of_worship;Église Évangélique du Vieux Lyon;;christian;evangelical;;;;;;;"69123";Lyon
+4.882342;45.739237000381;node/4913500604;place_of_worship;Église Protestante Évangélique Lyon 8ème;;christian;evangelical;;;;;;;"69123";Lyon
+4.8336337;45.7668391003771;node/4938472438;fountain;;;;;;;;;;;"69123";Lyon
+4.8608383;45.7499851003795;node/5103842493;memorial;;;;;En la prison du Fort Montluc de 1914 à 1944 plusieurs milliers de patriots français ont été incarcérés avant d'être exécutés ou déportés dans les camps d'extermination nazis. En souvenir;;;;;;"69123";Lyon
+4.7948509;45.7838439003747;node/5111527697;fountain;;;;;;;;;;;"69123";Lyon
+4.8300794;45.7984725003726;node/5122901409;memorial;;;;;Le 9 juin 1564 le roy Charles IX et la royne sa mère ont couché dans cette maison à St Rambert l'Isle Barbe;;;;;;"69123";Lyon
+4.8333757;45.7709004003765;node/522261815;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8274123;45.7616443003778;node/5256093847;building;;PA00117894;;;;;;;;"3";"69123";Lyon
+4.8265265;45.7619026003778;node/5256093848;building;;PA00117899;;;;;;;;"3";"69123";Lyon
+4.8469629;45.7647437003774;node/5294401614;place_of_worship;Chapelle Expiatoire de la Croix Glorieuse;;christian;;;;Ossuaire des victimes du siège de Lyon sous la révolution.;;;;"69123";Lyon
+4.857289;45.7717232003764;node/5503330012;fountain;;;;;;;;;;;"69123";Lyon
+4.8563708;45.7365647003814;node/5594492076;fountain;;;;;;;;;;;"69123";Lyon
+4.8056234;45.7718604003764;node/5715866301;memorial;;;;;Personnel de la société Rhodiaceta victime de la guerre 1939-1945;;;;;;"69123";Lyon
+4.8492536;45.760625600378;node/5900150425;memorial;;;;;"""Arbre issu d’une bouture 
+
+du célèbre marronnier 
+
+cité dans le journal 
+
+d’Anne Frank (1929 – 1945) 
+
+Planté le 2 décembre 2014""";;;;;;"69123";Lyon
+4.8167626;45.7903753003738;node/5983725398;fountain;;;;;;;;;;;"69123";Lyon
+4.8168544;45.7589380003782;node/6071707428;memorial;;;;;;;;;;;"69123";Lyon
+4.8217014;45.7587352003783;node/6126712427;fountain;;;;;;;;;;;"69123";Lyon
+4.8521327;45.7545703003789;node/6140323311;memorial;Rue d’Arménie;;;;DECISION DU CONSEIL MUNICIPAL DU 7 OCTOBRE 1974 PRESIDE PAR MONSIEUR LOUIS PRADEL MAIRE DE LYON RUE D'ARMENIE INAUGUREE PAR MONSIEUR FRANCISQUE COLLOMB SENATEUR MAIRE DE LYON LE 8 OCTOBRE 1977;;;;;;"69123";Lyon
+4.8823718;45.7359640003815;node/6223589534;memorial;Monument aux Morts;;;;ILS SONT MORTS POUR QUE VOUS PUISSIEZ VIVRE LE QUARTIER DE LA NOUVELLE FACULTÉ A SES MORTS;;;;;;"69123";Lyon
+4.8833684;45.7359167003815;node/6223781617;memorial;;;;;"Français souvenez-vous ici sont tombés quatre otages lâchement assassinés par la gestapo allemande et ses complices vichystes le 19 août 1944, à ces martyrs inoubliables la population de la nouvelle faculté reconnaissante";;;;;;"69123";Lyon
+4.8518942;45.7544653003788;node/6236632544;memorial;;;;;1915 GENOCIDE ARMENIEN;;;;;;"69123";Lyon
+4.8518793;45.7545296003788;node/6236632545;khatchkar;;;;;;;;;;;"69123";Lyon
+4.8519852;45.7545155003788;node/6236632546;khatchkar;;;;;;;;;;;"69123";Lyon
+4.851908;45.7543963003789;node/6236753570;memorial;;;;;AUX ARMENIENS MORTS POUR LA FRANCE;;;;;;"69123";Lyon
+4.852616;45.7565999003785;node/6265362394;memorial;;;;;"LES GROUPES FRANCS DE LYON 5e BUREAU A LEUR CAMARADE ADJUDANT BIANCHERO JEAN DIT ""LORIENT"" RESPONSABLE LIAISONS DÉPARTEMENTALES A.S. DÉPORTÉ A BUCHENWALD MORT POUR LA FRANCE LE 11.3.1945 A HARZUGEN FRANÇAIS SOUVENEZ VOUS";;;;;;"69123";Lyon
+4.8267189;45.7976167003727;node/6298615885;memorial;;;;;"ICI NAQUIT
+LE MARECHAL SUCHET  
+1770 - 1826  
+HEROS DE L'EMPIRE  
+ET GASTRONOME";;;;;;"69123";Lyon
+4.8290693;45.7617433003778;node/6312573815;fountain;;;;;;;;;;;"69123";Lyon
+4.829048;45.7616334003779;node/6312573816;fountain;;;;;;;;;;;"69123";Lyon
+4.8165536;45.7557679003787;node/6321000395;fountain;Fontaine du Taurobole;PA00117808;;;;;;;;"3";"69123";Lyon
+4.8203865;45.8021196003721;node/6323181361;memorial;;;;;"RHONE CH.GR.COM N 21
+
+LE PAVILLON FAYOLLE
+
+LYON QUAI JAIR 3K3
+
+ST CYR-AU-MONT-D-OR 1K6";;;;;;"69123";Lyon
+4.8758536;45.7555731003787;node/6323318705;memorial;;;;;;;;;;;"69123";Lyon
+4.8441911;45.7648879003774;node/6327298607;memorial;;;;;"1940-44
+Ici se réunirent Au secrétariat régional du mouvement de résistance ""COMBAT""";;;;;;"69123";Lyon
+4.8472247;45.7663531003772;node/6328043681;memorial;;;;;Ici vécut Yves Farge...;;;;;;"69123";Lyon
+4.8208721;45.7715924003764;node/6328826157;memorial;;;;;"A la mémoire de Roger Duplat 1919-1951 disparu à la Nanda-Devi le 30 juin 1951.
+3ème expédition française à l'Himalaya.";;;;;;"69123";Lyon
+4.8718053;45.7515915003793;node/6335792677;memorial;plaque à Jean Reverzy;;;;"DANS CETTE MAISON
+JEAN REVERZY
+1914-1959
+A EXERCE AVEC COEUR
+SON METIER DE MEDECIN
+ET REVELE SES DONS D'ECRIVAIN
+(SES MALADES SES AMIS)
+12.6.1966";1966-6-12;;;;;"69123";Lyon
+4.855088;45.7528796003791;node/6339268791;memorial;Bir Hakeim 11 Juin 1942;;;;Le monde a reconnuLa France quand à BIR HAKEIMUn rayon de sa gloire renaissante est venuCaresser le front sanglantDe ses soldats18 juin 1942Charles de Gaulle;;;;;;"69123";Lyon
+4.8539186;45.7586002003783;node/6341239914;memorial;Monument aux cuirassiers;;;;A LA GLOIRE DE LA CAVALERIE;;;;;;"69123";Lyon
+4.85152;45.7459327003801;node/6367017834;memorial;;;;;"EN AOUT 1914
+
+LE 99E REGIMENT D'INFANTERIE
+
+EN GARNISON A LYONPARTIT POUR LE FRONT
+
+POUR DEFENDRE LA FRANCE
+
+6 SEPTEMBRE 2014
+
+LA FRANCE RECONNAISSANTE";2014-09-06;;;;;"69123";Lyon
+4.8491118;45.7694395003767;node/6367934452;memorial;150 ans de la création du 6e arrondissement;;;;;"2017";;;;;"69123";Lyon
+4.8312245;45.7656770003773;node/6369831067;memorial;Mathieu Husz;;;;"Mathieu Husz D'origine allemande, il édita la GRANT DANSE MACABRE 1499 où l'on voit la première représentation imprimée d'un atelier d'imprimeur-libraire.";;;;;;"69123";Lyon
+4.8497686;45.7711526003765;node/6369905119;memorial;Roger Violi;;;;EN SOUVENIR DE ROGER VIOLIASSASSINE PAR LA GESTAPOLE 24-11-1943A L'AGE DE 24 ANS;;;;;;"69123";Lyon
+4.8414276;45.7684727003769;node/6372146674;memorial;Joseph Serlin;;;;A JOSEPH SERLIN OFFICIER DE LA LEGION D'HONNEUR 1868 - 1944 SENATEUR / CONSEILLER GENERAL / SECRETAIRE GENERAL DE LA MAIRIE DE LYON DE 1909 A 1933 ASSASSINE SOUS L'OCCUPATION ALLEMANDE LE 7 JANVIER 1944;;;;;;"69123";Lyon
+4.8645861;45.7616438003778;node/6378346995;memorial;Mario Buisson;;;;;;;;;;"69123";Lyon
+4.8333379;45.7698155003767;node/6387219712;memorial;Eugène Pons;;;;A LA MÉMOIRE DU RÉSISTANT EUGÈNE PONS 1886 - 1945 MAÎTRE IMPRIMEUR MORT EN DÉPORTATION AU CAMP DE NEUENGAMME LE 24 FÉVRIER 1945 SOUVENEZ VOUS;"1945";;fr:Eugène Pons;;;"69123";Lyon
+4.832322;45.7695774003767;node/6388626106;memorial;René Leynaud;;;;"Dans cet immeuble vécut René Leynaud (1910-1944), journaliste au Progrès de Lyon, grand résistant, membre du Mouvement Combat. Arrêté par la Milice Française le 16 mai 1944, livré à la Gestapo, et emprisonné à Montluc, il est exécuté à Villeneuve (Ain)...";2016-03;;;;;"69123";Lyon
+4.8281779;45.7514244003793;node/6391232534;memorial;Enfants d'Izieu;;;;;2019-04-08;Stèle à la mémoire des Enfants d'Izieu : https://www.lyon.fr/node/262039;;;;"69123";Lyon
+4.8439103;45.7538856003789;node/6397255652;memorial;Crue du 18 février 1812;;;;LE 18 FEVRIER 1812 LE RHONE S'EST ELEVE JUSQU'A LA HAUTEUR DE LA LIGNE;;;;;;"69123";Lyon
+4.8232616;45.7625930003777;node/6404546581;memorial;Saint-Joseph;;;;;;;;;;"69123";Lyon
+4.8570219;45.7633196003776;node/6405894114;memorial;;;;;"LE PEINTRE
+PIERRE PELLOUX
+1903-1975
+A VECU
+DANS CETTE MAISON
+LES 30 DERNIERES ANNEES
+DE SA VIE";;;;;;"69123";Lyon
+4.8486092;45.7696009003767;node/6406876882;memorial;Aimé Martin;;;;"Souvenir / Aimé Martin / ""Gavroche"" / 1936-1986 / Nievroz";;;;;;"69123";Lyon
+4.865495;45.7514523003793;node/6408270151;memorial;Robert Rabatel et René Tuberga;;;;Les anciens F.T.P.F / à la mémoire / DE LEURS CAMARADES / ROBERT RABATEL S-L / RENE TUBERGA S.G.T / DEPORTES A DACHAU / EN JUIN 1944 / DEUX PATRIOTES / MORTS POUR LA FRANCE;;;;;;"69123";Lyon
+4.8655905;45.7515703003793;node/6408519461;memorial;Roger Bréchan;;;;Lieutenant Roger Bréchan / 1912 - 1945 C.G / CHEF DE GROUPES FRANCS DE LYON-PARIS / DECEDE LE 10-2-1945 AU CAMP NAZI DE DORA / LES G.F ET F N D I R P A LEUR CAMARADE / SOUVENEZ-VOUS;;;;;;"69123";Lyon
+4.8450308;45.7734355003762;node/6414358176;memorial;Plaque Merriel;;;;ICI ONT HABITE / Meur ET Mme MEPPIEL / MASSACRES A BRON / PAR LES ALLEMANDS / LE 20-08-1944;;;;;;"69123";Lyon
+4.8402343;45.7792187003754;node/6414540360;fountain;;;;;;;;;;;"69123";Lyon
+4.8414511;45.7788452003754;node/6416538273;memorial;Inauguration Pont Churchill;;;;;;;;;;"69123";Lyon
+4.8531911;45.7685624003769;node/6416933229;memorial;Inauguration Résidence Viricel;;;;;;;;;;"69123";Lyon
+4.842145;45.7704551003766;node/6417354597;memorial;Arc de la Chapelle des Gadagne;;;;;;;;;;"69123";Lyon
+4.8376958;45.7694536003767;node/6417389600;memorial;Hommage de la ville à Jean Moulin et André Lassagne;;;;;;;;;;"69123";Lyon
+4.8377859;45.7711901003765;node/6418789576;memorial;Alphonse Stengelin;;;;MAISON NATALE / DU PEINTRE / DU PEINTRE ALPHONSE STENGELIN / 1852/1938;;;;;;"69123";Lyon
+4.8254717;45.7545274003788;node/6418903535;memorial;Pont d'Ainay;;;;Construit par l'état et la ville de Lyon. 1899. Les travaux de reconstruction de ce pont ont été éxecutés par M. Clarard Ingénieur des Ponts et Chaussées avec la collaboration de MM. Amalric [...] et Labranche [...].;;;fr:Pont d'Ainay;;;"69123";Lyon
+4.8476482;45.7545452003788;node/6421206985;memorial;Léon Vallas;;;;ICI VECUT DE 1936 A 1956 / LEON VALLAS / 1879 - 1956 / HISTORIEN ET CRITIQUE MUSICAL;;;;;;"69123";Lyon
+4.8139805;45.7713070003765;node/6431681845;memorial;;;;;Le 25 Germinal an 13 ou le 15 avril 1805 Napoleon 1er est monté par ce chemin à cheval pour aller à la Croix-Rousse;;;;;;"69123";Lyon
+4.836718;45.7660644003772;node/6445774199;memorial;Joseph Chalier;;;;ICI HABITA JOSEPH CHALIER / 12 SEPTEMBRE 1747 / 16 JUILLET 1793;;;fr:Marie_Joseph_Chalier;;;"69123";Lyon
+4.8442355;45.7685354003769;node/6473639188;memorial;Commandant Faurax;;;;ICI EST NE EN 1849 / LE COMMANDANT FAURAX / OFFICIER / DE LA LEGION ETRANGERE / MORT POUR LA FRANCE / EN 1892 AU DAHOMEY / A.A.L.E. 1998;"1998";;;;;"69123";Lyon
+4.8339853;45.7751235003759;node/6474868652;memorial;AIME BOUSSANGE - ALEXANDRE AIMARD - AUGUSTE OLLIVIER;;;;EN SOUVENIR \ DE NOS CAMARADES \ DE LA RESISTANCE \ AIME BOUSSANGE \ FUSILLE EN NOVEMBRE 1943 \ ET DE ALEXANDRE AIMARD \ AUGUSTE OLLIVIER \ MORTS EN DEPORTATION EN 1944 \ VICTIMES DE LA BARBARIE NAZIE;;;;;;"69123";Lyon
+4.8315069;45.774616900376;node/6475419009;memorial;Marech Majerezak;;;;"A LA MEMOIRE \ D'UN PATRIOTE \ MORT POUR LA FRANCE \ SOUS L'OCCUPATION ALLEMANDE \ LE 11 MARS 1944 \ MAJEREZAK MARECH DIT ""VINCENT"" \ DU BATAILLON \ CARMAGNOLE F.T.P.F - M.O.I";;;;;;"69123";Lyon
+4.835142;45.7467497003799;node/6480674793;memorial;;;;;Lyon 7ème Arrondissement \ A LA MÉMOIRE \ DES COMBATTANTS ET VICTIMES \ CIVILS ET MILITAIRES \ DES \ CONFLITS DU XXème SIÈCLE;;;;;;"69123";Lyon
+4.8536107;45.7452482003802;node/6490365843;ruins;Vestige sirène d'avertissement;;;;;;;;;;"69123";Lyon
+4.8352364;45.7684601003769;node/6493719285;memorial;L.R 1728;;;;"L.R 
+
+1728";;;;;;"69123";Lyon
+4.8468095;45.7598588003781;node/6495017290;memorial;Mick Micheyl;;;;ici est née \ Mick MICHEYL \ le 8.02.1922 \ Auteur - Compositeur \ Artiste - Graveur;;;;;;"69123";Lyon
+4.828138;45.760363000378;node/6495303056;memorial;1783 Premier navire à vapeur;;;;"LA VILLE DE LYON A CLAUDE DOROTHéE DE JOUFFROY D'ABBANS 1751-1832 LE 15 JUILLET 1783 LE ""PYROSCAPHE"" PREMIER NAVIRE A VAPEUR ET A ROUES,éVOLUA A LYON,SUR LA SAÔNE ET REMONTA SON COURS SANS L'AIDE D'AUCUNE FORCEANIMALE ET PAR L'EFFET SEUL DE LA POMPE A FEU";;;;;;"69123";Lyon
+4.8334265;45.7681561003769;node/6507271030;memorial;En mémoire des Juifs raflés par la gestapo 1943;;;;"A la mémoire des Juifs raflés par la gestapo le 9 février 1943 dans les locaux de la Fédération des Sociétés Juives de France et du Comité d'assistance aux Réfugiés 12 r. St. Cath. Lyon 1e: 86 personnes furent arrétées, 80 furent déportées dont 3 survécur";;L'inscription est suivie de la liste des 86 noms;;;;"69123";Lyon
+4.8335113;45.7682199003769;node/6507271032;memorial;1899 Marie-Louise Rochebillard créa le 1er syndicat féminin;;;;"ICI,AU 13 RUE SAINTE-CATHERINE / MARIE-LOUISE ROCHEBILLARD / 1860-1936 / CREA EN 1899 LE PREMIER / SYNDICAT FEMININ DE FRANCE POUR LES OUVRIERES DE LA SOIE / ET PARTICIPA A LA CREATION / DE LA CONFEDERATION FRANCAISE/DES TRAVAILLEURS CHRETIENS (C.F.T.C.)";;;;;;"69123";Lyon
+4.8320143;45.7692983003768;node/6507271034;memorial;Le Commerce Véridique et Social 1835;;;;"ICI FUT FONDEE EN 1835 PAR MICHEL DERRION ET JOSEPH REYNIER LA PREMIERE COOPERATIVE FRANÇAISE DE CONSOMMATION ""LE COMMERCE VERIDIQUE ET SOCIAL""";;;;;;"69123";Lyon
+4.8307314;45.7700541003767;node/6507271041;memorial;Lucien Sportisse;;;;ICI EST TOMBE / LE 24 MARS 1944 / SOUS LES BALLES DES AGENTS / FRANCAIS DE LA GESTAPO / LUCIEN SPORTISSE / NE LE 6 OCTOBRE 1905 / MILITANT DU FRONT NATIONAL;;;;;;"69123";Lyon
+4.8362374;45.7700817003766;node/6507271046;memorial;Lola Izraelski;;;;ICI EST TOMBéE / HEROÏQUEMENT / LE 28 JUILLET 1944 / A L'AGE DE 24 ANS / MELLE LOLA IZRAELSKI / MORTE POUR LA FRANCE;;;;;;"69123";Lyon
+4.8466475;45.7729576003763;node/6518114578;memorial;Joseph Longarini;;;;ICI LE 9 JUIN 1944 FUT LÂCHEMENT ASSASSINE PAR LES MILICIENS UN DE LA RÉSISTANCE JOSEPH LONGARINI;;;;;;"69123";Lyon
+4.8463843;45.7729128003763;node/6532461636;memorial;Haour Frères;;;;ETABLISSEMENTS / HAOUR FRERES / CONSTRUCTEURS;;;;;;"69123";Lyon
+4.8281899;45.7623572003777;node/6537866119;memorial;Rue Tres Monnoyes;;;;Rue Tres Monnoyes;;;;;;"69123";Lyon
+4.8282749;45.7623950003777;node/6538166120;memorial;Gérard Desargues;;;;DANS CETTE RUE VECUT / GERARD DESARGUES / RENOVATEUR DE LA GEOMETRIE / INGENIEUR ET ARCHITECTE / 1591 - 1661;;;;;;"69123";Lyon
+4.8315839;45.7680550003769;node/6544937560;ruins;Vestige du couvent des Carmes;;;;;;;;;;"69123";Lyon
+4.844417;45.7707779003766;node/6547205063;memorial;Philippe Burnot;;;;Philippe Burnot fondateur du gravé lyonnais a vécu dans cette maison 1877 - 1956;;;;;;"69123";Lyon
+4.8419135;45.7697458003767;node/6547315732;memorial;Claude Farrere;;;;Dans cette maison naquit le 21 avril 1876 Fréderic-Charles-Pierre-Edouard Bargone dit Claude Farrere de l’académie Française marin et écrivain capitaine de corvette. Il commanda le bouvet et l’amiral aube son oeuvre de romancier...;;;;;;"69123";Lyon
+4.8523667;45.7702351003766;node/6553743347;memorial;24 AOUT 1944;;;;ICI / LE 24 AOUT 1944 / A 17 HEURES / LES TROUPES ALLEMANDES / ONT LACHEMENT ASSASSINE / 60 FRANÇAIS INNOCENTS / CETTE PLAQUE DUE A L’INITIATIVE / DES HABITANTS DU QUARTIER / A ETE APPOSEE / POUR PERPETUER LE SOUVENIR / DE CETTE TRAGIQUE JOURNEE;;;;;;"69123";Lyon
+4.845898;45.7600997003781;node/6575287002;memorial;Philibert Gaillard et Frédéric Dutrion;;;;;;;;;;"69123";Lyon
+4.827632;45.7505396003794;node/6635886376;fountain;;;;;;;;;;;"69123";Lyon
+4.8273222;45.7501887003795;node/6635886377;fountain;;;;;;;;;;;"69123";Lyon
+4.8330125;45.774261300376;node/6699817101;memorial;Jean Moulin / La ficelle;;;;"Le 21 juin 1943, JEAN MOULIN président du Conseil National de la Résistance, a pris le funiculaire « la Ficelle » Croix-Paquet. Descendu ici, il est monté dans le tram 33. Ce fut son dernier trajet d'homme libre. Il est arrêté avec ses compagnons dans la";;;;;;"69123";Lyon
+4.8141417;45.7620139003778;node/6943764597;tomb;Paul Chenavard;;;;;1895-04-12;;fr:Paul Chenavard;;;"69123";Lyon
+4.8307424;45.7298593003823;node/6988353686;advertising;;;;;;;;;;;"69123";Lyon
+4.8449227;45.7527834003791;node/7090511585;place_of_worship;Mosquée Mosaab Ibn Umaïr;;muslim;;;;;;;;"69123";Lyon
+4.8203157;45.781788900375;node/7161198921;tomb;Famille Garnier;;;;;"1937";Réalisée par l'architecte Tony Garnier;;;;"69123";Lyon
+4.8436635;45.7583426003783;node/7506491596;memorial;Central Sévigné-Matheron;;;;;2013-05-31;;;;;"69123";Lyon
+4.8445909;45.7583669003783;node/7506505698;memorial;Laurent Matheron;;;;;2009-04-23;;;;;"69123";Lyon
+4.8330608;45.7649154003774;node/761213831;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8269482;45.753735100379;node/761223350;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.8092688;45.7671485003771;node/7705862286;memorial;;;;;ICI LE 16 AOUT 1944 A ÉTÉ LACHEMENT ATTATU- PAR LES ALLEMANDS LE PATRIOTE LUCIEN BARTHELEMY FRACAIS SOUVIENS-TOI;;;;;;"69123";Lyon
+4.8341629;45.7642598003775;node/778111533;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8354055;45.7641801003775;node/778111544;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8341121;45.7634137003776;node/778111849;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.848222;45.7578977003784;node/778149894;wayside_shrine;;;christian;;;;saint;;;;"69123";Lyon
+4.842981;45.767772800377;node/778266507;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8233132;45.7625973003777;node/7881814837;fountain;;;;;;;;;;;"69123";Lyon
+4.8235158;45.7454867003801;node/7995554204;memorial;Monument aux victimes de derrière les voûtes;;;;"AUX VICTIMES DE DERRIERE LES VOUTES 
+
+1914-1918 
+
+1939-1945";;;;;;"69123";Lyon
+4.8342708;45.7779655003755;node/7997480689;wayside_altimeter;;;;;"248,111";;;;;;"69123";Lyon
+4.8377613;45.7704989003766;node/8004706772;wayside_altimeter;;;;;"Ponts et Chaussées Rhône repère n°196 altitude 169,349";;;;;;"69123";Lyon
+4.8377614;45.7705018003766;node/8004706773;wayside_altimeter;;;;;"196";;;;;;"69123";Lyon
+4.8372346;45.7715249003764;node/8004706775;name;;;;;Rue de la Convention;;;;;;"69123";Lyon
+4.8368121;45.7712250003765;node/8007898524;memorial;Puvis de Chavannes;;;;Dans cette maison est né le peintre Puvis de Chavannes le 14 décémbre 1824;;;;;;"69123";Lyon
+4.8335953;45.7649509003774;node/8023947399;memorial;;;;;Le vieil hostel de ville;;;;;;"69123";Lyon
+4.8328145;45.7645453003774;node/8026412264;memorial;;;;;Propriété de la fondation faite l'an 1852 par Giel Fois Richard pour les jeunes garçons infirmes de la ville de Lyon;;;;;;"69123";Lyon
+4.8347644;45.7718955003764;node/8093957006;drinking_water;;;;;;;;;;;"69123";Lyon
+4.8347652;45.7718956003764;node/8093957007;drinking_water;;;;;;;;;;;"69123";Lyon
+4.8347011;45.7718895003764;node/8093957008;memorial;;;;;Mairie du 1e Habitat et Humanisme 1831 Dans la Cour des Voraces ruche du travail de la soie les Canuts luttaient pour leurs salaires conditions de vie et dignité 1948 La déclaration universelle des droits de l'homme proclame les droits élémentaires de la;;;;;;"69123";Lyon
+4.8341572;45.7705495003766;node/8107344786;wayside_altimeter;;;;;"198,895";;;;;;"69123";Lyon
+4.8665464;45.7544485003789;node/8151448206;memorial;Nathalie;;;;;2019-10-31;;;;;"69123";Lyon
+4.8732723;45.7343899003817;node/8179933039;memorial;;;;;;;;;;;"69123";Lyon
+4.8874824;45.7491138003796;node/8194614805;memorial;;;;;Plaque 1945;;;;;;"69123";Lyon
+4.8373324;45.7693182003768;node/8261763116;memorial;Armand Cohen et Élie Boccara;;;;A LA MEMOIRED'ARMAND COHEN RESISTANT ARRETE ICI MEME EXECUTE PAR LA GESTAPOLE 24-11-1943 ET A LA MEMOIRE D'ELIE BOCCARA ARRETE AVEC LUI EN CE LIEU;;;;;;"69123";Lyon
+4.8373798;45.7696603003767;node/8261893037;name;;;;;Place Tholozan;;;;;;"69123";Lyon
+4.8122773;45.7615487003779;node/8274683923;memorial;Antoine Gailleton;;;;;1904-10-09;;fr:Antoine Gailleton;;;"69123";Lyon
+4.8112718;45.7634623003776;node/8274981302;memorial;Alexandre Glénard;;;;;"1894";;fr:Alexandre Glénard;;;"69123";Lyon
+4.8106777;45.7626027003777;node/8274984925;memorial;Bénédict Teissier;;;;;"1889";;fr:Bénédict Teissier;;;"69123";Lyon
+4.8521818;45.7373762003812;node/8281232330;wayside_cross;;;christian;catholic;Vive Jésus vive sa croix érigée par LOUIS BARRET et posée par Antoni PRIMA ce 15 mars 1818 restaurée en 1863 par Louis Lucien CASTILLON;"1818";;;;;"69123";Lyon
+4.8323097;45.7665640003772;node/8284884020;traffic_sign;;;;;;;;;;;"69123";Lyon
+4.8129255;45.7581430003783;node/832463268;fountain;Fontaine du Verbe-Incarné;;;;;;;;;;"69123";Lyon
+4.8607179;45.7389032003811;node/8388049732;fountain;;;;;;;;;;;"69123";Lyon
+4.8313613;45.7794496003753;node/8638468284;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8315736;45.7794477003753;node/8638468285;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8334393;45.7795207003753;node/8638468287;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8321949;45.7756069003759;node/8645182833;wayside_shrine;;;christian;catholic;;;;;;;"69123";Lyon
+4.8321648;45.7781031003755;node/8648707331;wayside_shrine;;;christian;;;;Vierge Marie;;;;"69123";Lyon
+4.8362133;45.7687197003768;node/8656810442;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8357647;45.7779328003755;node/8657010917;memorial;;;;;"Dans cette immeuble fut découvert par la police de Vichy le dépôt départemental du groupe ""Francis Gervais"" dit Richard de la brigade Boussange alias Robespierre. De ce groupe, en sont morts Raymond Vincent adjoint à Richard 23 ans tué au maquis, Jean-Lou";;;;;;"69123";Lyon
+4.8371179;45.781530500375;node/8660304584;wayside_shrine;;;christian;;;;vierge à l'enfant;;;;"69123";Lyon
+4.8307366;45.7724960003763;node/8662327795;wayside_shrine;;;christian;;;;Saint-Joseph;;;;"69123";Lyon
+4.8262696;45.7721112003764;node/8662327796;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.823311;45.7720439003764;node/8662327798;wayside_shrine;;;christian;;;;vierge à l'enfant;;;;"69123";Lyon
+4.8230467;45.7720048003764;node/8662327799;wayside_shrine;;;christian;;;;Saint-Joseph et l'enfant Jésus;;;;"69123";Lyon
+4.8222759;45.7718598003764;node/8662327800;wayside_shrine;;;christian;;;;sainte famille;;;;"69123";Lyon
+4.8218245;45.7702907003766;node/8662327801;wayside_shrine;;;christian;;;;ange dans une niche destinée à une vierge;;;;"69123";Lyon
+4.8265923;45.7684115003769;node/8662327810;wayside_shrine;;;christian;;;;vierge;;;;"69123";Lyon
+4.8264973;45.7684263003769;node/8662327811;wayside_shrine;;;christian;;;;petite vierge;;;;"69123";Lyon
+4.8262564;45.7620014003778;node/8662438947;wayside_shrine;;;christian;;;;vierge à l'enfant;;;;"69123";Lyon
+4.8262699;45.7597372003781;node/8662438950;wayside_shrine;;;christian;;;;Saint-Vincent-de-Paul;;;;"69123";Lyon
+4.8259607;45.7593284003782;node/8662438951;wayside_shrine;;;christian;;;;vierge;;;;"69123";Lyon
+4.8259099;45.7597614003781;node/8662438953;wayside_shrine;;;christian;;;;vierge;;;;"69123";Lyon
+4.825635;45.760247400378;node/8662438955;wayside_shrine;;;christian;;;;vierge à l'enfant;;;;"69123";Lyon
+4.8253934;45.7587025003782;node/8662438962;wayside_shrine;;;christian;;;;vierge;;;;"69123";Lyon
+4.8222688;45.7619342003778;node/8662463858;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8133435;45.767555900377;node/8662512891;wayside_shrine;;;christian;;;;ange pleurant;;;;"69123";Lyon
+4.8305842;45.7732571003762;node/8665923924;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.8328349;45.7620811003778;node/8680102375;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.8303208;45.7777741003756;node/8680871568;memorial;Jean Bertrand;;;;A LA MEMOIRE DE JEAN BERTRAND MEMBRE DES MOUVEMENTS UNIS DE LA RESISTANCE ARRETE LE 17 FEVRIER 1944 MORT POUR LA FRANCE AU CAMP DE MAUTHAUSEN LE 3 JUIN 1945;;;;;;"69123";Lyon
+4.8398537;45.7795368003753;node/8685589968;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8358183;45.7716213003764;node/8685738708;fountain;;;;;;"1842";;;;;"69123";Lyon
+4.8236644;45.7586090003783;node/8742730762;memorial;;;;;"""ICI LE 18 FÉVRIER 1944 BERNAR GUY,SERGENT F.F.I. A ÉTÉ TUÉ PAR LA MILICE EN TENTANT DE S'ÉVADER. PASSANT, SOUVIENS TOI!""";;;;;;"69123";Lyon
+4.8565099;45.767592100377;node/8830045068;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8305479;45.7554292003787;node/8831305263;memorial;France d'abord;;;;"En mars 1941, dans cet immeuble, fut créé
+le mouvement lyonnais de Résistance
+« France d'abord »
+dirigé par Georges Cotton
+Chef national
+✝ le 20 avril 1951
+et le Colonel Schwarzfeld, arrêté à
+Caluire le 21 juin 1943 mort en déportation
+Jean Moulin, le Gén";;;fr:France d'abord;;;"69123";Lyon
+4.8096677;45.7638220003775;node/8849253967;tomb;Famille Jambon;;;;;1809-06-10;;fr:Philibert Jambon;;;"69123";Lyon
+4.8185199;45.7561123003786;node/8913559666;fountain;;;;;;;;;;;"69123";Lyon
+4.833798;45.767507500377;node/8942085874;fountain;;;;;;;;;;;"69123";Lyon
+4.833864;45.767516200377;node/8942085875;fountain;;;;;;;;;;;"69123";Lyon
+4.8339444;45.767525200377;node/8942085876;fountain;;;;;;;;;;;"69123";Lyon
+4.834024;45.767534600377;node/8942085877;fountain;;;;;;;;;;;"69123";Lyon
+4.8337241;45.767499600377;node/8942085878;fountain;;;;;;;;;;;"69123";Lyon
+4.8336535;45.767491000377;node/8942085879;fountain;;;;;;;;;;;"69123";Lyon
+4.8335729;45.767481500377;node/8942085880;fountain;;;;;;;;;;;"69123";Lyon
+4.8334927;45.767472100377;node/8942085881;fountain;;;;;;;;;;;"69123";Lyon
+4.8334213;45.767463700377;node/8942085882;fountain;;;;;;;;;;;"69123";Lyon
+4.8333483;45.767455100377;node/8942085883;fountain;;;;;;;;;;;"69123";Lyon
+4.8332711;45.767446000377;node/8942085884;fountain;;;;;;;;;;;"69123";Lyon
+4.8332002;45.767437700377;node/8942085885;fountain;;;;;;;;;;;"69123";Lyon
+4.8331222;45.767428500377;node/8942085886;fountain;;;;;;;;;;;"69123";Lyon
+4.833042;45.767419100377;node/8942085887;fountain;;;;;;;;;;;"69123";Lyon
+4.8329794;45.767411700377;node/8942085888;fountain;;;;;;;;;;;"69123";Lyon
+4.835666;45.7560863003786;node/8954387711;fountain;;;;;;;;;;;"69123";Lyon
+4.8356632;45.7561016003786;node/8954387712;fountain;;;;;;;;;;;"69123";Lyon
+4.8356833;45.7560961003786;node/8954387713;fountain;;;;;;;;;;;"69123";Lyon
+4.835703;45.7560908003786;node/8954387714;fountain;;;;;;;;;;;"69123";Lyon
+4.8356853;45.7560809003786;node/8954387715;fountain;;;;;;;;;;;"69123";Lyon
+4.835705;45.7560754003786;node/8954387716;fountain;;;;;;;;;;;"69123";Lyon
+4.8356482;45.7560763003786;node/8954529317;fountain;;;;;;;;;;;"69123";Lyon
+4.835668;45.7560705003786;node/8954529318;fountain;;;;;;;;;;;"69123";Lyon
+4.8356874;45.7560649003786;node/8954529319;fountain;;;;;;;;;;;"69123";Lyon
+4.8356507;45.7560605003786;node/8954529320;fountain;;;;;;;;;;;"69123";Lyon
+4.8356699;45.7560551003786;node/8954529321;fountain;;;;;;;;;;;"69123";Lyon
+4.8356895;45.7560496003786;node/8954529322;fountain;;;;;;;;;;;"69123";Lyon
+4.8356324;45.7560497003786;node/8954529323;fountain;;;;;;;;;;;"69123";Lyon
+4.8356523;45.7560441003786;node/8954529324;fountain;;;;;;;;;;;"69123";Lyon
+4.8356715;45.7560387003786;node/8954529325;fountain;;;;;;;;;;;"69123";Lyon
+4.8356352;45.7560344003786;node/8954529326;fountain;;;;;;;;;;;"69123";Lyon
+4.8356543;45.7560290003786;node/8954529327;fountain;;;;;;;;;;;"69123";Lyon
+4.8356738;45.7560235003786;node/8954529328;fountain;;;;;;;;;;;"69123";Lyon
+4.8356166;45.7560231003786;node/8954529329;fountain;;;;;;;;;;;"69123";Lyon
+4.8356364;45.7560175003786;node/8954529330;fountain;;;;;;;;;;;"69123";Lyon
+4.8356554;45.7560121003786;node/8954529331;fountain;;;;;;;;;;;"69123";Lyon
+4.8356189;45.7560070003786;node/8954529332;fountain;;;;;;;;;;;"69123";Lyon
+4.835638;45.7560017003786;node/8954529333;fountain;;;;;;;;;;;"69123";Lyon
+4.8356574;45.7559963003786;node/8954529334;fountain;;;;;;;;;;;"69123";Lyon
+4.835601;45.7559970003786;node/8954529335;fountain;;;;;;;;;;;"69123";Lyon
+4.8356211;45.7559916003786;node/8954529336;fountain;;;;;;;;;;;"69123";Lyon
+4.83564;45.7559865003786;node/8954529337;fountain;;;;;;;;;;;"69123";Lyon
+4.8356037;45.7559813003787;node/8954529338;fountain;;;;;;;;;;;"69123";Lyon
+4.8356226;45.7559761003786;node/8954529339;fountain;;;;;;;;;;;"69123";Lyon
+4.835642;45.7559708003786;node/8954529340;fountain;;;;;;;;;;;"69123";Lyon
+4.8355855;45.7559709003787;node/8954529341;fountain;;;;;;;;;;;"69123";Lyon
+4.8356054;45.7559653003787;node/8954529342;fountain;;;;;;;;;;;"69123";Lyon
+4.8356241;45.7559601003787;node/8954529343;fountain;;;;;;;;;;;"69123";Lyon
+4.8211517;45.7635040003776;node/9021165559;ruins;;;;;;;;;modern;;"69123";Lyon
+4.8317286;45.7530296003791;node/9038221387;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8487821;45.7507493003794;node/9051418621;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8304105;45.7594998003781;node/9056035199;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.8254979;45.760308100378;node/9071006970;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8214685;45.7585146003783;node/9076481917;fountain;;;;;;;;;;;"69123";Lyon
+4.8247058;45.7624254003777;node/9097773054;memorial;;;;;;;;;;;"69123";Lyon
+4.8571219;45.7385155003811;node/9170408783;tomb;Tombe des familles Winckler et Lumière;;;;;;;;;;"69123";Lyon
+4.8330817;45.7703273003766;node/9326429194;memorial;Freneat Sarrazin;;;;A.G.E.-A.M.U.R.-F.U.J. / A la mémoire de Freneat Jean Marie 1889-1944 / Sarrazin Marcel 1891-1944 / Morts pour la France;;;;;;"69123";Lyon
+4.8355617;45.7720228003764;node/9332499854;memorial;Ancien hôpital militaire;;;;Ancien hôpital militaire Villemanzy - Ici furent formés de 1948 à 1970 les officiers d'administration de réserve du service de santé;;;;;;"69123";Lyon
+4.8278111;45.7721780003764;node/9344238459;memorial;Patrice Berger;;;;"Ici vécut, à partir de 1986, Patrice BERGER \ (1951-2021) personnalité humaniste \ éprise de paix, de culture, de lecture et de \ radio associative.Il fut l'âme de Radio pluriel dès 1983, dont \ il fut le président pendant plus de vingt-cinq ans.";2021-12-16;;;;;"69123";Lyon
+4.8336163;45.7742560003761;node/9357654817;memorial;Henry Dugelay;;;;Médecine du travail Centre médical Henry Dugelay Président de l'association 1952-1982;;;;;;"69123";Lyon
+4.8377997;45.767440800377;node/9366259462;memorial;André;;;;A la mémoire du sous-lieutenant André mort au combat pour notre libération le 24 août 1944 à l'âge de 20 ans;;;;;;"69123";Lyon
+4.8306295;45.7588152003783;node/9369791766;memorial;Chambonnet;;;;Au capitaine d'aviation Albert Chambonnet 1903-1944 chef de l'armée secrète région de Lyon. L'une des plus pures et des plus nobles figures de la résistance française - lâchement assassiné par les allemands place Bellecour le 27 juillet 1944 - Ses amis;;;;;;"69123";Lyon
+4.823511;45.7683578003769;node/9376917401;memorial;Fernand RUDE;;;;"Dans cette maison BERTIN la plus ancienne du quai Saint Vincent construite en 1699 dans l'emprise du couvent des Chartreux, vécut Fernand RUDE 1910-1990 historien des Canuts et du mouvement ouvrier. 19 septembre 1999";;;;;;"69123";Lyon
+4.8178638;45.767717900377;node/9382602026;highwater_mark;;;;;CRUE ... 1840;;;;;;"69123";Lyon
+4.8171179;45.767852900377;node/9382602029;wayside_altimeter;;;;;"Pont et chaussée Rhône 168,862";;;;;;"69123";Lyon
+4.8146524;45.7695993003767;node/9382945301;highwater_mark;;;;;CRUE ... 1840;;;;;;"69123";Lyon
+4.8361073;45.7593501003782;node/9389689045;highwater_mark;;;;;Saône ... 1840;;;;;;"69123";Lyon
+4.8357547;45.7592070003782;node/9392189631;memorial;Louise Labé;;;;"La poétesse Louise Labé ""La Belle Cordière"" vécut en ces lieux au XVIème siècle Salon des poètes de Lyon - 2 mai 1980";;;;;;"69123";Lyon
+4.836116;45.7593284003782;node/9392189634;trunk_for_poor_patients;;;;;;;;;;;"69123";Lyon
+4.8360614;45.7594063003782;node/9392189635;trunk_for_poor_patients;;;;;Tronc pour les pauvres malades 1707;;;;;;"69123";Lyon
+4.836719;45.7580324003784;node/9394922166;yes;;;;;;;;;;;"69123";Lyon
+4.836726;45.7580487003784;node/9394922167;yes;;;;;;;;;;;"69123";Lyon
+4.8364286;45.7574710003784;node/9394922210;wayside_altimeter;;;;;"Pont et chaussée Rhône repere n°105 altitude 179,711";;;;;;"69123";Lyon
+4.8364288;45.7574713003784;node/9394922211;wayside_altimeter;;;;;"R.170m,07 n314";;;;;;"69123";Lyon
+4.8345073;45.7686213003769;node/9396829040;memorial;Christine Lelong;;;;;2012-07-06;;;;;"69123";Lyon
+4.8333999;45.7601588003781;node/9397838610;memorial;Jacobins;;;;"... souvenir du couvent des Dominicains dits Jacobins dont l'église, N.D. de Confort s'élevait ici. En 1316: le pape Jean XXII y fut élu. En 1348: le dauphin Humbert II y céda le Dauphiné à la France. La ""nation"" florentine de Lyon y établit son siège ...";;;;;;"69123";Lyon
+4.8315298;45.7777434003756;node/9405512547;memorial;Frédéric Dard;;;;ICI VECUT FREDERIC DARD DIT SAN ANTONIO ECRIVAIN LYONNAIS DE JUILLET 1944 A MARS 1949;;;;;;"69123";Lyon
+4.8118432;45.7708518003765;node/9406965161;memorial;1903 Arrivée 1ère étape 1er Tour de France;;;;1903 1er Tour de France Paris Lyon Marseille Toulouse Bordeaux Nantes C'est ici que Maurice Garin a passé en vainqueur la ligne d'arrivée de la première étape Paris Lyon le 2 juillet 1903 à 9h01;;;;;;"69123";Lyon
+4.8383669;45.7740958003761;node/9444906859;memorial;Édouard Herriot;;;;Ici habita de 1902 à 1957 le Président Edouard Herriot maire de Lyon;;;;;;"69123";Lyon
+4.8241692;45.7630749003777;node/9450818462;fountain;;;;;;;;;;;"69123";Lyon
+4.83546;45.7669166003771;node/9468950111;memorial;Maison léguée;;;;Hospices Civils de Lyon Maison léguée par Mr Janez Adrien 1854-1942;;;;;;"69123";Lyon
+4.8364607;45.7671310003771;node/9471512796;name;;;;;Petite Rue Pizay;;;;;;"69123";Lyon
+4.836117;45.7670434003771;node/9473597286;yes;;;;;;;;;;;"69123";Lyon
+4.8281587;45.7564943003786;node/9487750585;yes;;;;;;;;;;;"69123";Lyon
+4.8433111;45.7694946003767;node/9503765990;memorial;Les 3 frères Montel;;;;Ici sont nés les 3 frères Montel héros de la résistance cités à l'ordre de l'armée victimes de la barbarie allemande aux camps de Buchenwald et Dora janvier mars 1944 / Yves 23 ans / André 22 ans / Georges 21 ans / Français souvenez-vous;;;;;;"69123";Lyon
+4.811322;45.774703400376;node/9520704644;memorial;;;;;Avenue de Birmingham Cité Britannique amie de la ville de Lyon inaugurée le 28 avril 1955 en présence de Alterman JR Baimer JP Lord Mayor of Birmingham Mr Edouard Herriot Maire de Lyon;;;;;;"69123";Lyon
+4.8337708;45.7728039003763;node/9536977911;wayside_altimeter;;;;;"242,350";;;;;;"69123";Lyon
+4.8445077;45.7649120003774;node/9552873346;wayside_altimeter;;;;;"153 - 168,540";;;;;;"69123";Lyon
+4.8595046;45.7637806003775;node/9554442054;memorial;"Louis Aulagne, Georges Chazeau, Antonin Dumas, Marius Vivier Merle";;;;N'oublions jamais les milliers de résistants tombés en luttant contre le fascisme et la barbarie nazie ! Parmi eux de nombreux syndiqués et militants de la CGT du Rhône ont été victimes de la gestapo et des milices fascistes (...);;;;;;"69123";Lyon
+4.8468076;45.7556345003787;node/9572391342;memorial;Lt Colonet Claude Robert Guillaud dit Enee;;;;"Dans cette maison le 4 août 1944, fut arrêté par la Gestapo le Lt-Colonel Claude Robert Guillaud dit Enee chef d'État-Major du réseau Gallia «France-Combattante» fusillé par les allemands à St-Genis-Laval le 20 août 1944";;;;;;"69123";Lyon
+4.8467869;45.7557260003787;node/9572391345;memorial;Hospices Civils;;;;Hospices Civils de Lyon Maison léguée par Mme Vve Riouffol née Mayot Thérèse 1859-1945;;;;;;"69123";Lyon
+4.8281996;45.7577688003784;node/957886492;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.8457128;45.7608592003779;node/9579138646;memorial;Gaillard / Dutrion;;;;ici habitaient Philibert Gaillard membre de Parti Socialiste S.F.I.O. arrêté le 29 mars 1944 à Communay - Frédéric Dutrion membre de Parti Socialiste S.F.I.O. arrêté le 10 mai 1944 mort le 2 juillet 1944 sur la route des bagnes nazis «Ces militants sont m;;;;;;"69123";Lyon
+4.8450727;45.7656841003773;node/9589324811;memorial;Enfants juifs déportés;;;;"À la mémoire des enfants du lycée Édouard Herriot déportés en 1943 et 1944 parceque nés juifs victimes innocentes de la barbarie nazie, avec la complicité active du gouvernement de Vichy. Ils furent exterminés dans les camps de la mort. Plus de 278 de ces";;;;;;"69123";Lyon
+4.8451481;45.7656912003773;node/9589324812;memorial;Enfants juifs déportés;;;;"1939-1945 Les enseignantes ont défendu les valeurs de la république Lucie Aubrac Odette Brunschwig Denise Joussot Anne-Marie Sourcelier Paule Vialtel Hommage et reconnaissance pour elles et toutes celles et ceux qui, au sein de ce lycée ont combattu pour";;;;;;"69123";Lyon
+4.8342251;45.7621245003778;node/959275745;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8347168;45.7642255003775;node/9602815544;memorial;;;;;Ancien hôtel de ville Dans cette maison dite hôtel de la couronne de réunirent nos échevins de 1604 à 1652;;;;;;"69123";Lyon
+4.8445255;45.7664811003772;node/9647915946;memorial;Justin Godart;;;;Justin Godart Maire de Lyon à la libération 1944-1945 est né dans cette maison le 26 novembre 1871;;;;;;"69123";Lyon
+4.8428615;45.774414300376;node/9650565852;memorial;Kikou Yamata;;;;Ici est née Kikou Yamata (1807-1975) Femme de lettres Fille de Tadzumi Yamada Consul du Japon à Lyon Ancien élève de la Martinière et de Marguerite Varot lyonnaise - année du Japon en France 1997-98;;;;;;"69123";Lyon
+4.8279651;45.7724794003763;node/9664735513;memorial;Lieutenant Allouche;;;;Lieutenant Allouche alias Terrot héros du Vercors mort pour la France 1924-1944;;;;;;"69123";Lyon
+4.8306711;45.7775012003756;node/9713918897;fountain;;;;;;;;;;;"69123";Lyon
+4.8308064;45.7775003003756;node/9713918898;fountain;;;;;;;;;;;"69123";Lyon
+4.8310702;45.7774922003756;node/9713918899;fountain;;;;;;;;;;;"69123";Lyon
+4.8312144;45.7774908003756;node/9713918900;fountain;;;;;;;;;;;"69123";Lyon
+4.8169582;45.7404080003808;node/9753051052;memorial;;;;;A la mémoire de Nourredine Lourimi ouvrier maçon décédé tragiquement sur ce chantier le 18 février 2009;;;;;;"69123";Lyon
+4.8315686;45.7288809003824;node/9772647768;place_of_worship;Église Saint-Antoine;;christian;catholic;;;;;;;"69123";Lyon
+4.8344654;45.7660422003772;node/977368444;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8344357;45.7656748003773;node/977368503;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8320941;45.7653015003773;node/977372330;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.832911;45.7660648003772;node/977372605;wayside_shrine;;;christian;;;;saint;;;;"69123";Lyon
+4.8287789;45.7551119003788;node/9795063613;memorial;;;;;;;;;;;"69123";Lyon
+4.8289417;45.7550500003788;node/9795063614;memorial;;;;;;;;;;;"69123";Lyon
+4.828993;45.7551335003788;node/9795063615;memorial;;;;;;;;;;;"69123";Lyon
+4.8316022;45.7610072003779;node/9830590525;highwater_mark;;;;;Crue 5 9rre 1840;;;;;;"69123";Lyon
+4.8315986;45.7610092003779;node/9830590526;highwater_mark;;;;;Crue 5 MAI 1856;;;;;;"69123";Lyon
+4.8327444;45.7671788003771;node/983129886;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8302353;45.767421100377;node/983132748;wayside_shrine;;;christian;;;;vierge;;;;"69123";Lyon
+4.8326679;45.767700900377;node/983135095;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8349199;45.7688121003768;node/983140669;wayside_shrine;;;christian;;Notre-Dame de la Fontaine 1773;;;;;;"69123";Lyon
+4.8327555;45.7681848003769;node/983150581;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8300477;45.7691723003768;node/983331327;wayside_shrine;;;christian;;;;;;;;"69123";Lyon
+4.8273718;45.7687405003769;node/984061732;wayside_shrine;;;christian;;;;madone;;;;"69123";Lyon
+4.8411634;45.7634111003776;node/9842578439;wayside_altimeter;;;;;"Ponts et Chaussées Rhône repère n°196 altitude 170,4";;;;;;"69123";Lyon
+4.8411634;45.7634132003776;node/9842578440;wayside_altimeter;;;;;Rb 169m80;;;;;;"69123";Lyon
+4.837734;45.7680573003769;node/9976106240;name;;;;;Quai de Retz;;;;;;"69123";Lyon
+4.8378641;45.7616173003778;node/9986765170;wayside_altimeter;;;;;"Ponts et Chaussées Rhône repère n°127 altitude 168,110";;;;;;"69123";Lyon
+4.82987219560341;45.755881817836;relation/1234051;building;;PA00117875;;;;C18;;;;"3";"69123";Lyon
+4.82911668078434;45.7583583687146;relation/1234165;building;;PA69000030;;;;C18;;;;"3";"69123";Lyon
+4.8343587864152;45.7574630359696;relation/1235645;building;;PA00117835;;;;;;;;"3";"69123";Lyon
+4.8339854403478;45.7568847682959;relation/1235703;building;;PA00117838;;;;;;;;"3";"69123";Lyon
+4.83100576079535;45.7590466835915;relation/1237561;building;;PA00117822;;;;;;;;"3";"69123";Lyon
+4.83041545400871;45.759191058084;relation/1237573;building;Hôtel de l'Europe;PA00135657;;;;C17;;fr:Hôtel de l'Europe;;"2";"69123";Lyon
+4.83142949395893;45.7589139420617;relation/1237655;building;;PA00117824;;;;;;;;"3";"69123";Lyon
+4.83183841021635;45.758807321202;relation/1237711;building;;PA00117826;;;;;;;;"3";"69123";Lyon
+4.81490692436005;45.759537906857;relation/12410825;ruins;;;;;;;;;;;"69123";Lyon
+4.82234106805855;45.7710437798569;relation/1275295;place_of_worship;Église Saint-Bruno-les-Chartreux;PA00117795;christian;catholic;;C17;;fr:Église Saint-Bruno-les-Chartreux de Lyon;;"2";"69123";Lyon
+4.82804710306316;45.764111348051;relation/1708959;building;;PA00117930;;;;;;;;"3";"69123";Lyon
+4.82781801908708;45.7625128683053;relation/1708966;building;;PA00117950;;;;;;;;"3";"69123";Lyon
+4.82798656621345;45.7639235813082;relation/1708968;building;;PA00117932;;;;;;;;"3";"69123";Lyon
+4.82846341205307;45.7641083716468;relation/1708969;building;;PA00117931;;;;;;;;"3";"69123";Lyon
+4.82719249840321;45.765227767926;relation/1708974;building;;PA00117864;;;;;;;;"3";"69123";Lyon
+4.8278638187736;45.7625881666068;relation/1708981;building;;PA00117948;;;;;;;;"3";"69123";Lyon
+4.82829865085749;45.763487837909;relation/1708983;building;;PA00117937;;;;;;;;"3";"69123";Lyon
+4.82777323164722;45.7631510242622;relation/1708991;building;;PA00117943;;;;;;;;"3";"69123";Lyon
+4.82822416930065;45.763558162559;relation/1708996;building;;PA00118108;;;;C17;;;;"3";"69123";Lyon
+4.82806292479289;45.7627069750441;relation/1709001;building;;PA00117944;;;;;;;;"3";"69123";Lyon
+4.82772910907407;45.763280179424;relation/1709005;building;;PA00117942;;;;;;;;"3";"69123";Lyon
+4.82875132538512;45.7631867759832;relation/1709006;building;;PA00117968;;;;;;;;"3";"69123";Lyon
+4.8277424138122;45.7630368024643;relation/1709008;building;;PA00117947;;;;;;;;"3";"69123";Lyon
+4.82809765369187;45.7640457867807;relation/1709016;building;;PA00117903;;;;;;;;"3";"69123";Lyon
+4.82862028250713;45.7639669796291;relation/1709017;building;;PA00117935;;;;C15;;;;"3";"69123";Lyon
+4.82857586715036;45.7639018366148;relation/1709022;building;;PA00117936;;;;C15;;;;"3";"69123";Lyon
+4.82736307591497;45.7622635454451;relation/1709138;building;;PA00117959;;;;;;;;"3";"69123";Lyon
+4.82731220459463;45.7611702520929;relation/1709140;building;;PA00117916;;;;;;;;"3";"69123";Lyon
+4.82744066357437;45.7625190485497;relation/1709143;building;;PA00117918;;;;;;;;"3";"69123";Lyon
+4.82737658198981;45.7613372017826;relation/1709144;building;;PA00117953;;;;;;;;"3";"69123";Lyon
+4.82693998993397;45.7612512860131;relation/1709149;building;;PA00117874;;;;;;;;"3";"69123";Lyon
+4.83648337526787;45.7588000437454;relation/300128;building;Grand Hôtel-Dieu;PA00117821;;;;C17;;fr:Hôtel-Dieu de Lyon;;"2";"69123";Lyon
+4.82235659991723;45.7623104951194;relation/3318254;place_of_worship;Basilique Notre-Dame de Fourvière;PA00117783;christian;catholic;;;;fr:Basilique Notre-Dame de Fourvière;;"2";"69123";Lyon
+4.82781242082113;45.7570789718391;relation/6693983;place_of_worship;Grande Synagogue de Lyon;PA00117987;jewish;;;;;fr:Grande synagogue de Lyon;;"3";"69123";Lyon
+4.84500895263069;45.7715514107018;relation/969500;place_of_worship;Église Rédemption;;christian;catholic;;;;;;;"69123";Lyon
+4.85644375939675;45.7646949288238;relation/969969;place_of_worship;Église évangélique de Pencôte;;christian;pentecostal;;;;;;;"69123";Lyon
+4.8275178599555;45.7556516084802;way/1066715199;fountain;;;;;;;;;;;"69123";Lyon
+4.83674584999999;45.7644436003782;way/1077298563;fountain;;;;;;;;;;;"69123";Lyon
+4.81482206892236;45.7898460347655;way/109068282;place_of_worship;Église Sainte-Camille;;christian;catholic;;;;;;;"69123";Lyon
+4.83183032152977;45.7797763575432;way/109357591;place_of_worship;Église Saint-Denis-de-la-Croix-Rousse;PA00117796;christian;catholic;;C19;;fr:Église Saint-Denis-de-la-Croix-Rousse de Lyon;;"3";"69123";Lyon
+4.81213306736002;45.7691006554972;way/112396115;monastery;;PA00117791;;;;;;fr:Conservatoire national supérieur de musique et de danse de Lyon;;"3";"69123";Lyon
+4.83631913935024;45.7591149288727;way/112734769;place_of_worship;Chapelle de l'Hôtel-Dieu;;christian;catholic;;;;fr:Chapelle de l'Hôtel-Dieu de Lyon;;;"69123";Lyon
+4.81985921056047;45.7570059834863;way/113126963;archaeological_site;Thermes Gallo-romains;;;;;;;fr:Thermes antiques de Lyon;;;"69123";Lyon
+4.83046745960994;45.770634148499;way/113289145;archaeological_site;Amphithéâtre des Trois Gaules;PA00117781;;;;;;fr:Amphithéâtre des Trois Gaules;;"2";"69123";Lyon
+4.82761522087057;45.7609617106543;way/113301270;ruins;Église Saint-Étienne;;;;;;;fr:Église Saint-Étienne de Lyon;;;"69123";Lyon
+4.82780404621102;45.7611224257889;way/113301273;ruins;Église Sainte-Croix de Lyon;;;;;;;fr:Ancienne église Sainte-Croix de Lyon;;;"69123";Lyon
+4.82561361136902;45.7610545741804;way/113302187;memorial;Catastrophe de Fourvière;;;;C'est à l'emplacement de ce jardin que dans la nuit tragique du 13 novembre 1930 lors de l'éboulement de la colline de Fourvière furent ensevelis... 16 habitants de la rue Tramassac ainsi que 4 gardiens de la paix et 19 sapeurs-pompiers de Lyon.;;;fr:Catastrophe de Fourvière;;;"69123";Lyon
+4.84986760429168;45.764566699676;way/114511642;fountain;;;;;;;;;;;"69123";Lyon
+4.83976365681704;45.7794648400474;way/118021945;place_of_worship;Église Saint-Eucher;;christian;catholic;;;;fr:Église Saint-Eucher de Lyon;;;"69123";Lyon
+4.82256589144023;45.7580804081929;way/118530480;place_of_worship;Chapelle de Marie-Thérèse;;christian;catholic;;;;;;;"69123";Lyon
+4.82539603148495;45.757677413786;way/122356299;place_of_worship;Église Saint-Georges;PA00117797;christian;roman_catholic;;C19;;fr:Église Saint-Georges de Lyon;;"3";"69123";Lyon
+4.8257505464021;45.7585895111659;way/122356387;place_of_worship;Église Évangélique du Vieux Lyon;;christian;evangelical;;;;;;;"69123";Lyon
+4.86557081385711;45.7297914864534;way/124764663;fountain;;;;;;;;;;;"69123";Lyon
+4.83368779027786;45.7974353864638;way/125013155;place_of_worship;Église Notre-Dame - Saint-Rambert;PA00118134;christian;catholic;;C11;;fr:Église Notre-Dame (Lyon);;"2";"69123";Lyon
+4.83458693779664;45.7981099021045;way/125013262;building;Le Châtelard;PA00118141;;;;C12;;;;"2";"69123";Lyon
+4.82689455284449;45.7998872415207;way/125013274;place_of_worship;Église Saint-François-d'Assise;;christian;;;;;;;;"69123";Lyon
+4.83142663642738;45.7992293528114;way/125013297;place_of_worship;Église Saint-Rambert;;christian;catholic;;;;;;;"69123";Lyon
+4.80509999144323;45.7771999866104;way/125075413;place_of_worship;Réunions Chrétiennes;;christian;protestant;;;;;;;"69123";Lyon
+4.7917045867676;45.7881982313666;way/125075450;place_of_worship;Synagogue de la Duchère;;jewish;;;;;;;;"69123";Lyon
+4.80399097289217;45.7787697530282;way/125075524;place_of_worship;Église Notre-Dame de l'Annonciation;;christian;catholic;;;;fr:Église Notre Dame de l'Annonciation (Lyon);;;"69123";Lyon
+4.78919687298429;45.788929136112;way/125075530;place_of_worship;Église Notre-Dame-de-la-Sauvegarde;;christian;;;;;;;;"69123";Lyon
+4.80107850001439;45.7843935004117;way/125076163;castle;Château de la Jayère;;;;;;;fr:Château de la Jayère;;;"69123";Lyon
+4.79395049998909;45.7832500004973;way/125076247;place_of_worship;Église Notre-Dame-du-Monde-Entier;;christian;catholic;;;;fr:Église Notre-Dame-du-Monde-Entier de La Duchère;;;"69123";Lyon
+4.79670060422096;45.76826077045;way/125084804;place_of_worship;Salle du Royaume des Témoins de Jéhovah;;christian;jehovahs_witness;;;;;;;"69123";Lyon
+4.80854498271128;45.7732132714111;way/125104037;place_of_worship;Église Saint-Pierre-aux-Liens;;christian;catholic;;;;;;;"69123";Lyon
+4.78269966916413;45.7563522977291;way/125551017;place_of_worship;Église Sainte-Anne de Ménival;;christian;catholic;;;;;;;"69123";Lyon
+4.79561469388886;45.7582370245154;way/125551575;place_of_worship;Église Notre-Dame du Point-du-Jour;;christian;catholic;;;;;;;"69123";Lyon
+4.78634261070652;45.7576208859221;way/125551581;castle;Château de Ménival;;;;;;;fr:Château de Ménival;;;"69123";Lyon
+4.81766253158951;45.7598101346621;way/125687396;place_of_worship;Chapelle du Carmel;;christian;catholic;;;;;;;"69123";Lyon
+4.8122012565421;45.7562546776849;way/125688678;place_of_worship;Mosquée El Houda;;muslim;sunni;;;;;;;"69123";Lyon
+4.82791843160139;45.7636249712516;way/125782671;building;;PA00117939;;;;;;;;"3";"69123";Lyon
+4.82811118482367;45.7642736603181;way/125782680;building;Venise A Lyon;PA00117966;;;;;;;;"3";"69123";Lyon
+4.82762664840818;45.7643752880982;way/125782717;building;;PA00117907;;;;;;;;"3";"69123";Lyon
+4.8279188254713;45.7640229613817;way/125782729;building;;PA00117904;;;;;;;;"3";"69123";Lyon
+4.82722893526409;45.7649513047454;way/125782768;building;;PA00118126;;;;;;;;"2";"69123";Lyon
+4.82837727053258;45.7642249249445;way/125782785;building;;PA00117927;;;;;;;;"3";"69123";Lyon
+4.82773705555387;45.7629683031995;way/125782829;building;;PA00117949;;;;;;;;"3";"69123";Lyon
+4.82792531275846;45.7644750816385;way/125782865;place_of_worship;Temple du Change;PA00117989;christian;protestant;;;;fr:Temple du Change;;"2";"69123";Lyon
+4.82748202410657;45.7630940306168;way/125782881;building;;PA00117885;;;;;;;;"3";"69123";Lyon
+4.82795971611099;45.7635618691158;way/125782898;building;;PA00117940;;;;;;;;"3";"69123";Lyon
+4.82787206014931;45.7626622568134;way/125782924;building;;PA00117946;;;;C16;;;;"3";"69123";Lyon
+4.8277474790405;45.7651399837644;way/125782939;building;;PA00132824;;;;C16;;;;"2";"69123";Lyon
+4.82816731879081;45.7634334389705;way/125782945;building;;PA00117938;;;;;;;;"3";"69123";Lyon
+4.82801755680999;45.7638578457911;way/125782954;building;;PA00117934;;;;;;;;"3";"69123";Lyon
+4.82790621323691;45.7635040067492;way/125782958;building;;PA00117941;;;;;;;;"3";"69123";Lyon
+4.82838949267995;45.7640541485248;way/125783029;building;;PA00117933;;;;C15;;;;"3";"69123";Lyon
+4.82799180906839;45.7641660996131;way/125783066;building;;PA00117928;;;;;;;;"3";"69123";Lyon
+4.82753030374113;45.762685395061;way/125783069;building;;PA00117954;;;;;;;;"3";"69123";Lyon
+4.8277300119445;45.7631084986571;way/125783140;building;;PA00117945;;;;;;;;"3";"69123";Lyon
+4.82780105737996;45.7649906010305;way/125783153;building;;PA00117914;;;;C15;;;;"3";"69123";Lyon
+4.82858665228428;45.7642600540139;way/125783170;building;;PA00117863;;;;;;;;"3";"69123";Lyon
+4.82754253583936;45.7627801496736;way/125783178;building;;PA00117952;;;;;;;;"3";"69123";Lyon
+4.82764815952838;45.7628593700579;way/125783203;building;;PA00117951;;;;;;;;"3";"69123";Lyon
+4.82858919149534;45.7641783000391;way/125783242;building;;PA00117929;;;;;;;;"3";"69123";Lyon
+4.82706637406243;45.7654345075825;way/125783464;building;Hôtel Bullioud;PA00117911;;;;;;fr:Hôtel de Bullioud;;"2";"69123";Lyon
+4.82834036732722;45.7638722845058;way/125783577;building;;PA00117909;;;;;;;;"3";"69123";Lyon
+4.82885614925579;45.7632601612688;way/125783579;building;;PA00117883;;;;;;;;"3";"69123";Lyon
+4.82787127524376;45.7642589301608;way/125783598;yes;;PA00117967;;;;;;;;"3";"69123";Lyon
+4.82816329160369;45.7633696709895;way/125783744;building;;PA00117882;;;;;;;;"3";"69123";Lyon
+4.82858376647449;45.7632584044127;way/125783809;building;;PA00117884;;;;;;;;"3";"69123";Lyon
+4.826579769329;45.7621432895854;way/125802799;building;;PA00117891;;;;;;;;"3";"69123";Lyon
+4.82676535684699;45.7623330881032;way/125802819;building;;PA00117889;;;;;;;;"3";"69123";Lyon
+4.82642113390954;45.7620251664159;way/125802821;building;;PA00117892;;;;C17;;;;"3";"69123";Lyon
+4.82736955276822;45.7623861140067;way/125802822;building;;PA00117957;;;;;;;;"3";"69123";Lyon
+4.82726002074635;45.7621696893254;way/125802830;building;;PA00117961;;;;;;;;"3";"69123";Lyon
+4.82734356975727;45.762499972127;way/125802851;building;;PA00117956;;;;;;;;"3";"69123";Lyon
+4.82729463925104;45.7622254029531;way/125802855;building;;PA00117960;;;;;;;;"3";"69123";Lyon
+4.82723408108655;45.7623486613399;way/125802858;building;;PA00117958;;;;;;;;"3";"69123";Lyon
+4.82699424503021;45.7620082369302;way/125802862;building;;PA00117962;;;;;;;;"3";"69123";Lyon
+4.82722745826576;45.7618340495312;way/125802964;building;;PA00117963;;;;;;;;"3";"69123";Lyon
+4.82707781956432;45.7626640286339;way/125802967;building;;PA00117920;;;;;;;;"3";"69123";Lyon
+4.82780542138463;45.7601843450843;way/125802969;castle;Palais archiépiscopal;PA00117978;;;;;;fr:Palais archiépiscopal de Lyon;;"3";"69123";Lyon
+4.82722803495853;45.7617871332583;way/125802981;building;;PA00117964;;;;;;;;"3";"69123";Lyon
+4.82666245134323;45.7623204174812;way/125803036;building;;PA00117890;;;;;;;;"3";"69123";Lyon
+4.8271998815891;45.761736741913;way/125803069;building;Maison du Chamarier;PA00117965;;;;;;fr:Maison du Chamarier;;"3";"69123";Lyon
+4.82719095437457;45.7626263411915;way/125803089;building;;PA00117919;;;;;;;;"3";"69123";Lyon
+4.83563174999673;45.760467900598;way/129172257;fountain;Le bassin central de la place;;;;;"1977";;;;;"69123";Lyon
+4.81114836318586;45.7548662958828;way/135577168;archaeological_site;;;;;;;;;;;"69123";Lyon
+4.81096491639466;45.7546247017384;way/135577170;archaeological_site;;;;;;;;;;;"69123";Lyon
+4.81108500788668;45.7547881007194;way/135577174;archaeological_site;;;;;;;;;;;"69123";Lyon
+4.81092184285484;45.7545692862326;way/135577180;archaeological_site;;;;;;;;;;;"69123";Lyon
+4.82743153055401;45.7607183981576;way/136200148;place_of_worship;Cathédrale Saint-Jean;PA00117785;christian;roman_catholic;;;;fr:Primatiale Saint-Jean de Lyon;;"2";"69123";Lyon
+4.81685122212709;45.7467949677176;way/139266975;place_of_worship;Le Lien;;christian;catholic;;;;fr:Bateau-chapelle des bateliers de Lyon;;;"69123";Lyon
+4.84215382619443;45.750140564253;way/139900402;place_of_worship;Chapelle du Bienheureux Père Chevrier;;christian;catholic;;;;;;;"69123";Lyon
+4.82875645135477;45.7558300604516;way/144904193;place_of_worship;Chapelle des Jésuites;;christian;catholic;;;;;;;"69123";Lyon
+4.8366948684213;45.7683770617364;way/167541239;fountain;;;;;;;;;;;"69123";Lyon
+4.82210022320629;45.7624539457981;way/167592991;place_of_worship;Tour de la Force;;christian;;;;;;;;"69123";Lyon
+4.82205945026708;45.762213040162;way/167592993;place_of_worship;Tour de la Justice;;christian;;;;;;;;"69123";Lyon
+4.82283638779494;45.7623930768233;way/167592998;place_of_worship;Tour de la Prudence;;christian;;;;;;;;"69123";Lyon
+4.82279840962609;45.7621530031139;way/167593000;place_of_worship;Tour de la Tempérance;;christian;;;;;;;;"69123";Lyon
+4.81104961639466;45.7547367017384;way/180279723;archaeological_site;;;;;;;;;;;"69123";Lyon
+4.83523322434133;45.7676551772271;way/186870614;fountain;;;;;;;;;;;"69123";Lyon
+4.81624282068072;45.7551096299641;way/190125626;archaeological_site;Mausolée romain de Satrius;PA00117991;;;;;;fr:Tombeau de Turpio;;"2";"69123";Lyon
+4.81608518250284;45.7552330783782;way/190125627;archaeological_site;Mausolée romain du Sévir Turpio;PA00117991;;;;;;fr:Tombeau de Turpio;;"2";"69123";Lyon
+4.81594101278324;45.7553458613474;way/190125628;archaeological_site;"Mausolées romains de Julius Severianus, de Quintus Valerius et de Julia";PA00117991;;;;;;fr:Tombeau de Turpio;;"2";"69123";Lyon
+4.82655078472046;45.7639437469984;way/236823541;yes;Site historique de Lyon;;;;;;;fr:Vieux Lyon;;"1";"69123";Lyon
+4.84206112607923;45.7685311664876;way/237784287;fountain;;PA00117807;;;;;;fr:Fontaine de la place du Maréchal-Lyautey;;"3";"69123";Lyon
+4.8212674636881;45.7624898732881;way/246700929;place_of_worship;Chapelle Sainte-Claudine Thévenet;;christian;catholic;;;;;;;"69123";Lyon
+4.83353763014419;45.7605086510978;way/25101472;fountain;Fontaine des Jacobins;;;;;;;fr:Place des Jacobins (Lyon)#La fontaine des Jacobins de 1885;;;"69123";Lyon
+4.8336347153282;45.7668390936784;way/255664542;fountain;;;;;;;;;;;"69123";Lyon
+4.83400449839921;45.7564328120221;way/265922306;memorial;Mémorial Lyonnais du Génocide Arménien;;;;;24/05/2006;;fr:Mémorial lyonnais du génocide arménien;;;"69123";Lyon
+4.81862780087768;45.7595910344728;way/268251012;archaeological_site;Prétendu Sanctuaire de Cybèle;PA00117988;;;;;;fr:Sanctuaire de Cybèle;;"2";"69123";Lyon
+4.8225603735335;45.7622887314822;way/29179429;place_of_worship;Basilique de Fourvière;PA00117783;christian;;;;;fr:Basilique Notre-Dame de Fourvière;;"2";"69123";Lyon
+4.84466069138997;45.7772447720051;way/292413525;memorial;Aux enfants du Rhône défenseurs de la Patrie;;;;Aux enfants du Rhône défenseurs de la Patrie;"1887";;fr:Monument des enfants du Rhône;;;"69123";Lyon
+4.81944272197595;45.759978436922;way/331689779;yes;;;;;;;;;;;"69123";Lyon
+4.83386624999357;45.7563692253803;way/339552916;yes;;;;;;;;;;;"69123";Lyon
+4.82816865925342;45.7506737740835;way/339555349;memorial;À la gloire de la République;;;;;"1889";;;;;"69123";Lyon
+4.83611114132059;45.76828518889;way/345622422;fountain;Le Soleil;;;;« Permets m'amour penser quelques folies »;"1982";;;;;"69123";Lyon
+4.82043533556788;45.755996595435;way/40550808;place_of_worship;Église Saint-Just;PA00117799;christian;catholic;;;;fr:Église Saint-Just de Lyon;;"2";"69123";Lyon
+4.81365680183167;45.7551222741113;way/40553093;place_of_worship;Église Saint-Irénée;PA00117798;christian;catholic;;;;fr:Église Saint-Irénée de Lyon;;"2";"69123";Lyon
+4.81935922201298;45.7538031778718;way/40557440;castle;Château de Choulans;;;;;;;;;;"69123";Lyon
+4.81752260575357;45.7555720031532;way/40557461;ruins;Site archéologique de Saint-Just Les Minimes;PA00117985;;;;;;fr:Basilique Saint-Just de Lyon;;"2";"69123";Lyon
+4.81279252379721;45.7551125596004;way/40632995;fountain;;;;;;;;;;;"69123";Lyon
+4.82087512067667;45.7596196882424;way/408824809;fountain;;;;;;;;;;;"69123";Lyon
+4.8736159663659;45.7338029379596;way/416475065;fountain;Bassin;;;;;;;;;;"69123";Lyon
+4.83291608308741;45.7712892599164;way/42105115;place_of_worship;Mosquée Koba;;muslim;sunni;;;;;;;"69123";Lyon
+4.82595339417442;45.7329436897699;way/44308232;place_of_worship;Centre spirituel En Guédi;;christian;;;;;;;;"69123";Lyon
+4.87066119402408;45.7367678583913;way/445844183;place_of_worship;Église Saint-Marc;;christian;;;;;;;;"69123";Lyon
+4.82886975338388;45.7385128596415;way/44716303;place_of_worship;Salle du Royaume des Témoins de Jéhovah;;christian;jehovahs_witness;;;;;;;"69123";Lyon
+4.8323854792949;45.7377661441286;way/44954593;place_of_worship;Église Notre-Dame des Anges;;christian;catholic;;;;;;;"69123";Lyon
+4.82370461702918;45.7449119572438;way/45173893;place_of_worship;Église Sainte-Blandine;;christian;catholic;;;;fr:Église Sainte-Blandine;;;"69123";Lyon
+4.82132095899867;45.7519986679894;way/459025768;archaeological_site;Basilique funéraire Saint-Laurent de Choulans;;;;;;;fr:Basilique funéraire Saint-Laurent de Choulans;;;"69123";Lyon
+4.7927390846589;45.7882783362301;way/474692729;place_of_worship;Mosquée Et-Tawba;;muslim;sunni;;"2016";;;;;"69123";Lyon
+4.8579823160212;45.7842846225248;way/480365564;memorial;Espace des droits de l'homme;;;;Préambule de la déclaration des droits de l'homme;1989-12-10;;;;;"69123";Lyon
+4.83925077191156;45.7464712859578;way/48217383;place_of_worship;Église Saint-Michel;;christian;catholic;;;;;;;"69123";Lyon
+4.81524322758387;45.7706525112823;way/512708363;castle;Fort Saint-Jean;;;;;;;fr:Fort Saint-Jean (Lyon);;;"69123";Lyon
+4.84149347965462;45.7527412716993;way/52067460;place_of_worship;Église Saint-André;;christian;catholic;;;;;;;"69123";Lyon
+4.84055133845793;45.7525661066999;way/52438459;place_of_worship;Église Protestante Chinoise de Lyon;;christian;protestant;;;;;;;"69123";Lyon
+4.8520767884863;45.7826830536211;way/532762784;fountain;;;;;;;;;;;"69123";Lyon
+4.83346117408569;45.7676292942189;way/55071957;fountain;Fontaine Bartholdi;PA00118120;;;;"1888";;fr:Fontaine Bartholdi;;"2";"69123";Lyon
+4.8795058255553;45.7443343352027;way/559260418;place_of_worship;Chapelle de l'hôpital Édouard-Herriot;;christian;catholic;;"1924";;fr:Chapelle de l'hôpital Édouard-Herriot;;;"69123";Lyon
+4.81150665087765;45.7634953504973;way/578194669;tomb;Famille Guimet;;;;"EMILE GUIMET
+DECEDE LE 12 OCTOBRE 1918
+AGE DE 82 ANS";;;;;;"69123";Lyon
+4.8915003017015;45.7534763247162;way/58695141;fountain;;;;;;;;;;;"69123";Lyon
+4.82260264039896;45.7620540236746;way/60752859;place_of_worship;Chapelle Saint-Thomas;PA00117783;christian;catholic;;;;fr:Chapelle Saint-Thomas de Lyon;;"2";"69123";Lyon
+4.8671999282235;45.7311872372782;way/60791247;place_of_worship;Église Saint-Jacques;;christian;catholic;;;;;;;"69123";Lyon
+4.84614522600562;45.7478074615599;way/60792215;place_of_worship;Église de l'Annonciation;;christian;greek_orthodox;;;;fr:Église grecque de l'Annonciation de Lyon;;;"69123";Lyon
+4.82707664156633;45.7666446049378;way/60798750;place_of_worship;Église Saint-Paul;PA00117802;christian;catholic;;;;fr:Église Saint-Paul de Lyon;;"2";"69123";Lyon
+4.83372104453961;45.7647138409245;way/60801683;place_of_worship;Église Saint-Nizier;PA00117801;christian;catholic;;;;fr:Église Saint-Nizier de Lyon;;"2";"69123";Lyon
+4.83694856134487;45.7630634457706;way/60803772;place_of_worship;Basilique Saint-Bonaventure;PA00117794;christian;catholic;;C14;;fr:Basilique Saint-Bonaventure de Lyon;;"3";"69123";Lyon
+4.83001338618211;45.751446346461;way/60807055;place_of_worship;Église Sainte-Croix;;christian;catholic;;;;;;;"69123";Lyon
+4.84519071638604;45.7597855732552;way/60807892;place_of_worship;Église de l'Immaculée Conception;;christian;catholic;;;;;;;"69123";Lyon
+4.84834918507309;45.750652821718;way/60808540;place_of_worship;Église Notre-Dame Saint-Louis;;christian;catholic;;;;fr:Église Notre-Dame Saint-Louis de Lyon;;;"69123";Lyon
+4.84600330454154;45.766159002216;way/60809446;place_of_worship;Église Saint-Pothin;PA69000037;christian;catholic;;;;fr:Église Saint-Pothin de Lyon;;"3";"69123";Lyon
+4.85012647085595;45.7602777911408;way/62265756;place_of_worship;Mission Ciel Ouvert;;christian;protestant;;;;;;;"69123";Lyon
+4.84161838600376;45.7619051324687;way/62265899;place_of_worship;Grand Temple;PA00117811;christian;protestant;;;;fr:Grand Temple de Lyon;;"2";"69123";Lyon
+4.83477573270787;45.7642799552868;way/62271798;building;Musée de l'Imprimerie et de la communication graphique;PA00117870;;;;;;fr:Musée de l'imprimerie et de la communication graphique;;"2";"69123";Lyon
+4.85850570118852;45.7753375310653;way/62277093;yes;Orangerie;;;;;;;;;;"69123";Lyon
+4.85161119514969;45.7577870373101;way/62279347;place_of_worship;Église du Saint-Sacrement;;christian;catholic;;;;;;;"69123";Lyon
+4.85202461350548;45.7544424548187;way/62280106;place_of_worship;Église arménienne Saint-Jacques;;christian;orthodox;;"1963";;fr:Église arménienne Saint-Jacques de Lyon;;;"69123";Lyon
+4.84764791376872;45.7744110920093;way/62287963;building;;;;;;;;fr:Usine Mercier et Chaleyssin;;;"69123";Lyon
+4.85438553307461;45.7714226893059;way/62291050;place_of_worship;Église Saint-Joseph des Brotteaux;;christian;catholic;;;;;;;"69123";Lyon
+4.84440716617912;45.7703542881758;way/62291596;place_of_worship;Église Adventiste du 7e jour;;christian;seventh_day_adventist;;;;;;;"69123";Lyon
+4.8439352457633;45.7641485627879;way/62293986;place_of_worship;Église Luthérienne;;christian;lutheran;;;;;;;"69123";Lyon
+4.84754281944846;45.7643732630842;way/62296662;place_of_worship;Chapelle Sainte-Croix de Lyon;;christian;;;;;fr:Chapelle Sainte-Croix de Lyon;;;"69123";Lyon
+4.8534311700598;45.7667008400271;way/62301809;place_of_worship;Église du Saint-Nom-de-Jesus;;christian;catholic;;;;;;;"69123";Lyon
+4.86500912601108;45.7678370226037;way/62308738;place_of_worship;Église orthodoxe russe Saint-Nicolas;;christian;orthodox;;;;fr:Église orthodoxe russe Saint-Nicolas de Lyon;;;"69123";Lyon
+4.86059973426073;45.7704428934605;way/62308978;place_of_worship;Église Evangélique Baptiste;;christian;baptist;;;;;;;"69123";Lyon
+4.86624934923388;45.7661932381824;way/62308992;place_of_worship;Église Notre-Dame de Bellecombe;;christian;catholic;;;;fr:Église Notre-Dame de Bellecombe;;;"69123";Lyon
+4.88771923706151;45.7494246596666;way/62334855;place_of_worship;Église Notre-Dame-du-Bon-Secours;;christian;catholic;;;;;;;"69123";Lyon
+4.89221892694126;45.7423462710368;way/62336406;building;Villa Berliet;PA00118109;;;;;;fr:Villa Berliet;;"3";"69123";Lyon
+4.86519354272987;45.7604335240713;way/62339238;place_of_worship;Petites soeurs des Pauvres;;christian;;;;;;;;"69123";Lyon
+4.87766504604476;45.7518090108305;way/62339251;place_of_worship;Église Sainte-Jeanne-d'Arc;;christian;catholic;;;;;;;"69123";Lyon
+4.87439880172649;45.7520695758636;way/62339635;place_of_worship;Église évangélique arménienne;;christian;evangelical;;;;;;;"69123";Lyon
+4.86684984218696;45.7552437124132;way/62340578;place_of_worship;Mosquée Es-salem;;muslim;;;;;;;;"69123";Lyon
+4.869252024547;45.7581772136317;way/62342088;place_of_worship;Église du Sacré-Cœur;;christian;catholic;;;;fr:Église du Sacré-Cœur de Lyon;;;"69123";Lyon
+4.88981099197394;45.7501975534671;way/62342808;place_of_worship;Église évangélique libre de Lyon;;christian;evangelical;;;;;;;"69123";Lyon
+4.87844036242825;45.7258150284786;way/62345122;place_of_worship;Église Notre-Dame-de-l'Assomption;;christian;catholic;;;;;;;"69123";Lyon
+4.8707379039327;45.7450564758327;way/62345394;yes;Villa des Frères Lumière;PA00117993;;;;;;fr:Villa Lumière;;"3";"69123";Lyon
+4.88369621784162;45.7393064926955;way/62347046;place_of_worship;Église Notre-Dame-Saint-Alban;;christian;catholic;;;;;;;"69123";Lyon
+4.89012083684643;45.7368477023869;way/62347595;place_of_worship;Mosquée Badr Eddine;;muslim;sunni;;;;;;;"69123";Lyon
+4.86840370020958;45.7434665540248;way/62350390;place_of_worship;Église Saint-Maurice;;christian;catholic;;;;;;;"69123";Lyon
+4.86373190623025;45.7451968642333;way/62351419;place_of_worship;Église de Jésus-Christ des saints des derniers jours;;christian;mormon;;;;;;;"69123";Lyon
+4.8632597720384;45.7425194253463;way/62351497;place_of_worship;centre culturel israélite chaare-tsedek;;jewish;;;;;;;;"69123";Lyon
+4.865080021374;45.7265137651685;way/62351697;place_of_worship;Église Saint-Jean-Apôtre;;christian;;;;;;;;"69123";Lyon
+4.8543354174383;45.7391898690898;way/62351773;memorial;Monument aux morts italiens de Lyon;PA69000068;;;ICI REPOSENT LES SOLDATS DE LA NATION ITALIENNE ALLIÉE MORTS DANS LES AMBULANCES LYONNAISES PENDANT LA GUERRE DE 1914-1918 - DANS UN TERRAIN CONCÉDÉ À PERPÉTUITÉ PAR LA VILLE DE LYON;;;fr:Monument aux morts italiens de Lyon;;"3";"69123";Lyon
+4.85233902320133;45.7354693619202;way/62352036;place_of_worship;Église Saint-Vincent-de-Paul;;christian;catholic;;;;;;;"69123";Lyon
+4.88324523125934;45.73289655449;way/62352408;place_of_worship;Église de la Sainte-Trinité;;christian;catholic;;;;;;;"69123";Lyon
+4.85225480846426;45.739887488896;way/64929013;place_of_worship;Calvary Chapel;;christian;protestant;;;;;;;"69123";Lyon
+4.85180184817884;45.7455426653271;way/64929418;yes;;;;;;;;;;;"69123";Lyon
+4.85256035424032;45.7446220806085;way/64930077;castle;Château de La Motte;PA00117786;;;;;;fr:Château de La Motte (Lyon);;"3";"69123";Lyon
+4.85085164875994;45.7515095034792;way/64930509;place_of_worship;Synagogue;;jewish;;;;;;;;"69123";Lyon
+4.85019445729006;45.7457837330567;way/64930572;place_of_worship;Mosquée El Oulfa;;muslim;sunni;;;;;;;"69123";Lyon
+4.85155207853475;45.7458090520625;way/64930834;yes;;;;;;;;;;;"69123";Lyon
+4.8490843513204;45.7403736048453;way/64930866;place_of_worship;Centre évangélique de Pentecôte;;christian;pentecostal;;;;;;;"69123";Lyon
+4.85147686003229;45.7459667521203;way/64931156;yes;;;;;;;;;;;"69123";Lyon
+4.85273696305354;45.7444739348812;way/64931272;yes;;;;;;;;;;;"69123";Lyon
+4.8477452476683;45.7515162170574;way/64931334;place_of_worship;Paroisses de la Guillotière;;christian;;;;;;;;"69123";Lyon
+4.82526222689404;45.7588980939121;way/668388125;building;;PA00117926;;;;;;;;"3";"69123";Lyon
+4.82847794238677;45.7619938682225;way/674070279;fountain;;;;;;;;;;;"69123";Lyon
+4.82832413946983;45.7616250534206;way/674070280;fountain;;;;;;;;;;;"69123";Lyon
+4.83461917354809;45.7778347312527;way/687407711;fountain;;;;;;;;;;;"69123";Lyon
+4.82728508786459;45.7640840745745;way/700244364;building;Musées Gadagne;PA00117816;;;;C15;;fr:Musées Gadagne;;"2";"69123";Lyon
+4.85301667829898;45.7464486838389;way/728074337;yes;;;;;;;;;;;"69123";Lyon
+4.85334191911294;45.7465315231655;way/728074338;yes;;;;;;;;;;;"69123";Lyon
+4.85272207197605;45.7463384494912;way/728074339;yes;;;;;;;;;;;"69123";Lyon
+4.8258874027464;45.743955668884;way/82201398;place_of_worship;Prieuré Saint-Irénée;;christian;roman_catholic;;;;;;;"69123";Lyon
+4.82738987558664;45.7522088495115;way/82252920;place_of_worship;Chapelle Paul Couturier;;christian;catholic;;;;;;;"69123";Lyon
+4.82736485771041;45.7536594903777;way/82254733;church;Basilique Saint-Martin d'Ainay;PA00117800;christian;catholic;;;;fr:Basilique Saint-Martin d'Ainay;;"2";"69123";Lyon
+4.83103352215049;45.7566729307481;way/82255452;building;;PA00117847;;;;;;;;"3";"69123";Lyon
+4.83012141529895;45.7560991805195;way/82255467;building;;PA00117862;;;;C18;;;;"2";"69123";Lyon
+4.83013755616793;45.7567493062558;way/82255557;building;;PA00117849;;;;;;;;"3";"69123";Lyon
+4.83129783449375;45.7566162686207;way/82255561;building;;PA00117846;;;;;;;;"3";"69123";Lyon
+4.83042697974302;45.7587655300026;way/82255717;building;;PA00117859;;;;;;;;"3";"69123";Lyon
+4.83008833483892;45.7581921687608;way/82255739;building;;PA00117856;;;;;;;;"3";"69123";Lyon
+4.83031994681568;45.7585710951598;way/82255743;building;;PA00117858;;;;;;;;"3";"69123";Lyon
+4.82942855286886;45.757454694175;way/82255744;building;;PA00117853;;;;;;;;"3";"69123";Lyon
+4.83135212138077;45.7540418860027;way/82256947;manor;Hôtel de Cuzieu;PA00117815;;;;C18;;;;"3";"69123";Lyon
+4.83185395345406;45.755247000135;way/82260098;place_of_worship;Église Saint-François-de-Sales;;christian;catholic;;;;fr:Église Saint-François-de-Sales de Lyon;;;"69123";Lyon
+4.83141047103579;45.7563258629543;way/82260231;building;;PA00117879;;;;;;;;"3";"69123";Lyon
+4.8341620633828;45.7571410915479;way/82260983;building;;PA00117837;;;;;;;;"3";"69123";Lyon
+4.83438235464357;45.7576885398181;way/82261036;building;;PA00117834;;;;;;;;"3";"69123";Lyon
+4.83369351925111;45.7582815013941;way/82379236;building;;PA00117833;;;;;;;;"3";"69123";Lyon
+4.83334357071287;45.7583870759706;way/82379289;building;;PA00117831;;;;;;;;"3";"69123";Lyon
+4.83071701191355;45.7590327344645;way/82393564;building;;PA00117860;;;;;;;;"3";"69123";Lyon
+4.83160466395468;45.758802618687;way/82393594;building;;PA00117825;;;;;;;;"3";"69123";Lyon
+4.83118957683109;45.7589414479006;way/82393598;building;;PA00117823;;;;;;;;"3";"69123";Lyon
+4.83209787340396;45.7587827815849;way/82393686;building;;PA00117827;;;;;;;;"3";"69123";Lyon
+4.83153486559893;45.7665566462291;way/84629522;place_of_worship;Temple de la Lanterne;;christian;reformed;;;;;;;"69123";Lyon
+4.82968366593319;45.7675504314593;way/84629829;place_of_worship;Église Notre-Dame-Saint-Vincent;PA00117805;christian;catholic;;C18;;fr:Église Notre-Dame-Saint-Vincent de Lyon;;"2";"69123";Lyon
+4.83720502958018;45.7693171981038;way/84630345;building;;PA00117878;;;;;;;;"3";"69123";Lyon
+4.8366915885055;45.7697177677051;way/84630357;building;Thou bout de chant;PA00117877;;;;;;;;"3";"69123";Lyon
+4.83253044198038;45.7685962073952;way/84631580;place_of_worship;Église de la Scientologie;;scientologist;;;;;;;;"69123";Lyon
+4.83378434055707;45.7701300561909;way/84631832;place_of_worship;Église Saint-Polycarpe;PA00117804;christian;catholic;;;;fr:Église Saint-Polycarpe de Lyon;;"2";"69123";Lyon
+4.82635619601187;45.768529900573;way/84727970;place_of_worship;Église La Bonne Nouvelle;;christian;evangelical;;;;;;;"69123";Lyon
+4.81481706816243;45.7695567467783;way/85562889;building;DRAC Rhône-Alpes;PA00117876;;;;C18;;fr:Grenier d'abondance;;"2";"69123";Lyon
+4.82015282639606;45.7704736310902;way/85565189;place_of_worship;Sacré-Choeur des Chartreux;;christian;;;;;;;;"69123";Lyon
+4.82429446629104;45.7706928882525;way/85634846;place_of_worship;Chapelle des Chartreux;;christian;;;;;;;;"69123";Lyon
+4.82995670035906;45.7716616878733;way/85639095;place_of_worship;Église du Bon-Pasteur;;christian;catholic;;;;fr:Église du Bon-Pasteur de Lyon;;;"69123";Lyon
+4.83264200272296;45.7692204761131;way/856815219;yes;;;;;;;;;;;"69123";Lyon
+4.83754025436675;45.7709414889472;way/858121376;yes;;;;;;;"2 pierres de 3m de haut supportent une structure métallique avec un grand levier vertical lesté d'une masse à son extrémité inférieure, qui fait pendule en avant des 2 pierres. Cette pompe était à l'origine au milieu de la cour sur le puits et a été dépla";;;;"69123";Lyon
+4.83418332592979;45.7702259094127;way/858280071;ruins;;;;;;;;;;;"69123";Lyon
+4.83755781385837;45.7713063258651;way/858904368;yes;;;;;;;entièrement protégée par 2 portes verrouillées;;;;"69123";Lyon
+4.82900966943579;45.7696539634149;way/861323450;yes;;;;;;;Il reste la niche en pierre et le grand levier lesté;;;;"69123";Lyon
+4.82470217372067;45.7759432604785;way/86972629;place_of_worship;Église Saint-Augustin;;christian;catholic;;;;fr:Église Saint-Augustin (Lyon);;;"69123";Lyon
+4.83410177037036;45.7707932014761;way/870500959;monument;;;;;;;;;;;"69123";Lyon
+4.83507043139394;45.7719122350431;way/870914915;ruins;;;;;;;;;;;"69123";Lyon
+4.81973289992089;45.7597884801866;way/88526502;archaeological_site;Théâtre Gallo-Romain de Fourvière;;;;;;;fr:Théâtre antique de Lyon;;;"69123";Lyon
+4.81967675837461;45.7587013243663;way/88526506;archaeological_site;Odéon;;;;;;;fr:Odéon antique de Lyon;;;"69123";Lyon
+4.82778088421939;45.7610467137759;way/88643315;archaeological_site;Jardin archéologique Girard Desargues;;;;;;;;;;"69123";Lyon
+4.81254255696141;45.7751143596254;way/90303819;place_of_worship;Église Saint-Charles-de-Serin;;christian;catholic;;;;;;;"69123";Lyon
+4.83542259207607;45.7740143873105;way/923476106;place_of_worship;Salle du Royaume des Témoins de Jéhovah;;christian;;;;;;;;"69123";Lyon
+4.83282011271262;45.7661982044168;way/945578145;fountain;;;;;;;;;;;"69123";Lyon
+4.82101361658396;45.7792351179322;way/95093952;place_of_worship;Église Sainte-Élisabeth;;christian;catholic;;"1960";;fr:Église Sainte-Élisabeth de Lyon;;;"69123";Lyon
+4.81175625000024;45.7625762503792;way/959119310;monument;Mémorial Sapeurs Pompiers;;;;;;;;;;"69123";Lyon

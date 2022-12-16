@@ -1,0 +1,2 @@
+model,r2_score_train,r2_score_test,MAPE_train,MAPE_test
+KNeighborsRegressor,0.7459015219245824,0.5651732100006155,114.79534304735968,621.3359928408904

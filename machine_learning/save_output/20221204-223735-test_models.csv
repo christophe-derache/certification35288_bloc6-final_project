@@ -1,0 +1,2 @@
+model,r2_score_train,r2_score_test,MAPE_train,MAPE_test,surface_max,surface_min,prix_min,prix_max,prix_m2_mini,prix_m2_max
+XGBoost,0.8979252895170855,0.8253624190179822,0.009789424691138878,0.012952261893947136,180.0,15.0,40000.0,1000000.0,1200.0,8000.0
