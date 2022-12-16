@@ -1,10 +1,11 @@
-The project aims at predicting real estate prices for flats and houses in the city of Lyon (France).
+# FINAL PROJECT
+## Predicting real estate prices for flats and houses in the city of Lyon (France).
 
 Team of the project :
-- Arnaud Dalais : arnaud.dalais@free.fr
-- Christophe Derache : christophe.derache@gmail.com
-- Vincent Galli : galli.vincent.ts6@live.fr
-- Lise Gnos : lise.gnos@gmail.com
+- Arnaud Dalais          : arnaud.dalais@free.fr
+- Christophe Derache     : christophe.derache@gmail.com
+- Vincent Galli          : galli.vincent.ts6@live.fr
+- Lise Gnos              : lise.gnos@gmail.com
 
 The project contains 3 parts :
 - Data collection
