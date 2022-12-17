@@ -37,7 +37,7 @@ Team of the project :
 
 Our data come from several sources. Here is an illustration in order to understand the process :
 
-![data collection process](image/data_collection.png)
+![data collection process](image_readme/data_collection.png)
 
 ## Source 1 : 'Demande de valeurs foncières'
 
