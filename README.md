@@ -52,8 +52,8 @@ EDA_and_cleaning:
 
 In this notebook we take the csv file from Etalab for the city of Lyon. The file gives all the realties sold since 2017 in Lyon city. Added columns from database of insee: 'index_prix'
 
-> Output of the notebook : 'src/immo_lyon17_22_last.csv' ready for adding the web scraping step
-> Output of the notebook : 'src/immo_lyon17_22Epuré.csv' ready for being used on the streamlit app
+> Output of the notebook : 'src/immo_lyon17_22_last.csv' ready for adding the web scraping step\
+> Output of the notebook : 'src/immo_lyon17_22Epuré.csv' ready for being used on the streamlit app\
 
 > Notebook : ‘data_collection/EDA_and_cleaning/etalab_EDA.ipynb’
 
