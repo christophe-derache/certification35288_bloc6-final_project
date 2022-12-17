@@ -4,7 +4,7 @@
 - **Contact**: *Christophe DERACHE*
 - **E-mail**&nbsp;&nbsp;: *christophe.derache@gmail.com*
 
-> Video link : 👉  👈
+> Video link : 👉 https://share.vidyard.com/watch/NPdGUYDeMyFjexUWLtd2ML? 👈
 
 ***The project aims at predicting real estate prices for flats and houses in the city of Lyon (France).***
 
